@@ -1,0 +1,148 @@
+[
+  {
+    "id": "1",
+    "name": "Pro Training Tee",
+    "price": 799,
+    "originalPrice": 1199,
+    "category": "men",
+    "badge": "Best seller",
+    "images": ["/images/product-1.jpg"],
+    "colors": [
+      { "name": "Black", "hex": "#1a1a1a" },
+      { "name": "White", "hex": "#ffffff" },
+      { "name": "Red",   "hex": "#e53e3e" }
+    ],
+    "sizes": [
+      { "label": "S",  "available": true  },
+      { "label": "M",  "available": true  },
+      { "label": "L",  "available": true  },
+      { "label": "XL", "available": false }
+    ],
+    "description": "Lightweight, moisture-wicking training tee for high-intensity workouts.",
+    "related": ["2", "3"]
+  },
+  {
+    "id": "2",
+    "name": "Flex Track Pants",
+    "price": 1299,
+    "originalPrice": 1999,
+    "category": "men",
+    "images": ["/images/product-2.jpg"],
+    "colors": [
+      { "name": "Black", "hex": "#1a1a1a" },
+      { "name": "Navy",  "hex": "#1a365d" }
+    ],
+    "sizes": [
+      { "label": "S",   "available": true },
+      { "label": "M",   "available": true },
+      { "label": "L",   "available": true },
+      { "label": "XL",  "available": true },
+      { "label": "XXL", "available": true }
+    ],
+    "description": "Comfortable track pants with four-way stretch for full range of motion.",
+    "related": ["1", "3"]
+  },
+  {
+    "id": "3",
+    "name": "Running Shoes – Speed Pro",
+    "price": 2499,
+    "originalPrice": 3499,
+    "category": "shoes",
+    "badge": "New",
+    "images": ["/images/product-3.jpg"],
+    "colors": [
+      { "name": "White", "hex": "#ffffff" },
+      { "name": "Black", "hex": "#1a1a1a" }
+    ],
+    "sizes": [
+      { "label": "7",  "available": true },
+      { "label": "8",  "available": true },
+      { "label": "9",  "available": true },
+      { "label": "10", "available": true },
+      { "label": "11", "available": false }
+    ],
+    "description": "Engineered for speed. Ultra-lightweight sole with superior grip.",
+    "related": ["4", "5"]
+  },
+  {
+    "id": "4",
+    "name": "Pull-up Bar – Pro Max",
+    "price": 1899,
+    "originalPrice": 2499,
+    "category": "equipment",
+    "images": ["/images/product-4.jpg"],
+    "colors": [],
+    "sizes": [],
+    "description": "Heavy-duty doorframe pull-up bar. Supports up to 150kg.",
+    "related": ["5", "6"]
+  },
+  {
+    "id": "5",
+    "name": "Women's Leggings – Flex Fit",
+    "price": 999,
+    "originalPrice": 1499,
+    "category": "women",
+    "images": ["/images/product-5.jpg"],
+    "colors": [
+      { "name": "Black",  "hex": "#1a1a1a" },
+      { "name": "Purple", "hex": "#553c9a" },
+      { "name": "Teal",   "hex": "#2c7a7b" }
+    ],
+    "sizes": [
+      { "label": "XS", "available": true },
+      { "label": "S",  "available": true },
+      { "label": "M",  "available": true },
+      { "label": "L",  "available": true }
+    ],
+    "description": "High-waist compression leggings with phone pocket and squat-proof fabric.",
+    "related": ["6", "1"]
+  },
+  {
+    "id": "6",
+    "name": "Wrist Support Wrap",
+    "price": 349,
+    "category": "supports",
+    "images": ["/images/product-6.jpg"],
+    "colors": [
+      { "name": "Black", "hex": "#1a1a1a" },
+      { "name": "Grey",  "hex": "#718096" }
+    ],
+    "sizes": [
+      { "label": "One size", "available": true }
+    ],
+    "description": "Adjustable wrist wrap for weightlifting and cross-training support.",
+    "related": ["4", "5"]
+  },
+  {
+    "id": "7",
+    "name": "Badminton Shoes – Smash X",
+    "price": 1799,
+    "originalPrice": 2299,
+    "category": "shoes",
+    "images": ["/images/product-7.jpg"],
+    "colors": [{ "name": "Blue", "hex": "#2b6cb0" }],
+    "sizes": [
+      { "label": "7",  "available": true },
+      { "label": "8",  "available": true },
+      { "label": "9",  "available": true },
+      { "label": "10", "available": true }
+    ],
+    "description": "Non-marking sole with extra cushioning for court sports.",
+    "related": ["3", "8"]
+  },
+  {
+    "id": "8",
+    "name": "Yoga Mat – Grip Pro",
+    "price": 599,
+    "originalPrice": 899,
+    "category": "yoga",
+    "images": ["/images/product-8.jpg"],
+    "colors": [
+      { "name": "Purple", "hex": "#553c9a" },
+      { "name": "Blue",   "hex": "#2b6cb0" }
+    ],
+    "sizes": [],
+    "description": "6mm thick anti-slip yoga mat with carrying strap.",
+    "related": ["5", "6"]
+  }
+]

@@ -1,0 +1,6 @@
+[
+   
+  { "name": "Petology",   "slug": "petology",     "image": "/Images/Petology.jpg"     },
+  { "name": "Bodylastics", "slug": "bodylastics",       "image": "/Images/bodylastics.jpg"},
+  { "name": "Fitlastics",  "slug": "fitlastics",     "image": "/Images/fitlastics.jpg"     }
+]
