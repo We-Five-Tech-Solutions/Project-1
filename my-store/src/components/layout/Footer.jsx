@@ -1,131 +1,69 @@
 import { Link } from 'react-router-dom'
 
-const footerLinks = {
-  'Company Info': [
-    { label: 'Privacy Policy', href: '/privacy' },
-    { label: 'Terms and Conditions', href: '/terms' },
-    { label: 'About us', href: '/about' },
-  ],
-  'Useful Links': [
-    { label: 'Return Policy', href: '/returns' },
-    { label: 'Shipping Policy', href: '/shipping' },
-    { label: 'Warranty Policy', href: '/warranty' },
-  ],
-  'Shop': [
-    { label: 'All products', href: '/collections/all' },
-    { label: 'New arrivals', href: '/collections/new' },
-    { label: 'Sale', href: '/collections/sale' },
-  ],
-  'Support': [
-    { label: 'Contact Us', href: '/contact' },
-  ],
-}
-
 export default function Footer() {
   return (
-    <footer className="bg-[#0b0b0b] text-gray-400 pt-14">
-      
-      {/* Top Grid */}
-      <div className="max-w-7xl mx-auto px-6 grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-10">
-        
+    <footer className="bg-[#2C2C2A] text-gray-400 pt-14 pb-8 mt-8">
+      <div className="max-w-7xl mx-auto px-4 grid grid-cols-2 md:grid-cols-4 gap-10">
+
         {/* Brand */}
-        <div className="col-span-2">
-          <p className="text-white font-semibold text-lg mb-3">
-            rgrglobalstore
+        <div>
+          <p className="text-white font-extrabold text-xl mb-4 tracking-tighter">MY STORE</p>
+          <p className="text-sm leading-relaxed mb-5">
+            Three powerful brands. One destination for your wellness and fitness journey.
           </p>
-          <p className="text-sm mb-4 leading-relaxed text-gray-500">
-            Premium fitness gear for every athlete.
-          </p>
-
-          {/* Email */}
-          <p className="text-sm mb-4">
-            <span className="text-gray-500">Email:</span>{' '}
-            <a
-              href="mailto:support@rgrglobalstore.com"
-              className="hover:text-white transition"
-            >
-              support@rgrglobalstore.com
-            </a>
-          </p>
-
-          {/* Social */}
-          <div className="flex gap-3">
+          <div className="flex gap-2">
             {['IG', 'FB', 'YT'].map((s) => (
-              <div
-                key={s}
-                className="w-8 h-8 border border-gray-700 rounded flex items-center justify-center text-xs hover:border-white hover:text-white transition"
-              >
+              <a key={s} href="#" className="w-9 h-9 border border-gray-600 rounded-lg flex items-center justify-center text-xs font-bold hover:border-white hover:text-white transition-colors">
                 {s}
-              </div>
+              </a>
             ))}
           </div>
         </div>
 
-        {/* Links */}
-        {Object.entries(footerLinks).map(([title, links]) => (
-          <div key={title}>
-            <p className="text-white text-xs tracking-widest uppercase mb-4">
-              {title}
-            </p>
-            <ul className="space-y-2">
-              {links.map((l) => (
-                <li key={l.label}>
-                  <Link
-                    to={l.href}
-                    className="text-sm text-gray-500 hover:text-white transition"
-                  >
-                    {l.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-        ))}
-      </div>
+        {/* Our brands */}
+        <div>
+          <p className="text-white text-sm font-semibold mb-4">Our brands</p>
+          <ul className="space-y-2.5 text-sm">
+            <li><Link to="/collections/petalogy"      className="hover:text-white transition-colors">Petalogy</Link></li>
+            <li><Link to="/collections/bodylogistics" className="hover:text-white transition-colors">Bodylogistics</Link></li>
+            <li><Link to="/collections/fitlogistics"  className="hover:text-white transition-colors">FitLogistics</Link></li>
+          </ul>
+        </div>
 
-      {/* Divider */}
-      <div className="border-t border-gray-800 mt-12"></div>
+        {/* Help — no track order, no returns, no warranty */}
+        <div>
+          <p className="text-white text-sm font-semibold mb-4">Help</p>
+          <ul className="space-y-2.5 text-sm">
+            <li><Link to="/faq"     className="hover:text-white transition-colors">FAQs</Link></li>
+            <li><Link to="/contact" className="hover:text-white transition-colors">Contact us</Link></li>
+            <li><Link to="/about"   className="hover:text-white transition-colors">About us</Link></li>
+          </ul>
+        </div>
 
-      {/* Newsletter */}
-      <div className="max-w-7xl mx-auto px-6 py-10">
-        <p className="text-white text-xs tracking-widest uppercase mb-3">
-          Newsletter
-        </p>
-        <p className="text-white-200 text-lg mb-6 max-w-md">
-          Subscribe to our newsletter and get some percentage off your first purchase
-        </p>
-
-        <div className="flex max-w-md">
+        {/* Newsletter */}
+        <div>
+          <p className="text-white text-sm font-semibold mb-4">Newsletter</p>
+          <p className="text-xs text-gray-500 mb-3 leading-relaxed">
+            Get new arrivals and exclusive deals straight to your inbox.
+          </p>
           <input
             type="email"
-            placeholder="Email address"
-            className="flex-1 bg-gray-200 text-black px-4 py-3 text-sm outline-none"
+            placeholder="your@email.com"
+            className="w-full px-3 py-2.5 text-sm bg-[#3a3a38] border border-gray-600 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-gray-400 mb-2"
           />
-          <button className="bg-gray-200 text-black px-6 text-xs tracking-widest font-medium hover:bg-white transition">
-            SUBSCRIBE
+          <button className="w-full py-2.5 bg-white text-black text-sm font-bold rounded-lg hover:bg-gray-200 transition-colors">
+            Subscribe
           </button>
         </div>
       </div>
 
-      {/* Bottom */}
-      <div className="border-t border-gray-800">
-        <div className="max-w-7xl mx-auto px-6 py-6 text-xs text-gray-500 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p>© {new Date().getFullYear()} rgrglobalstore. All rights reserved.</p>
-
-          {/* Payment placeholders */}
-          <div className="flex gap-2">
-            {['VISA', 'MC', 'AMEX', 'UPI'].map((p) => (
-              <div
-                key={p}
-                className="px-2 py-1 border border-gray-700 text-[10px]"
-              >
-                {p}
-              </div>
-            ))}
-          </div>
+      <div className="max-w-7xl mx-auto px-4 mt-12 pt-6 border-t border-gray-700 text-xs text-gray-600 flex flex-wrap justify-between gap-2">
+        <span>© {new Date().getFullYear()} My Store. All rights reserved.</span>
+        <div className="flex gap-4">
+          <Link to="/privacy" className="hover:text-gray-400 transition-colors">Privacy policy</Link>
+          <Link to="/terms"   className="hover:text-gray-400 transition-colors">Terms of service</Link>
         </div>
       </div>
-
     </footer>
   )
 }

@@ -2,8 +2,7 @@
 import { useState } from "react";
 import { useParams } from "react-router-dom";
 import { useProduct } from "@/hooks/useProducts";
-import { useCartStore } from "@/store/cartStore";
-import { useUIStore } from "@/store/uiStore";
+
 import ProductGallery from "@/components/product/ProductGallery";
 import SizeSelector from "@/components/product/SizeSelector";
 import ColorSelector from "@/components/product/ColorSelector";
@@ -16,41 +15,53 @@ import { formatPrice } from "@/utils/formatPrice";
 export default function ProductPage() {
   const { id } = useParams();
   const { data: product, isLoading } = useProduct(id);
-  const addItem = useCartStore((s) => s.addItem);
-  const openCart = useUIStore((s) => s.openCart);
+
   const [selectedSize, setSelectedSize] = useState(null);
   const [selectedColor, setSelectedColor] = useState(null);
   const [qty, setQty] = useState(1);
 
   if (isLoading) return <Spinner />;
-  if (!product)
-    return <p className="p-8 text-center text-gray-500">Product not found.</p>;
 
-  const handleAddToCart = () => {
-    addItem({ ...product, selectedSize, selectedColor, qty });
-    openCart();
-  };
+  if (!product) {
+    return (
+      <p className="p-8 text-center text-gray-500">
+        Product not found.
+      </p>
+    );
+  }
 
   const handleRedirectToAmazon = () => {
-    if (!product?.amazonLink) return;
+    if (!product?.amazonLink) {
+      alert("Amazon link is not available for this product.");
+      return;
+    }
 
     window.open(product.amazonLink, "_blank", "noopener,noreferrer");
   };
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
+      {/* Breadcrumb */}
       <Breadcrumb
         crumbs={[
-          { label: product.category, href: `/collections/${product.category}` },
+          {
+            label: product.category,
+            href: `/collections/${product.category}`,
+          },
           { label: product.name },
         ]}
       />
 
+      {/* Product Section */}
       <div className="grid md:grid-cols-2 gap-10">
+        {/* Product Images */}
         <ProductGallery images={product.images} />
 
+        {/* Product Details */}
         <div>
           <h1 className="text-2xl font-bold mb-2">{product.name}</h1>
+
+          {/* Price */}
           <div className="flex items-baseline gap-3 mb-4">
             <span className="text-2xl font-bold">
               {formatPrice(product.price)}
@@ -62,6 +73,7 @@ export default function ProductPage() {
             )}
           </div>
 
+          {/* Color Selection */}
           {product.colors?.length > 0 && (
             <div className="mb-4">
               <ColorSelector
@@ -72,6 +84,7 @@ export default function ProductPage() {
             </div>
           )}
 
+          {/* Size Selection */}
           {product.sizes?.length > 0 && (
             <div className="mb-6">
               <SizeSelector
@@ -82,18 +95,12 @@ export default function ProductPage() {
             </div>
           )}
 
+          {/* Quantity */}
           <div className="flex items-center gap-4 mb-6">
             <QuantityInput value={qty} onChange={setQty} />
           </div>
 
-          {/**  <button
-            onClick={handleAddToCart}
-            className="w-full bg-black text-white py-4 rounded-xl font-medium hover:bg-gray-900 transition-colors"
-          >
-            Add to cart — {formatPrice(product.price * qty)}
-          </button>
-          <br/>  
-          <br/>*/}
+          {/* Buy from Amazon Button */}
           <button
             onClick={handleRedirectToAmazon}
             className="w-full bg-black text-white py-4 rounded-xl font-medium hover:bg-gray-900 transition-colors"
@@ -101,6 +108,7 @@ export default function ProductPage() {
             Buy it from Amazon — {formatPrice(product.price * qty)}
           </button>
 
+          {/* Product Description */}
           {product.description && (
             <div className="mt-8 prose prose-sm text-gray-600">
               <h3 className="font-semibold text-black text-sm mb-2">
@@ -112,7 +120,10 @@ export default function ProductPage() {
         </div>
       </div>
 
-      <RelatedProducts products={product.related} />
+      {/* Related Products */}
+      {product.related?.length > 0 && (
+        <RelatedProducts products={product.related} />
+      )}
     </div>
   );
 }

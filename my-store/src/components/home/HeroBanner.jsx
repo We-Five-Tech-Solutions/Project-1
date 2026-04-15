@@ -3,7 +3,8 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
-
+import heroimg1 from '../../assets/images/Petology_B.jpg'
+import heroimg2 from '../../assets/images/fit.png'
 
 const slides = [
   {
@@ -12,7 +13,7 @@ const slides = [
     subtitle: 'New arrivals — up to 40% off',
     cta: { label: 'Shop now', href: '/collections/new' },
     bg: '#f0f0f0',
-    // src : heroimg1,
+    src : heroimg1,
   },
   {
     id: 2,
@@ -20,7 +21,7 @@ const slides = [
     subtitle: 'Premium lifting gear',
     cta: { label: 'Shop lifting', href: '/collections/lifting' },
     bg: '#e8e8e8',
-    // src : heroimg2,
+    src : heroimg2,
   },
   {
     id: 3,

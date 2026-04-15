@@ -1,18 +1,24 @@
 // Single product tile used in grids and carousels
-// Shows: image, name, price, discount badge, quick-add on hover
+// Shows: image, name, price, discount badge, Amazon buy button
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
-import { useCartStore } from '@/store/cartStore'
 import { formatPrice, discountPercent } from '@/utils/formatPrice'
 import ProductBadge from './ProductBadge'
 
 export default function ProductCard({ product }) {
   const [hovered, setHovered] = useState(false)
-  const addItem = useCartStore((s) => s.addItem)
 
   const discount = product.originalPrice
     ? discountPercent(product.originalPrice, product.price)
     : null
+
+  const handleRedirectToAmazon = () => {
+    if (!product?.amazonLink) {
+      alert('Amazon link is not available for this product.')
+      return
+    }
+    window.open(product.amazonLink, '_blank', 'noopener,noreferrer')
+  }
 
   return (
     <div
@@ -21,36 +27,56 @@ export default function ProductCard({ product }) {
       onMouseLeave={() => setHovered(false)}
     >
       {/* Image */}
-      <Link to={`/products/${product.id}`} className="block relative aspect-square overflow-hidden bg-gray-50">
+      <Link
+        to={`/products/${product.id}`}
+        className="block relative aspect-square overflow-hidden bg-gray-50"
+      >
         <img
           src={product.images?.[0] || '/placeholder.jpg'}
           alt={product.name}
           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
         />
-        {discount && <ProductBadge label={`-${discount}%`} color="green" />}
-        {product.badge && <ProductBadge label={product.badge} color="black" position="top-left" />}
+        {discount && (
+          <ProductBadge label={`-${discount}%`} color="green" />
+        )}
+        {product.badge && (
+          <ProductBadge
+            label={product.badge}
+            color="black"
+            position="top-left"
+          />
+        )}
       </Link>
 
       {/* Info */}
       <div className="p-3">
         <Link to={`/products/${product.id}`}>
-          <p className="text-sm font-medium text-gray-900 truncate hover:text-black">{product.name}</p>
+          <p className="text-sm font-medium text-gray-900 truncate hover:text-black">
+            {product.name}
+          </p>
         </Link>
+
         <div className="flex items-baseline gap-2 mt-1">
-          <span className="text-sm font-bold">{formatPrice(product.price)}</span>
+          <span className="text-sm font-bold">
+            {formatPrice(product.price)}
+          </span>
           {product.originalPrice && (
-            <span className="text-xs text-gray-400 line-through">{formatPrice(product.originalPrice)}</span>
+            <span className="text-xs text-gray-400 line-through">
+              {formatPrice(product.originalPrice)}
+            </span>
           )}
         </div>
 
-        {/* Quick add button — visible on hover */}
+        {/* Buy from Amazon Button */}
         <button
-          onClick={() => addItem(product)}
-          className={`mt-2 w-full py-2 text-xs font-medium border border-gray-900 rounded transition-all duration-200 ${
-            hovered ? 'bg-black text-white' : 'bg-white text-black'
+          onClick={handleRedirectToAmazon}
+          className={`mt-3 w-full py-2 text-xs font-medium rounded transition-all duration-200 ${
+            hovered
+              ? 'bg-black text-white'
+              : 'bg-white text-black border border-gray-900'
           }`}
         >
-          + Add to cart
+          Buy it from Amazon
         </button>
       </div>
     </div>
