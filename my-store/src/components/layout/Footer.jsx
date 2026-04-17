@@ -2,18 +2,27 @@ import { Link } from 'react-router-dom'
 
 export default function Footer() {
   return (
-    <footer className="bg-[#2C2C2A] text-gray-400 pt-14 pb-8 mt-8">
-      <div className="max-w-7xl mx-auto px-4 grid grid-cols-2 md:grid-cols-4 gap-10">
+    <footer className="bg-black text-gray-400 pt-16 pb-10 mt-10">
+      
+      {/* Top Section */}
+      <div className="max-w-7xl mx-auto px-6 grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-10">
 
         {/* Brand */}
-        <div>
-          <p className="text-white font-extrabold text-xl mb-4 tracking-tighter">MY STORE</p>
-          <p className="text-sm leading-relaxed mb-5">
+        <div className="col-span-2">
+          <p className="text-white font-extrabold text-2xl mb-4 tracking-tight">
+            RGR GLOABL STORE
+          </p>
+          <p className="text-sm text-gray-500 leading-relaxed mb-6 max-w-sm">
             Three powerful brands. One destination for your wellness and fitness journey.
           </p>
-          <div className="flex gap-2">
+
+          <div className="flex gap-3">
             {['IG', 'FB', 'YT'].map((s) => (
-              <a key={s} href="#" className="w-9 h-9 border border-gray-600 rounded-lg flex items-center justify-center text-xs font-bold hover:border-white hover:text-white transition-colors">
+              <a
+                key={s}
+                href="#"
+                className="w-10 h-10 border border-gray-700 rounded-md flex items-center justify-center text-xs font-semibold hover:border-white hover:text-white transition-all"
+              >
                 {s}
               </a>
             ))}
@@ -22,46 +31,66 @@ export default function Footer() {
 
         {/* Our brands */}
         <div>
-          <p className="text-white text-sm font-semibold mb-4">Our brands</p>
-          <ul className="space-y-2.5 text-sm">
-            <li><Link to="/collections/petalogy"      className="hover:text-white transition-colors">Petalogy</Link></li>
-            <li><Link to="/collections/bodylogistics" className="hover:text-white transition-colors">Bodylogistics</Link></li>
-            <li><Link to="/collections/fitlogistics"  className="hover:text-white transition-colors">FitLogistics</Link></li>
-          </ul>
-        </div>
-
-        {/* Help — no track order, no returns, no warranty */}
-        <div>
-          <p className="text-white text-sm font-semibold mb-4">Help</p>
-          <ul className="space-y-2.5 text-sm">
-            <li><Link to="/faq"     className="hover:text-white transition-colors">FAQs</Link></li>
-            <li><Link to="/contact" className="hover:text-white transition-colors">Contact us</Link></li>
-            <li><Link to="/about"   className="hover:text-white transition-colors">About us</Link></li>
-          </ul>
-        </div>
-
-        {/* Newsletter */}
-        <div>
-          <p className="text-white text-sm font-semibold mb-4">Newsletter</p>
-          <p className="text-xs text-gray-500 mb-3 leading-relaxed">
-            Get new arrivals and exclusive deals straight to your inbox.
+          <p className="text-xs tracking-widest text-gray-500 uppercase mb-5">
+            Our Brands
           </p>
-          <input
-            type="email"
-            placeholder="your@email.com"
-            className="w-full px-3 py-2.5 text-sm bg-[#3a3a38] border border-gray-600 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:border-gray-400 mb-2"
-          />
-          <button className="w-full py-2.5 bg-white text-black text-sm font-bold rounded-lg hover:bg-gray-200 transition-colors">
-            Subscribe
-          </button>
+          <ul className="space-y-3 text-sm">
+            <li><Link to="/collections/petology" className="hover:text-white transition">Petology</Link></li>
+            <li><Link to="/collections/bodylastics" className="hover:text-white transition">Bodylastics</Link></li>
+            <li><Link to="/collections/fitlastics" className="hover:text-white transition">FitLastics</Link></li>
+          </ul>
         </div>
+
+        {/* Support */}
+        <div>
+          <p className="text-xs tracking-widest text-gray-500 uppercase mb-5">
+            Support
+          </p>
+          <ul className="space-y-3 text-sm">
+            <li><Link to="/contact" className="hover:text-white transition">Contact us</Link></li>
+            <li><Link to="/about" className="hover:text-white transition">About us</Link></li>
+          </ul>
+        </div>
+
+        {/* ✅ Newsletter moved HERE */}
+        <div className="col-span-2 lg:col-span-2">
+          <p className="text-xs tracking-widest text-gray-500 uppercase mb-4">
+            Newsletter
+          </p>
+
+          <p className="text-sm text-gray-400 mb-6 max-w-md">
+            Subscribe to our newsletter and get exclusive deals on your first purchase.
+          </p>
+
+          <div className="flex bg-white rounded-md overflow-hidden">
+            <input
+              type="email"
+              placeholder="Email address"
+              className="flex-1 px-4 py-3 text-sm text-black outline-none"
+            />
+            <button className="px-5 text-xs font-semibold tracking-widest text-black hover:bg-gray-200 transition">
+              SUBSCRIBE
+            </button>
+          </div>
+        </div>
+
       </div>
 
-      <div className="max-w-7xl mx-auto px-4 mt-12 pt-6 border-t border-gray-700 text-xs text-gray-600 flex flex-wrap justify-between gap-2">
-        <span>© {new Date().getFullYear()} My Store. All rights reserved.</span>
-        <div className="flex gap-4">
-          <Link to="/privacy" className="hover:text-gray-400 transition-colors">Privacy policy</Link>
-          <Link to="/terms"   className="hover:text-gray-400 transition-colors">Terms of service</Link>
+      {/* Divider */}
+      <div className="max-w-7xl mx-auto px-6 mt-14 border-t border-gray-800 pt-6">
+
+        {/* Bottom */}
+        <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-gray-600">
+          <span>© {new Date().getFullYear()} RGR Global Store. All rights reserved.</span>
+
+          <div className="flex gap-6">
+            <Link to="/privacy" className="hover:text-gray-300 transition">
+              Privacy Policy
+            </Link>
+            <Link to="/terms" className="hover:text-gray-300 transition">
+              Terms & Conditions
+            </Link>
+          </div>
         </div>
       </div>
     </footer>

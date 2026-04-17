@@ -1,5 +1,4 @@
-// Main image + thumbnail strip for the ProductPage
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 
 // Helper to generate responsive Amazon image sizes
 const getAmazonImage = (url, size) => {
@@ -9,6 +8,18 @@ const getAmazonImage = (url, size) => {
 
 export default function ProductGallery({ images = [] }) {
   const [selected, setSelected] = useState(0)
+  const [isPaused, setIsPaused] = useState(false)
+
+  // Auto scroll
+  useEffect(() => {
+    if (images.length <= 1 || isPaused) return
+
+    const interval = setInterval(() => {
+      setSelected((prev) => (prev + 1) % images.length)
+    }, 2000)
+
+    return () => clearInterval(interval)
+  }, [images.length, isPaused])
 
   if (images.length === 0) {
     return <div className="aspect-square bg-gray-100 rounded-xl" />
@@ -17,7 +28,11 @@ export default function ProductGallery({ images = [] }) {
   const selectedImage = images[selected]
 
   return (
-    <div className="flex flex-col gap-3">
+    <div
+      className="flex flex-col gap-3"
+      onMouseEnter={() => setIsPaused(true)}
+      onMouseLeave={() => setIsPaused(false)}
+    >
       {/* Main image */}
       <div className="aspect-square rounded-xl overflow-hidden bg-gray-50">
         <img

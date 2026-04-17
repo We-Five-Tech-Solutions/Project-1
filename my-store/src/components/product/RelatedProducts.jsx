@@ -7,7 +7,6 @@ export default function RelatedProducts({ products = [] }) {
 
   return (
     <section className="py-10">
-      <h2 className="text-xl font-bold mb-4">You may also like</h2>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
         {products.slice(0, 4).map((p) => (
           <ProductCard key={p.id} product={p} />

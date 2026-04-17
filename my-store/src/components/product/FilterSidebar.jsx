@@ -3,8 +3,7 @@
 import { useFilterStore } from '@/store/filterStore'
 import { useCategories } from '@/hooks/useProducts'
 
-const COLORS = ['Black', 'White', 'Red', 'Blue', 'Green', 'Yellow']
-const SIZES  = ['XS', 'S', 'M', 'L', 'XL', 'XXL']
+const COLORS = ['Black', 'Red', 'Blue', 'Yellow','Purple','Orange','Grey','White','Green']
 
 export default function FilterSidebar() {
   const { filters, setFilter, resetFilters } = useFilterStore()
@@ -75,7 +74,8 @@ export default function FilterSidebar() {
       </div>
 
       {/* Size */}
-      <div className="mb-6">
+      {/**
+       <div className="mb-6">
         <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">Size</p>
         <div className="flex flex-wrap gap-2">
           {SIZES.map((sz) => (
@@ -91,6 +91,7 @@ export default function FilterSidebar() {
           ))}
         </div>
       </div>
+       */}
     </aside>
   )
 }

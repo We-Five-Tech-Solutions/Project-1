@@ -1,5 +1,3 @@
-// Single product tile used in grids and carousels
-// Shows: image, name, price, discount badge, Amazon buy button
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { formatPrice, discountPercent } from '@/utils/formatPrice'
@@ -22,20 +20,25 @@ export default function ProductCard({ product }) {
 
   return (
     <div
-      className="group relative bg-white border border-gray-100 rounded-xl overflow-hidden hover:shadow-md transition-shadow"
+      className="group relative bg-white rounded-2xl overflow-hidden transition-all duration-300 hover:shadow-lg hover:-translate-y-1 h-full flex flex-col"
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
     >
       {/* Image */}
       <Link
         to={`/products/${product.id}`}
-        className="block relative aspect-square overflow-hidden bg-gray-50"
+        className="block relative h-64 overflow-hidden flex items-center justify-center bg-white"
       >
         <img
           src={product.images?.[0] || '/placeholder.jpg'}
           alt={product.name}
-          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+          className="max-h-full max-w-full object-contain transition-transform duration-300 group-hover:scale-105"
         />
+
+        {/* Overlay */}
+        <div className="absolute inset-0 bg-black/0 group-hover:bg-black/5 transition-colors duration-300" />
+
+        {/* Badges */}
         {discount && (
           <ProductBadge label={`-${discount}%`} color="green" />
         )}
@@ -49,36 +52,44 @@ export default function ProductCard({ product }) {
       </Link>
 
       {/* Info */}
-      <div className="p-3">
+      <div className="p-4 space-y-2 flex flex-col flex-grow">
         <Link to={`/products/${product.id}`}>
-          <p className="text-sm font-medium text-gray-900 truncate hover:text-black">
+          <p className="text-sm font-medium text-gray-800 line-clamp-2 min-h-[40px] group-hover:text-black transition">
             {product.name}
           </p>
         </Link>
 
-        <div className="flex items-baseline gap-2 mt-1">
-          <span className="text-sm font-bold">
-            {formatPrice(product.price)}
-          </span>
-          {product.originalPrice && (
-            <span className="text-xs text-gray-400 line-through">
-              {formatPrice(product.originalPrice)}
+        {/* Bottom section */}
+        <div className="mt-auto">
+          {/* Price */}
+          <div className="flex items-center gap-2">
+            <span className="text-base font-semibold text-black">
+              {formatPrice(product.price)}
             </span>
-          )}
-        </div>
 
-        {/* Buy from Amazon Button */}
-        <button
-          onClick={handleRedirectToAmazon}
-          className={`mt-3 w-full py-2 text-xs font-medium rounded transition-all duration-200 ${
-            hovered
-              ? 'bg-black text-white'
-              : 'bg-white text-black border border-gray-900'
-          }`}
-        >
-          Buy it from Amazon
-        </button>
+            {product.originalPrice && (
+              <span className="text-sm text-gray-400 line-through">
+                {formatPrice(product.originalPrice)}
+              </span>
+            )}
+          </div>
+
+          {/* Button */}
+          <button
+            onClick={handleRedirectToAmazon}
+            className={`
+              mt-3 w-full py-2.5 text-xs font-semibold tracking-wide rounded-lg transition-all duration-300
+              ${
+                hovered
+                  ? 'bg-black text-white'
+                  : 'bg-white text-black border border-gray-300 hover:border-black'
+              }   
+            `}
+          >
+            Buy on Amazon
+          </button>
+        </div>
       </div>
     </div>
   )
-}
+} 

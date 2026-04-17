@@ -6,9 +6,9 @@ export default function ColorSelector({ colors = [], selected, onChange }) {
         Color: <span className="font-bold">{selected || 'Select'}</span>
       </p>
       <div className="flex gap-2 flex-wrap">
-        {colors.map((color) => (
+        {colors.map((color,index) => (
           <button
-            key={color.name}
+            key={index}
             title={color.name}
             onClick={() => onChange(color.name)}
             className={`w-8 h-8 rounded-full border-2 transition-all ${

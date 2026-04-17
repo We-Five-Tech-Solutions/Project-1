@@ -3,7 +3,11 @@ import Layout from '@/components/layout/Layout'
 import HomePage from '@/pages/HomePage'
 import CollectionPage from '@/pages/CollectionPage'
 import ProductPage from '@/pages/ProductPage'
+import ContactPage from './pages/ContactPage'
+import AboutPage from './pages/AboutPage'
 import NotFoundPage from '@/pages/NotFoundPage'
+import PrivacyPage from '@/pages/PrivacyPage'
+import TermsPage from './pages/TermsPage'
 
 export default function App() {
   return (
@@ -12,6 +16,10 @@ export default function App() {
         <Route index element={<HomePage />} />
         <Route path="collections/:slug" element={<CollectionPage />} />
         <Route path="products/:id" element={<ProductPage />} />
+        <Route path="contact" element={<ContactPage />} />
+        <Route path="about" element={<AboutPage />} />
+        <Route path="privacy" element={<PrivacyPage />} />
+        <Route path="terms" element={<TermsPage />} />
         <Route path="*" element={<NotFoundPage />} />
       </Route>
     </Routes>

@@ -1,132 +1,163 @@
-import { useState, useRef, useEffect } from 'react'
-import { Link, NavLink } from 'react-router-dom'
-
-const navLinks = [
-  { label: 'Petalogy',      href: '/collections/petalogy'      },
-  { label: 'Bodylogistics', href: '/collections/bodylogistics' },
-  { label: 'FitLogistics',  href: '/collections/fitlogistics'  },
-  { label: 'Contact us',    href: '/contact'                   },
-]
+import { useState, useRef, useEffect } from "react";
+import { Link, useNavigate } from "react-router-dom";
+import { useProducts } from "@/hooks/useProducts";
+import { navLinks } from "@/data/navigation";
+import MegaMenu from "./MegaMenu";
 
 export default function Navbar() {
-  const [mobileOpen,  setMobileOpen]  = useState(false)
-  const [searchOpen,  setSearchOpen]  = useState(false)
-  const [searchQuery, setSearchQuery] = useState('')
-  const searchRef = useRef(null)
+  const [activeMenu, setActiveMenu] = useState(null);
+  const [showSearch, setShowSearch] = useState(false);
+  const [query, setQuery] = useState("");
 
+  const searchRef = useRef();
+  const navigate = useNavigate();
+
+  const { data: products = [] } = useProducts();
+
+  // 🔍 Filter
+  const filteredProducts = products.filter((p) =>
+    p.name.toLowerCase().includes(query.toLowerCase())
+  );
+
+  // ❌ Close on outside click
   useEffect(() => {
-    if (!searchOpen) return
-    const handler = (e) => {
+    const handleClickOutside = (e) => {
       if (searchRef.current && !searchRef.current.contains(e.target)) {
-        setSearchOpen(false)
+        setShowSearch(false);
       }
-    }
-    document.addEventListener('mousedown', handler)
-    return () => document.removeEventListener('mousedown', handler)
-  }, [searchOpen])
+    };
+
+    document.addEventListener("mousedown", handleClickOutside);
+    return () =>
+      document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
 
   return (
-    <header className="sticky top-0 z-50 bg-white border-b border-gray-100">
-      <nav className="max-w-7xl mx-auto px-4 flex items-center justify-between h-16 gap-4">
-
-        {/* Mobile hamburger */}
-        <button
-          className="md:hidden p-1 text-gray-700 hover:text-black"
-          onClick={() => setMobileOpen((v) => !v)}
-          aria-label="Toggle menu"
-        >
-          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-            {mobileOpen
-              ? <><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></>
-              : <><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></>
-            }
-          </svg>
-        </button>
-
+    <header className="sticky top-0 z-50 bg-black border-b border-gray-800">
+      <nav className="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16 text-white">
+        
         {/* Logo */}
-        <Link to="/" className="font-extrabold text-xl tracking-tighter shrink-0 hover:opacity-80 transition-opacity">
-          RGR Store
+        <Link to="/" className="flex items-center">
+          <img src="/logo.png" alt="logo" className="h-7 sm:h-8" />
         </Link>
 
-        {/* Desktop nav links */}
-        <ul className="hidden md:flex items-center gap-1 flex-1 justify-center">
+        {/* Nav Links */}
+        <ul className="hidden md:flex items-center gap-6 text-xs font-semibold tracking-wide uppercase">
           {navLinks.map((link) => (
-            <li key={link.label}>
-              <NavLink
+            <li
+              key={link.label}
+              className="relative group"
+              onMouseEnter={() => setActiveMenu(link.label)}
+              onMouseLeave={() => setActiveMenu(null)}
+            >
+              <Link
                 to={link.href}
-                className={({ isActive }) =>
-                  `px-4 py-2 text-sm font-medium rounded-lg transition-colors ${
-                    isActive ? 'text-black bg-gray-100' : 'text-gray-600 hover:text-black hover:bg-gray-50'
-                  }`
-                }
+                className="hover:text-gray-300 transition flex items-center gap-1"
               >
                 {link.label}
-              </NavLink>
+                {link.children && <span className="text-[10px]">▾</span>}
+              </Link>
+
+              {/* underline */}
+              <span className="absolute left-0 -bottom-1 w-0 h-[1px] bg-white transition-all duration-300 group-hover:w-full"></span>
+
+              {link.children && activeMenu === link.label && (
+                <MegaMenu items={link.children} />
+              )}
             </li>
           ))}
         </ul>
 
-        {/* Search bar */}
-        <div className="relative shrink-0" ref={searchRef}>
-          {!searchOpen ? (
-            <button
-              onClick={() => {
-                setSearchOpen(true)
-                setTimeout(() => searchRef.current?.querySelector('input')?.focus(), 50)
-              }}
-              className="flex items-center gap-2 px-3 py-2 text-sm text-gray-500 border border-gray-200 rounded-xl hover:border-gray-400 hover:text-black transition-colors"
+        {/* Right Section */}
+        <div className="flex items-center gap-4 relative" ref={searchRef}>
+          
+          {/* 🔍 Search */}
+          <button
+            onClick={() => setShowSearch((prev) => !prev)}
+            className="hover:text-gray-300 transition"
+          >
+            <svg
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              stroke="currentColor"
+              fill="none"
+              strokeWidth="2"
             >
-              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                <circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="22" y2="22"/>
-              </svg>
-              <span className="hidden sm:inline text-sm">Search</span>
-            </button>
-          ) : (
-            <div className="flex items-center gap-2 border border-black rounded-xl px-3 py-1.5 bg-white w-64">
-              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#888" strokeWidth="2">
-                <circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="22" y2="22"/>
-              </svg>
-              <input
-                type="text"
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                onKeyDown={(e) => e.key === 'Escape' && setSearchOpen(false)}
-                placeholder="Search products..."
-                className="flex-1 text-sm outline-none bg-transparent text-gray-900 placeholder-gray-400"
-                autoFocus
-              />
-              {searchQuery && (
-                <button onClick={() => setSearchQuery('')} className="text-gray-400 hover:text-black text-lg leading-none">×</button>
-              )}
-              <button onClick={() => { setSearchOpen(false); setSearchQuery('') }} className="text-xs text-gray-400 hover:text-black ml-1">Esc</button>
+              <circle cx="11" cy="11" r="7" />
+              <line x1="16.5" y1="16.5" x2="22" y2="22" />
+            </svg>
+          </button>
+
+          {/* 🔽 Search Dropdown */}
+          {showSearch && (
+            <div className="absolute right-0 top-12 w-[90vw] sm:w-[380px] md:w-[420px] bg-white text-black rounded-xl shadow-2xl border border-gray-100 overflow-hidden">
+              
+              {/* Input */}
+              <div className="flex items-center gap-2 px-3 sm:px-4 py-2.5 sm:py-3 border-b">
+                <input
+                  autoFocus
+                  type="text"
+                  placeholder="Search products..."
+                  value={query}
+                  onChange={(e) => setQuery(e.target.value)}
+                  className="flex-1 outline-none text-sm"
+                />
+                {query && (
+                  <button
+                    onClick={() => setQuery("")}
+                    className="text-gray-400 hover:text-black"
+                  >
+                    ✕
+                  </button>
+                )}
+              </div>
+
+              {/* Results */}
+              <div className="max-h-80 sm:max-h-96 overflow-y-auto">
+                {query ? (
+                  filteredProducts.length > 0 ? (
+                    filteredProducts.slice(0, 6).map((product) => (
+                      <div
+                        key={product.id}
+                        onClick={() => {
+                          navigate(`/products/${product.id}`);
+                          setShowSearch(false);
+                          setQuery("");
+                        }}
+                        className="flex items-center gap-3 px-3 sm:px-4 py-2.5 sm:py-3 hover:bg-gray-100 cursor-pointer transition"
+                      >
+                        <img
+                          src={product.images?.[0]}
+                          alt={product.name}
+                          className="w-12 h-12 sm:w-14 sm:h-14 object-cover rounded-lg border flex-shrink-0"
+                        />
+
+                        <div className="flex-1 min-w-0">
+                          <p className="text-sm font-medium truncate">
+                            {product.name}
+                          </p>
+                          <p className="text-xs text-gray-500 mt-1">
+                            ₹{product.price}
+                          </p>
+                        </div>
+                      </div>
+                    ))
+                  ) : (
+                    <p className="text-sm text-gray-500 p-6 text-center">
+                      No products found
+                    </p>
+                  )
+                ) : (
+                  <p className="text-xs text-gray-400 p-4">
+                    Try searching for "bands", "dog leash", "pet grooming"
+                  </p>
+                )}
+              </div>
             </div>
           )}
         </div>
       </nav>
-
-      {/* Mobile menu */}
-      {mobileOpen && (
-        <div className="md:hidden border-t border-gray-100 bg-white px-4 py-3 space-y-1">
-          {navLinks.map((link) => (
-            <Link
-              key={link.label}
-              to={link.href}
-              onClick={() => setMobileOpen(false)}
-              className="block py-2.5 text-sm font-medium text-gray-800 hover:text-black border-b border-gray-50 last:border-0"
-            >
-              {link.label}
-            </Link>
-          ))}
-          <div className="pt-2 pb-1">
-            <div className="flex items-center gap-2 border border-gray-200 rounded-xl px-3 py-2">
-              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="#888" strokeWidth="2">
-                <circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="22" y2="22"/>
-              </svg>
-              <input type="text" placeholder="Search products..." className="flex-1 text-sm outline-none text-gray-900 placeholder-gray-400"/>
-            </div>
-          </div>
-        </div>
-      )}
     </header>
-  )
+  );
 }

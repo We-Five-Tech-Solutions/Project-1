@@ -16,13 +16,29 @@
       "https://m.media-amazon.com/images/I/71RMb0Cb+dL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71MlOIJ3hZL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/61MS5vbSRSL._SL1500_.jpg"
-    
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Stainless Steel",
+      "colour": "Grey",
+      "size": "1 Count",
+      "power_source": "Manual",
+      "about": [
+        "Dual-size teeth for removing tangles, mats, loose hair and fleas",
+        "Rounded tips for gentle grooming",
+        "Suitable for all coat types",
+        "Non-irritating polished steel",
+        "Expert-designed grooming tool"
+      ]
+    },
+    "colors": ["Grey"],
     "sizes": [],
     "description": "Professional grooming comb with rounded teeth for dogs and cats.",
     "amazonLink": "https://www.amazon.in/dp/B07D4PJ28L",
-    "related": ["2", "3"]
+    "related": ["2", "3"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "2",
@@ -42,11 +58,27 @@
       "https://m.media-amazon.com/images/I/71PKzajQeBL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/817QgVhJi3L._SL1500_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Alloy Steel, Neoprene, Nylon",
+      "colour": "Red",
+      "closure_type": "Buckle, Snap",
+      "about": [
+        "Perfect fit for X-Large dogs (50–60 cm neck)",
+        "Soft neoprene lining prevents irritation",
+        "Reflective nylon for visibility",
+        "360° swivel clasp prevents tangling",
+        "Durable and easy to clean"
+      ]
+    },
+    "colors": ["red"],
     "sizes": [],
     "description": "Reflective leash and collar set for extra large dogs.",
     "amazonLink": "https://www.amazon.in/dp/B0FZ5QYR8R",
-    "related": ["1", "4"]
+    "related": ["1", "4"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "3",
@@ -65,11 +97,27 @@
       "https://m.media-amazon.com/images/I/61uB0Dbo0XL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/61vLbiO5C6L._SL1500_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Alloy Steel, Neoprene, Nylon",
+      "colour": "Orange",
+      "pattern": "Solid",
+      "about": [
+        "Perfect fit for medium dogs (30–40 cm neck)",
+        "Soft neoprene padded lining",
+        "Reflective durable nylon",
+        "Tangle-free swivel clasp",
+        "Comfortable daily use"
+      ]
+    },
+    "colors": ["orange"],
     "sizes": [],
     "description": "Comfortable and durable leash set for medium dogs.",
     "amazonLink": "https://www.amazon.in/dp/B0FZ5PBV4B",
-    "related": ["2", "4"]
+    "related": ["2", "4"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "4",
@@ -89,11 +137,26 @@
       "https://m.media-amazon.com/images/I/71542DKmeKL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71qBJXgIrJS._SL1500_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Alloy Steel, Neoprene, Nylon",
+      "colour": "Pink",
+      "about": [
+        "Perfect fit for small dogs (20–30 cm neck)",
+        "Soft neoprene padding",
+        "Reflective safety design",
+        "Durable and comfortable",
+        "Easy maintenance"
+      ]
+    },
+    "colors": ["pink"],
     "sizes": [],
     "description": "Lightweight leash and collar set for small dogs.",
     "amazonLink": "https://www.amazon.in/dp/B0FZ5MNFBG",
-    "related": ["2", "3"]
+    "related": ["2", "3"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "5",
@@ -112,11 +175,29 @@
       "https://m.media-amazon.com/images/I/61eIqQ9YZnL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71nPcxWx4KL._SL1500_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Alloy Steel, Neoprene, Nylon",
+      "colour": "Red",
+      "pattern": "Solid",
+      "about": [
+        "Reflective safety stitching",
+        "Adjustable custom fit",
+        "Soft neoprene padding",
+        "Durable nylon webbing",
+        "Quick-release buckle",
+        "Comfortable for daily use",
+        "No-rub edges"
+      ]
+    },
+    "colors": ["red"],
     "sizes": [],
     "description": "Soft padded adjustable collar for extra large dogs.",
     "amazonLink": "https://www.amazon.in/dp/B0FSZXC62Q",
-    "related": ["6", "7"]
+    "related": ["6", "7"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "6",
@@ -135,11 +216,31 @@
       "https://m.media-amazon.com/images/I/71J9Q2HayxL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71X3w2bcQxL._SL1500_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Alloy Steel, Neoprene, Nylon",
+      "colour": "Purple",
+      "pattern": "Solid",
+      "about": [
+        "Reflective safety stitching",
+        "Adjustable fit",
+        "Soft neoprene padding",
+        "Durable nylon",
+        "Quick-release buckle",
+        "Comfortable daily use",
+        "No-rub edges",
+        "Stylish design",
+        "Easy to clean"
+      ]
+    },
+    "colors": ["purple"],
     "sizes": [],
     "description": "Durable adjustable collar for large dogs.",
     "amazonLink": "https://www.amazon.in/dp/B0FT12KP39",
-    "related": ["5", "7"]
+    "related": ["5", "7"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   },
   {
     "id": "7",
@@ -148,8 +249,21 @@
     "originalPrice": 1999,
     "category": "petology",
     "badge": "Trending",
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Alloy Steel, Neoprene, Nylon",
+      "colour": "Purple",
+      "pattern": "Solid",
+      "about": [
+        "Reflective stitching for safety",
+        "Adjustable fit for all breeds",
+        "Soft neoprene padding",
+        "Durable nylon construction",
+        "Quick-release buckle",
+        "Comfortable everyday wear"
+      ]
+    },
     "images": [
-      
       "https://m.media-amazon.com/images/I/716H-KumdVL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71HCMPqY8OL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71eoC3WT5PL._SL1500_.jpg",
@@ -159,13 +273,15 @@
       "https://m.media-amazon.com/images/I/71vFj71gNaL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71J9Q2HayxL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71X3w2bcQxL._SL1500_.jpg"
-    
     ],
-    "colors": [],
+    "colors": ["purple"],
     "sizes": [],
     "description": "Comfortable adjustable collar for medium dogs.",
     "amazonLink": "https://www.amazon.in/dp/B0FT14X9NV",
-    "related": ["5", "6"]
+    "related": ["5", "6"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   },
   {
     "id": "8",
@@ -173,6 +289,7 @@
     "price": 199,
     "originalPrice": 1999,
     "category": "petology",
+
     "images": [
       "https://m.media-amazon.com/images/I/713WyEyi3QL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71eeb1R-vtL._SL1500_.jpg",
@@ -184,11 +301,28 @@
       "https://m.media-amazon.com/images/I/61eIqQ9YZnL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71nPcxWx4KL._SL1500_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Alloy Steel, Neoprene, Nylon",
+      "colour": "Red",
+      "pattern": "Solid",
+      "about": [
+        "Designed for small dogs (20–30 cm neck)",
+        "Reflective safety stitching",
+        "Soft neoprene padding",
+        "Durable nylon webbing",
+        "Quick-release buckle",
+        "Comfortable and lightweight"
+      ]
+    },
+    "colors": ["red"],
     "sizes": [],
     "description": "Soft padded collar for small dogs.",
     "amazonLink": "https://www.amazon.in/dp/B0FT12QJZN",
-    "related": ["6", "7"]
+    "related": ["6", "7"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   },
   {
     "id": "9",
@@ -208,11 +342,27 @@
       "https://m.media-amazon.com/images/I/61Xdp18AZwL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/61+6tbb+3GL._SL1170_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Ceramic, Titanium",
+      "colour": "White/Gold",
+      "power_source": "Battery",
+      "about": [
+        "Sharp titanium blade with ceramic comb",
+        "Rechargeable cordless design",
+        "Adjustable cutting lengths",
+        "Low noise motor",
+        "Fine tuning for precision"
+      ]
+    },
+    "colors": ["white"],
     "sizes": [],
     "description": "Professional rechargeable trimmer for dogs and cats.",
     "amazonLink": "https://www.amazon.in/dp/B074X9RSJN",
-    "related": ["15", "1"]
+    "related": ["15", "1"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   },
   {
     "id": "10",
@@ -231,11 +381,27 @@
       "https://m.media-amazon.com/images/I/81dxS+7adSL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71m8hEmcJbS._SL1452_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Nylon",
+      "colour": "Red",
+      "size": "6 Feet",
+      "about": [
+        "Heavy-duty rope leash",
+        "Comfortable foam handle",
+        "Reflective threads for safety",
+        "Shock-absorbing bungee",
+        "Durable metal clasp"
+      ]
+    },
+    "colors": ["red"],
     "sizes": [],
     "description": "Heavy-duty reflective rope leash for medium and large dogs.",
     "amazonLink": "https://www.amazon.in/dp/B0BM49VH5Q",
-    "related": ["11", "12"]
+    "related": ["11", "12"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   },
   {
     "id": "11",
@@ -254,11 +420,27 @@
       "https://m.media-amazon.com/images/I/81shmJPMtuL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71xXXa3j1wL._SL1500_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Alloy Steel, Polyester",
+      "colour": "Purple",
+      "size": "4 Feet",
+      "about": [
+        "Heavy-duty leash for small dogs",
+        "Soft foam handle",
+        "Reflective safety threads",
+        "Stretchable bungee",
+        "Lightweight and durable"
+      ]
+    },
+    "colors": ["purple"],
     "sizes": [],
     "description": "Short rope leash ideal for small dogs.",
     "amazonLink": "https://www.amazon.in/dp/B0FHFRZ332",
-    "related": ["10", "12"]
+    "related": ["10", "12"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   },
   {
     "id": "12",
@@ -277,11 +459,27 @@
       "https://m.media-amazon.com/images/I/81AGHCo3EjS._SL1280_.jpg",
       "https://m.media-amazon.com/images/I/71n50RYoLWS._SL1451_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Nylon",
+      "colour": "Purple",
+      "size": "5 Feet",
+      "about": [
+        "Strong rope leash",
+        "Comfortable foam handle",
+        "Reflective threading",
+        "Shock absorption",
+        "Lightweight design"
+      ]
+    },
+    "colors": ["purple"],
     "sizes": [],
     "description": "Balanced leash for small and medium dogs.",
     "amazonLink": "https://www.amazon.in/dp/B099992292",
-    "related": ["10", "11"]
+    "related": ["10", "11"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   },
   {
     "id": "13",
@@ -301,11 +499,27 @@
       "https://m.media-amazon.com/images/I/71CWW-2mgHL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/615v3lw+LaL._SL1500_.jpg"
     ],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Nylon, Plastic",
+      "colour": "Purple",
+      "size": "16ft",
+      "about": [
+        "Retractable leash",
+        "Smooth extension and retraction",
+        "One-hand brake system",
+        "Tangle-free swivel",
+        "Comfortable grip"
+      ]
+    },
     "colors": [],
     "sizes": [],
     "description": "Retractable leash with brake and lock system.",
     "amazonLink": "https://www.amazon.in/dp/B0FR8LQPD3",
-    "related": ["14", "10"]
+    "related": ["14", "10"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   },
   {
     "id": "14",
@@ -324,11 +538,27 @@
       "https://m.media-amazon.com/images/I/71CWW-2mgHL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/615v3lw+LaL._SL1500_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Nylon, Plastic",
+      "colour": "Purple",
+      "size": "10ft",
+      "about": [
+        "Retractable leash for small dogs",
+        "Smooth retract system",
+        "One-hand control",
+        "Tangle-free design",
+        "Lightweight and portable"
+      ]
+    },
+    "colors": ["purple"],
     "sizes": [],
     "description": "Compact retractable leash for small dogs.",
     "amazonLink": "https://www.amazon.in/dp/B0FR7QG8CM",
-    "related": ["13", "10"]
+    "related": ["13", "10"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   },
   {
     "id": "15",
@@ -348,11 +578,27 @@
       "https://m.media-amazon.com/images/I/71e1-ebtHQL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/618iPyY8ewL._SL1155_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Metal, Plastic",
+      "colour": "Pink",
+      "power_source": "Battery",
+      "about": [
+        "Rechargeable trimmer",
+        "Sharp stainless and ceramic blades",
+        "Ultra-quiet operation",
+        "Adjustable combs",
+        "Safe and easy grooming"
+      ]
+    },
+    "colors": ["pink"],
     "sizes": [],
     "description": "Wireless grooming machine with extra blade.",
     "amazonLink": "https://www.amazon.in/dp/B0C9ZVZ1HB",
-    "related": ["9", "1"]
+    "related": ["9", "1"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "16",
@@ -372,11 +618,26 @@
       "https://m.media-amazon.com/images/I/51bMdQr44-L._SL1101_.jpg",
       "https://m.media-amazon.com/images/I/61ObWtxnLxL._SL1500_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber, Nylon",
+      "colour": "Grey/Red",
+      "about": [
+        "Heavy resistance band (20kg)",
+        "Anti-snap protection",
+        "Portable workout tool",
+        "Suitable for strength training",
+        "Durable natural latex"
+      ]
+    },
+    "colors": ["Grey", "Red"],
     "sizes": [],
     "description": "Heavy-duty resistance tube set with nylon protection for safe workouts.",
     "amazonLink": "https://www.amazon.in/dp/B07GXQCB4Q",
-    "related": ["17", "18"]
+    "related": ["17", "18"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "17",
@@ -395,11 +656,26 @@
       "https://m.media-amazon.com/images/I/61g7JiTbJdL._SL1082_.jpg",
       "https://m.media-amazon.com/images/I/61EUHQWI8mL._SL1033_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Multi",
+      "about": [
+        "Complete resistance band set",
+        "Includes door anchor",
+        "Suitable for all fitness levels",
+        "Improves strength and flexibility",
+        "Eco-friendly material"
+      ]
+    },
+    "colors": ["black"],
     "sizes": [],
     "description": "Ideal for pull-up assistance and strength training.",
     "amazonLink": "https://www.amazon.in/dp/B0842PZV2H",
-    "related": ["16", "18"]
+    "related": ["16", "18"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "18",
@@ -418,11 +694,26 @@
       "https://m.media-amazon.com/images/I/511qKZLeJ4L._SL1031_.jpg",
       "https://m.media-amazon.com/images/I/61EE8vEMfwL._SL1219_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Green",
+      "about": [
+        "Light resistance band (15–35 lbs)",
+        "Durable and stretchable",
+        "Includes strong door anchor",
+        "Suitable for workouts and therapy",
+        "Eco-friendly material"
+      ]
+    },
+    "colors": ["Green"],
     "sizes": [],
     "description": "Multi-purpose bands for yoga, pilates, and stretching.",
     "amazonLink": "https://www.amazon.in/dp/B07XTCPHTM",
-    "related": ["17", "19"]
+    "related": ["17", "19"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "19",
@@ -441,11 +732,26 @@
       "https://m.media-amazon.com/images/I/51zQIJf2nSL._SL1140_.jpg",
       "https://m.media-amazon.com/images/I/61x8Q5pFnDL._SL1073_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Orange",
+      "about": [
+        "Medium resistance band (25–60 lbs)",
+        "Durable latex build",
+        "Includes door anchor",
+        "Ideal for strength training",
+        "Suitable for all users"
+      ]
+    },
+    "colors": ["orange"],
     "sizes": [],
     "description": "Durable resistance bands for daily workouts.",
     "amazonLink": "https://www.amazon.in/dp/B083MW64NT",
-    "related": ["18", "20"]
+    "related": ["18", "20"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "20",
@@ -465,11 +771,26 @@
       "https://m.media-amazon.com/images/I/51OlzPGjuyL._SL1307_.jpg",
       "https://m.media-amazon.com/images/I/51zQIJf2nSL._SL1140_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Red",
+      "about": [
+        "Extra heavy resistance band",
+        "Strong and durable",
+        "Includes door anchor",
+        "Supports intense workouts",
+        "Eco-friendly material"
+      ]
+    },
+    "colors": ["red"],
     "sizes": [],
     "description": "Premium quality bands for full-body workouts.",
     "amazonLink": "https://www.amazon.in/dp/B083MXQ436",
-    "related": ["18", "21"]
+    "related": ["18", "21"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "21",
@@ -488,11 +809,26 @@
       "https://m.media-amazon.com/images/I/51B16DWfzLL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/51HI9-M8fiL._SL1500_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Blue",
+      "about": [
+        "25lbs resistance band",
+        "Flexible and durable",
+        "Portable for workouts",
+        "Suitable for therapy and training",
+        "Lightweight design"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
     "sizes": [],
     "description": "Eco-friendly rubber bands for toning and mobility.",
     "amazonLink": "https://www.amazon.in/dp/B09BFB52H4",
-    "related": ["22", "23"]
+    "related": ["22", "23"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "22",
@@ -510,11 +846,26 @@
       "https://m.media-amazon.com/images/I/61MY4+hwFLL._SL1009_.jpg",
       "https://m.media-amazon.com/images/I/610qUez9DxL._SL1445_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Red",
+      "about": [
+        "20lbs resistance band",
+        "Durable latex build",
+        "Portable workout tool",
+        "Multi-purpose usage",
+        "Suitable for all levels"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
     "sizes": [],
     "description": "Perfect for strength and resistance training.",
     "amazonLink": "https://www.amazon.in/dp/B09BFB5B48",
-    "related": ["21", "23"]
+    "related": ["21", "23"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "23",
@@ -533,11 +884,26 @@
       "https://m.media-amazon.com/images/I/51HI9-M8fiL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/61H58o5Z0nL._SL1500_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Yellow",
+      "about": [
+        "15lbs resistance band",
+        "Lightweight and flexible",
+        "Portable and easy to use",
+        "Great for beginners",
+        "Durable latex material"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
     "sizes": [],
     "description": "Lightweight and portable resistance bands.",
     "amazonLink": "https://www.amazon.in/dp/B09BFB885V",
-    "related": ["21", "24"]
+    "related": ["21", "24"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "24",
@@ -557,11 +923,26 @@
       "https://m.media-amazon.com/images/I/61dwF1kwRbL._SL1295_.jpg",
       "https://m.media-amazon.com/images/I/611LhIhXVGL._SL1000_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Pink Combo",
+      "about": [
+        "Loop + pullup band combo",
+        "Multiple resistance levels",
+        "Full body workout",
+        "Portable and compact",
+        "Includes carry bag"
+      ]
+    },
+    "colors": ["pink"],
     "sizes": [],
     "description": "Heavy resistance bands designed for squats and leg workouts.",
     "amazonLink": "https://www.amazon.in/dp/B08ZJNN95R",
-    "related": ["25", "26"]
+    "related": ["25", "26"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
   },
   {
     "id": "25",
@@ -579,11 +960,26 @@
       "https://m.media-amazon.com/images/I/61dwF1kwRbL._SL1295_.jpg",
       "https://m.media-amazon.com/images/I/71Dky5OXx7L._SL1400_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Pink Combo",
+      "about": [
+        "Loop + nylon tube combo",
+        "20kg resistance",
+        "Multi-functional training",
+        "Portable and compact",
+        "Ideal for home workouts"
+      ]
+    },
+    "colors": ["pink"],
     "sizes": [],
     "description": "Multi-use bands for stretching and strength.",
     "amazonLink": "https://www.amazon.in/dp/B08ZCXXSPK",
-    "related": ["24", "26"]
+    "related": ["24", "26"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   },
   {
     "id": "26",
@@ -603,11 +999,26 @@
       "https://m.media-amazon.com/images/I/61dwF1kwRbL._SL1295_.jpg",
       "https://m.media-amazon.com/images/I/611LhIhXVGL._SL1000_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Pink/Blue Combo",
+      "about": [
+        "Loop + pullup band combo",
+        "Medium resistance",
+        "Full body workouts",
+        "Portable design",
+        "Includes carry bag"
+      ]
+    },
+    "colors": ["pink", "blue","black"],
     "sizes": [],
     "description": "Premium loop bands set for strength and flexibility.",
     "amazonLink": "https://www.amazon.in/dp/B08ZJQMFFD",
-    "related": ["24", "25"]
+    "related": ["24", "25"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   },
   {
     "id": "27",
@@ -625,11 +1036,26 @@
       "https://m.media-amazon.com/images/I/51zQIJf2nSL._SL1140_.jpg",
       "https://m.media-amazon.com/images/I/511qKZLeJ4L._SL1031_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Pink/Green Combo",
+      "about": [
+        "Loop + pullup band combo",
+        "Light resistance",
+        "Portable workout solution",
+        "Suitable for all users",
+        "Compact design"
+      ]
+    },
+    "colors": ["pink","Green"],
     "sizes": [],
     "description": "Affordable bands for everyday workouts.",
     "amazonLink": "https://www.amazon.in/dp/B08ZJRPP76",
-    "related": ["24", "25"]
+    "related": ["24", "25"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   },
   {
     "id": "28",
@@ -649,10 +1075,25 @@
       "https://m.media-amazon.com/images/I/61dwF1kwRbL._SL1295_.jpg",
       "https://m.media-amazon.com/images/I/617SMjCGkAL._SL1500_.jpg"
     ],
-    "colors": [],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Orange",
+      "about": [
+        "4 resistance bands set",
+        "Multiple strength levels",
+        "Full body workout",
+        "Portable and lightweight",
+        "Ideal for fitness and therapy"
+      ]
+    },
+    "colors": ["orange"],
     "sizes": [],
     "description": "Budget-friendly resistance bands for beginners.",
     "amazonLink": "https://www.amazon.in/dp/B084BZFLS4",
-    "related": ["27", "26"]
+    "related": ["27", "26"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
   }
 ]

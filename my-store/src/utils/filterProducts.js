@@ -4,7 +4,6 @@ export function filterProducts(products, filters) {
     .filter((p) => !filters.category || p.category === filters.category)
     .filter((p) => !filters.maxPrice  || p.price <= filters.maxPrice)
     .filter((p) => !filters.color || p.colors?.some((c) => c.name === filters.color))
-    .filter((p) => !filters.size  || p.sizes?.some((s) => s.label === filters.size && s.available))
     .sort((a, b) => {
       if (filters.sortBy === 'price_asc')  return a.price - b.price
       if (filters.sortBy === 'price_desc') return b.price - a.price
