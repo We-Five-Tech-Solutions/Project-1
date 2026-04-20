@@ -830,83 +830,9 @@
     "isBestSeller": true,
     "isTrending": false
   },
+
   {
     "id": "22",
-    "name": "Natural Rubber Resistance Bands for Strength Training",
-    "price": 269,
-    "originalPrice": 799,
-    "category": "bodylastics",
-    "images": [
-      "https://m.media-amazon.com/images/I/61DONZL340L._SL1198_.jpg",
-      "https://m.media-amazon.com/images/I/71z5JkJmGdL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71MaWFUmu2L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61VRhQ49XNL._SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/51rY4dfLR0L._SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/71iPtuVZGoL._SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/61MY4+hwFLL._SL1009_.jpg",
-      "https://m.media-amazon.com/images/I/610qUez9DxL._SL1445_.jpg"
-    ],
-    "details": {
-      "brand": "Fitlastics",
-      "material": "Natural Rubber",
-      "colour": "Red",
-      "about": [
-        "20lbs resistance band",
-        "Durable latex build",
-        "Portable workout tool",
-        "Multi-purpose usage",
-        "Suitable for all levels"
-      ]
-    },
-    "colors": ["yellow", "red", "blue"],
-    "sizes": [],
-    "description": "Perfect for strength and resistance training.",
-    "amazonLink": "https://www.amazon.in/dp/B09BFB5B48",
-    "related": ["21", "23"],
-    "isFeatured": true,
-    "isBestSeller": true,
-    "isTrending": false
-  },
-  {
-    "id": "23",
-    "name": "Natural Rubber Resistance Bands",
-    "price": 249,
-    "originalPrice": 699,
-    "category": "bodylastics",
-    "images": [
-      "https://m.media-amazon.com/images/I/6160ExztUoL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61n8TI8e+4L._SL1445_.jpg",
-      "https://m.media-amazon.com/images/I/71MaWFUmu2L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71iPtuVZGoL._SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/71UuUF9yBxL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/41vFW5g9GqL.jpg",
-      "https://m.media-amazon.com/images/I/71z5JkJmGdL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/51HI9-M8fiL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61H58o5Z0nL._SL1500_.jpg"
-    ],
-    "details": {
-      "brand": "Fitlastics",
-      "material": "Natural Rubber",
-      "colour": "Yellow",
-      "about": [
-        "15lbs resistance band",
-        "Lightweight and flexible",
-        "Portable and easy to use",
-        "Great for beginners",
-        "Durable latex material"
-      ]
-    },
-    "colors": ["yellow", "red", "blue"],
-    "sizes": [],
-    "description": "Lightweight and portable resistance bands.",
-    "amazonLink": "https://www.amazon.in/dp/B09BFB885V",
-    "related": ["21", "24"],
-    "isFeatured": true,
-    "isBestSeller": true,
-    "isTrending": false
-  },
-  {
-    "id": "24",
     "name": "Resistance Bands Set for Squats",
     "price": 1199,
     "originalPrice": 1799,
@@ -945,7 +871,7 @@
     "isTrending": false
   },
   {
-    "id": "25",
+    "id": "23",
     "name": "Resistance Bands Set for Squats & Stretching",
     "price": 799,
     "originalPrice": 1999,
@@ -982,7 +908,7 @@
     "isTrending": true
   },
   {
-    "id": "26",
+    "id": "24",
     "name": "Fitlastics Resistance Loop Bands Set",
     "price": 899,
     "originalPrice": 1499,
@@ -1011,7 +937,7 @@
         "Includes carry bag"
       ]
     },
-    "colors": ["pink", "blue","black"],
+    "colors": ["pink", "blue", "black"],
     "sizes": [],
     "description": "Premium loop bands set for strength and flexibility.",
     "amazonLink": "https://www.amazon.in/dp/B08ZJQMFFD",
@@ -1021,7 +947,7 @@
     "isTrending": true
   },
   {
-    "id": "27",
+    "id": "25",
     "name": "Resistance Bands Set for Squats & Stretching",
     "price": 699,
     "originalPrice": 999,
@@ -1048,7 +974,7 @@
         "Compact design"
       ]
     },
-    "colors": ["pink","Green"],
+    "colors": ["pink", "Green"],
     "sizes": [],
     "description": "Affordable bands for everyday workouts.",
     "amazonLink": "https://www.amazon.in/dp/B08ZJRPP76",
@@ -1058,7 +984,7 @@
     "isTrending": true
   },
   {
-    "id": "28",
+    "id": "26",
     "name": "Resistance Bands Set for Squats & Stretching",
     "price": 375,
     "originalPrice": 1499,
@@ -1095,5 +1021,418 @@
     "isFeatured": true,
     "isBestSeller": false,
     "isTrending": true
+  },
+
+  {
+    "id": "27",
+    "name": "Natural Rubber Resistance Bands for Strength Training",
+    "price": 269,
+    "originalPrice": 799,
+    "category": "bodylastics",
+    "images": [
+      "https://m.media-amazon.com/images/I/61DONZL340L._SL1198_.jpg",
+      "https://m.media-amazon.com/images/I/71z5JkJmGdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MaWFUmu2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61VRhQ49XNL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51rY4dfLR0L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71iPtuVZGoL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61MY4+hwFLL._SL1009_.jpg",
+      "https://m.media-amazon.com/images/I/610qUez9DxL._SL1445_.jpg"
+    ],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Red",
+      "about": [
+        "20lbs resistance band",
+        "Durable latex build",
+        "Portable workout tool",
+        "Multi-purpose usage",
+        "Suitable for all levels"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "sizes": [],
+    "description": "Perfect for strength and resistance training.",
+    "amazonLink": "https://www.amazon.in/dp/B09BFB5B48",
+    "related": ["21", "23"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
+  },
+  {
+    "id": "28",
+    "name": "Natural Rubber Resistance Bands",
+    "price": 249,
+    "originalPrice": 699,
+    "category": "bodylastics",
+    "images": [
+      "https://m.media-amazon.com/images/I/6160ExztUoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61n8TI8e+4L._SL1445_.jpg",
+      "https://m.media-amazon.com/images/I/71MaWFUmu2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71iPtuVZGoL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71UuUF9yBxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41vFW5g9GqL.jpg",
+      "https://m.media-amazon.com/images/I/71z5JkJmGdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51HI9-M8fiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61H58o5Z0nL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Fitlastics",
+      "material": "Natural Rubber",
+      "colour": "Yellow",
+      "about": [
+        "15lbs resistance band",
+        "Lightweight and flexible",
+        "Portable and easy to use",
+        "Great for beginners",
+        "Durable latex material"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "sizes": [],
+    "description": "Lightweight and portable resistance bands.",
+    "amazonLink": "https://www.amazon.in/dp/B09BFB885V",
+    "related": ["21", "24"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
+  },
+  {
+    "id": "29",
+    "name": "Bodylastics Adjustable Ankle & Wrist Weights 4 lb Pair (2 lb Each)",
+    "price": 1999,
+    "originalPrice": 4999,
+    "category": "bodylastics",
+    "badge": "Deal",
+    "images": [
+      "https://m.media-amazon.com/images/I/71MTlKjCzPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716v3YMGinL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7106gtUiVOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Pf-cyejjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61lRjA81FbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71brkZHHctL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71FSqUl84BL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+CFBkB8fL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Ow0g3A+IL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Silicone",
+      "colour": "Yellow",
+      "size": "4 lb Pair",
+      "power_source": "Manual",
+      "about": [
+        "Adjustable ankle and wrist weights",
+        "Sweat-resistant silicone",
+        "Suitable for cardio, yoga and strength training"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "sizes": [],
+    "description": "Adjustable ankle and wrist weights for workouts and physiotherapy.",
+    "amazonLink": "https://www.amazon.in/dp/B0GSNN9ZCJ"
+  },
+  {
+    "id": "30",
+    "name": "Bodylastics Adjustable Ankle & Wrist Weights 2 lb Pair (1 lb Each)",
+    "price": 999,
+    "originalPrice": 2999,
+    "category": "bodylastics",
+    "badge": "Deal",
+    "images": [
+      "https://m.media-amazon.com/images/I/71MTlKjCzPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716v3YMGinL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7106gtUiVOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Pf-cyejjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61lRjA81FbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71brkZHHctL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71FSqUl84BL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+CFBkB8fL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Ow0g3A+IL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Silicone",
+      "colour": "N/A",
+      "size": "2 lb Pair",
+      "power_source": "Manual",
+      "about": ["Lightweight", "Sweat-resistant", "Beginner friendly"]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "description": "Lightweight adjustable ankle and wrist weights.",
+    "amazonLink": "https://www.amazon.in/dp/B0GSNC73YF"
+  },
+  {
+    "id": "31",
+    "name": "Bodylastics 60cms Foam Roller for Deep Tissue Massage",
+    "price": 999,
+    "originalPrice": 2499,
+    "category": "bodylastics",
+    "badge": "Deal",
+    "images": [
+      "https://m.media-amazon.com/images/I/61v9nyIDFXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GI7+6ifqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813WIjRS2yL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Rq-KHuBoL._SL1015_.jpg",
+      "https://m.media-amazon.com/images/I/71oXgCTiEQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71S2hrEWuoL._SL1478_.jpg",
+      "https://m.media-amazon.com/images/I/610ARdyP7+L._SL1062_.jpg",
+      "https://m.media-amazon.com/images/I/61mqDrjsnUL._SL1136_.jpg",
+      "https://m.media-amazon.com/images/I/61uR2sYYiXL._SL1062_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Foam",
+      "size": "60 cm",
+      "power_source": "Manual",
+      "about": [
+        "Deep tissue massage",
+        "Muscle recovery",
+        "Pre and post workout use"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "description": "Foam roller for muscle recovery and pain relief.",
+    "amazonLink": "https://www.amazon.in/dp/B0995LXTRT"
+  },
+  {
+    "id": "32",
+    "name": "Bodylastics 33cms Foam Roller",
+    "price": 649,
+    "originalPrice": 1699,
+    "category": "bodylastics",
+    "badge": "Deal",
+    "images": [
+      "https://m.media-amazon.com/images/I/61uedGaiADL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51AZTZ5h-XL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/813WIjRS2yL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GI7+6ifqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51f2SJ7TJaL._SL1044_.jpg",
+      "https://m.media-amazon.com/images/I/71S2hrEWuoL._SL1478_.jpg",
+      "https://m.media-amazon.com/images/I/71oXgCTiEQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61mqDrjsnUL._SL1136_.jpg",
+      "https://m.media-amazon.com/images/I/610ARdyP7+L._SL1062_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Foam",
+      "size": "33 cm",
+      "power_source": "Manual",
+      "about": [
+        "Lightweight foam roller",
+        "Ideal for muscle recovery",
+        "Durable and sweat-resistant"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "description": "Affordable foam roller for everyday recovery sessions.",
+    "amazonLink": "https://www.amazon.in/dp/B0842589P6"
+  },
+  {
+    "id": "33",
+    "name": "Bodylastics 33cms Foam Roller for Pre & Post Workout Sessions",
+    "price": 499,
+    "originalPrice": 999,
+    "category": "bodylastics",
+    "badge": "Best seller",
+    "images": [
+      "https://m.media-amazon.com/images/I/61ui7anIHdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71mnT9R0xaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71CpVMo6+TL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71l4LNPxkuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+c+ejR3aL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61QBZLSoC+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/610ARdyP7+L._SL1062_.jpg",
+      "https://m.media-amazon.com/images/I/61Ye3H3AkPL._SL1062_.jpg",
+      "https://m.media-amazon.com/images/I/61uR2sYYiXL._SL1062_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "EVA Foam",
+      "size": "33 cm",
+      "power_source": "Manual",
+      "about": [
+        "Ideal for pre and post workout recovery",
+        "Helps relieve muscle soreness",
+        "Supports deep tissue massage",
+        "Compact and portable",
+        "Durable foam construction"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "description": "Compact foam roller designed for muscle recovery and deep tissue massage.",
+    "amazonLink": "https://www.amazon.in/dp/B0B9889LQX"
+  },
+  {
+    "id": "34",
+    "name": "Bodylastics Dual Layer Resistance Loop Bands",
+    "price": 899,
+    "originalPrice": 2199,
+    "category": "bodylastics",
+    "badge": "Trending",
+    "images": [
+      "https://m.media-amazon.com/images/I/7163DKHxjNL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61tq2uvyZ1L._SL1078_.jpg",
+      "https://m.media-amazon.com/images/I/71sGMD5jdPL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61922iItacL._SL1238_.jpg",
+      "https://m.media-amazon.com/images/I/61vLM4xvCNL._SL1005_.jpg",
+      "https://m.media-amazon.com/images/I/61x8Q5pFnDL._SL1073_.jpg",
+      "https://m.media-amazon.com/images/I/61EUHQWI8mL._SL1033_.jpg",
+      "https://m.media-amazon.com/images/I/511qKZLeJ4L._SL1031_.jpg",
+      "https://m.media-amazon.com/images/I/61g7JiTbJdL._SL1082_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Latex",
+      "size": "Set",
+      "power_source": "Manual",
+      "about": [
+        "Ideal for pull-up assistance",
+        "Suitable for yoga and pilates",
+        "Durable dual-layer construction",
+        "Supports full-body workouts",
+        "Portable and lightweight"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "description": "Versatile resistance bands for strength training and assisted exercises.",
+    "amazonLink": "https://www.amazon.in/dp/B07XDXTN97"
+  },
+  {
+    "id": "35",
+    "name": "Bodylastics Yoga Mat 6mm with Carry Bag",
+    "price": 999,
+    "originalPrice": 2999,
+    "category": "bodylastics",
+    "badge": "Best seller",
+    "images": [
+      "https://m.media-amazon.com/images/I/71QS1035BJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XjZM-DVVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71rkBrqbbaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81yRQddDsIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/818i-6J-uaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81qjok2PT2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71se5Nts2LL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bVqiWA+WL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71SHx2JM-7L._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "TPE",
+      "size": "6mm",
+      "power_source": "Manual",
+      "about": [
+        "Anti-slip surface",
+        "Eco-friendly material",
+        "Comfortable cushioning",
+        "Lightweight with carry bag",
+        "Ideal for yoga and workouts"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "description": "Durable and anti-slip yoga mat for all types of workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B0CVXFTKVH"
+  },
+  {
+    "id": "36",
+    "name": "Bodylastics Resistance Tube Band with Handles",
+    "price": 349,
+    "originalPrice": 1099,
+    "category": "bodylastics",
+    "badge": "Budget pick",
+    "images": [
+      "https://m.media-amazon.com/images/I/81GnnXPA+lL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sGMD5jdPL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61IHArfj43L._SL1012_.jpg",
+      "https://m.media-amazon.com/images/I/61Y7-LGRixL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61SSi2K4HSL._SL1002_.jpg",
+      "https://m.media-amazon.com/images/I/61gLyqnZZIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61lrYyeiAeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/619lLNOhjwL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61Y7-LGRixL._SL1000_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Latex",
+      "power_source": "Manual",
+      "about": [
+        "Adjustable resistance levels",
+        "Includes door anchor",
+        "Non-slip handles",
+        "Ideal for home workouts",
+        "Durable and lightweight"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "description": "Affordable resistance band with handles for full-body workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B07X3RVS13"
+  },
+  {
+    "id": "37",
+    "name": "Bodylastics Hand Grip Strengthener Adjustable 10-40kg",
+    "price": 499,
+    "originalPrice": 1499,
+    "category": "bodylastics",
+    "badge": "Best seller",
+    "images": [
+      "https://m.media-amazon.com/images/I/51Hq0Qqg0ES._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51cO3ZO9xuS.jpg",
+      "https://m.media-amazon.com/images/I/51ZuyqYbWBS.jpg",
+      "https://m.media-amazon.com/images/I/516xYOZVJaS.jpg",
+      "https://m.media-amazon.com/images/I/51tpjAcaVaS.jpg",
+      "https://m.media-amazon.com/images/I/41t47zGLOdS.jpg",
+      "https://m.media-amazon.com/images/I/61I46BVmIKS._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51HaPwUgiES.jpg",
+      "https://m.media-amazon.com/images/I/71aprF+SRcS._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Plastic",
+      "power_source": "Manual",
+      "about": [
+        "Adjustable resistance",
+        "Improves grip strength",
+        "Suitable for wrist and forearm",
+        "Durable build",
+        "Compact design"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "description": "Adjustable hand grip strengthener for forearm training.",
+    "amazonLink": "https://www.amazon.in/dp/B0958357FH"
+  },
+  {
+    "id": "38",
+    "name": "Bodylastics Resistance Hip Loop Bands",
+    "price": 229,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "Trending",
+    "images": [
+      "https://m.media-amazon.com/images/I/81YxciPdgcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71IPgM97bML._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/81zndP9BFxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81m2znoHL7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71AAUluOtLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81H6kdnY23L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vqd2z3GeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81s8PyfFPaL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Fabric",
+      "power_source": "Manual",
+      "about": [
+        "Anti-slip fabric",
+        "Ideal for glutes and thighs",
+        "Durable and stretchable",
+        "Comfortable fit",
+        "Suitable for all fitness levels"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "description": "Fabric resistance bands for lower body workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B0F5B8MZGF"
   }
 ]

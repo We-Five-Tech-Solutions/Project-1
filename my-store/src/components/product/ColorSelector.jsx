@@ -3,7 +3,7 @@ export default function ColorSelector({ colors = [], selected, onChange }) {
   return (
     <div>
       <p className="text-sm font-medium mb-2">
-        Color: <span className="font-bold">{selected || 'Select'}</span>
+        Color: <span className="font-bold">{selected || 'MultiColor'}</span>
       </p>
       <div className="flex gap-2 flex-wrap">
         {colors.map((color,index) => (
