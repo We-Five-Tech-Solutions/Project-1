@@ -1,6 +1,6 @@
 [
    
-  { "name": "petology",   "slug": "petology",     "image": "/Images/Petology.jpg"     },
-  { "name": "bodylastics", "slug": "bodylastics",       "image": "/Images/bodylastics.jpg"},
-  { "name": "fitlastics",  "slug": "fitlastics",     "image": "/Images/fitlastics.jpg"     }
+  { "name": "petology",   "slug": "petology",     "image": "/Images/petology.jpeg"     },
+  { "name": "bodylastics", "slug": "bodylastics",       "image": "/Images/bodylastics.jpeg"},
+  { "name": "fitlastics",  "slug": "fitlastics",     "image": "/Images/fitlastics.jpeg"     }
 ]

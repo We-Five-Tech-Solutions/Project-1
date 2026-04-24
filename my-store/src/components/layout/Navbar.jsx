@@ -35,7 +35,7 @@ export default function Navbar() {
 
   return (
     <header className="sticky top-0 z-50 bg-black border-b border-gray-800">
-      <nav className="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16 text-white">
+      <nav className="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between h-18 text-white">
         
         {/* Logo */}
 <Link to="/" className="flex items-center">
