@@ -3,6 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { useProducts } from "@/hooks/useProducts";
 import { navLinks } from "@/data/navigation";
 import MegaMenu from "./MegaMenu";
+import logo from "../../assets/images/logo.png";
 
 export default function Navbar() {
   const [activeMenu, setActiveMenu] = useState(null);
@@ -37,9 +38,13 @@ export default function Navbar() {
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 flex items-center justify-between h-16 text-white">
         
         {/* Logo */}
-        <Link to="/" className="flex items-center">
-          <img src="/logo.png" alt="logo" className="h-7 sm:h-8" />
-        </Link>
+<Link to="/" className="flex items-center">
+  <img
+    src={logo}
+    alt="logo"
+    className="h-10 sm:h-12 md:h-14 w-auto"
+  />
+</Link>
 
         {/* Nav Links */}
         <ul className="hidden md:flex items-center gap-6 text-xs font-semibold tracking-wide uppercase">

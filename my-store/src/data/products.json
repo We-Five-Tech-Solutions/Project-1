@@ -264,15 +264,15 @@
       ]
     },
     "images": [
-      "https://m.media-amazon.com/images/I/716H-KumdVL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71HCMPqY8OL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71KqzGQr0tL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71YQCN-HbSL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71eoC3WT5PL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61zSS7vNk8L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71aEEaT8t1L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71MEROMVEiL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71vFj71gNaL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71J9Q2HayxL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71X3w2bcQxL._SL1500_.jpg"
+      "https://m.media-amazon.com/images/I/61Elcy3KODL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71pjyNfxfuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71kism08GML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71f-08lDhdL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ksEAQHQmL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/613Duh0GvFL._SL1500_.jpg"
     ],
     "colors": ["purple"],
     "sizes": [],
@@ -325,46 +325,6 @@
     "isTrending": true
   },
   {
-    "id": "9",
-    "name": "Pet Hair Trimmer Automatic Rechargeable",
-    "price": 2599,
-    "originalPrice": 6999,
-    "category": "petology",
-    "badge": "Hot",
-    "images": [
-      "https://m.media-amazon.com/images/I/71xlwpIkc2L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61RMJiPWcJL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61N4UyI15vL._SL1033_.jpg",
-      "https://m.media-amazon.com/images/I/61VjQ01iA0L._SL1176_.jpg",
-      "https://m.media-amazon.com/images/I/61H-q6v7ZCL._SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/61w7Z+LhcwL._SL1121_.jpg",
-      "https://m.media-amazon.com/images/I/71WuH1-AYwL._SL1000_.jpg",
-      "https://m.media-amazon.com/images/I/61Xdp18AZwL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61+6tbb+3GL._SL1170_.jpg"
-    ],
-    "details": {
-      "brand": "PETOLOGY",
-      "material": "Ceramic, Titanium",
-      "colour": "White/Gold",
-      "power_source": "Battery",
-      "about": [
-        "Sharp titanium blade with ceramic comb",
-        "Rechargeable cordless design",
-        "Adjustable cutting lengths",
-        "Low noise motor",
-        "Fine tuning for precision"
-      ]
-    },
-    "colors": ["white"],
-    "sizes": [],
-    "description": "Professional rechargeable trimmer for dogs and cats.",
-    "amazonLink": "https://www.amazon.in/dp/B074X9RSJN",
-    "related": ["15", "1"],
-    "isFeatured": true,
-    "isBestSeller": false,
-    "isTrending": true
-  },
-  {
     "id": "10",
     "name": "Dog Leash 6FT Heavy Duty Rope",
     "price": 399,
@@ -410,15 +370,14 @@
     "originalPrice": 999,
     "category": "petology",
     "images": [
-      "https://m.media-amazon.com/images/I/71AhDx2zb+L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71Q2PX-czQS._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61+admVDsUL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71jLfKd34fS._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71uO1gnR4AL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71O4g80k2qL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/816rfNcO2GL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/81shmJPMtuL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71xXXa3j1wL._SL1500_.jpg"
+      "https://m.media-amazon.com/images/I/71T4AOZwv1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vaXyAm+lL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61H+fpQmc1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sueTYyKKS._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71IoaOD8wrL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/818w4Dspu2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uDQ3VF21L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71uXIy53xXL._SL1500_.jpg"
     ],
     "details": {
       "brand": "PETOLOGY",
@@ -483,9 +442,9 @@
   },
   {
     "id": "13",
-    "name": "Retractable Dog Leash 5M (16ft)",
+    "name": "Retractable Dog Leash 5M (16ft) for dogs up to 50kg",
     "price": 799,
-    "originalPrice": 2399,
+    "originalPrice": 4999,
     "category": "petology",
     "badge": "Best seller",
     "images": [
@@ -523,20 +482,100 @@
   },
   {
     "id": "14",
-    "name": "Retractable Dog Leash 3M (10ft)",
-    "price": 499,
+    "name": "Retractable Dog Leash 5M (16ft) for dogs up to 25kg",
+    "price": 699,
+    "originalPrice": 1999,
+    "category": "petology",
+    "badge": "Best seller",
+    "images": [
+      "https://m.media-amazon.com/images/I/51O4L3bgtDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71l0fVZgSwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61VsvCfi4lL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61K+FWTwbcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61xcX0Qa4PL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/618iEH4sczL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/6148rP3HksL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71zmoFtSJFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61c1ma2dfKL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Nylon, Plastic",
+      "colour": "Purple",
+      "size": "16ft",
+      "about": [
+        "Retractable leash",
+        "Smooth extension and retraction",
+        "One-hand brake system",
+        "Tangle-free swivel",
+        "Comfortable grip"
+      ]
+    },
+    "colors": [],
+    "sizes": [],
+    "description": "Retractable leash with brake and lock system.",
+    "amazonLink": "https://www.amazon.in/dp/B0FR8LQPD3",
+    "related": ["14", "10"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
+  },
+  {
+    "id": "14",
+    "name": "Retractable Dog Leash 5M (16ft) for dogs up to 15kg",
+    "price": 599,
     "originalPrice": 4999,
     "category": "petology",
+    "badge": "Best seller",
     "images": [
-      "https://m.media-amazon.com/images/I/51Qr-4j-tcL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71SyAgOpCuL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61BWyF6qwtL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61HX9wxNy1L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61h14jWuhgL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61wrD6EG0OL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/615ymWi7XfL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71CWW-2mgHL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/615v3lw+LaL._SL1500_.jpg"
+      "https://m.media-amazon.com/images/I/51-m2Un7nTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Z97Bt92NL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/618CA3-SYYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61nkqLzDZwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ZslPfQSXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61n5HuKNqpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61uGJEJuBXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61SZj9SoZ5L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ldwIiTy5L._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Nylon, Plastic",
+      "colour": "Purple",
+      "size": "16ft",
+      "about": [
+        "Retractable leash",
+        "Smooth extension and retraction",
+        "One-hand brake system",
+        "Tangle-free swivel",
+        "Comfortable grip"
+      ]
+    },
+    "colors": [],
+    "sizes": [],
+    "description": "Retractable leash with brake and lock system.",
+    "amazonLink": "https://www.amazon.in/dp/B0FR93W6KW",
+    "related": ["14", "10"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
+  },
+  {
+    "id": "15",
+    "name": "Retractable Dog Leash 3M (10ft) for dogs up to 12kg",
+    "price": 499,
+    "originalPrice": 1499,
+    "category": "petology",
+    "images": [
+      "https://m.media-amazon.com/images/I/51Qjr6Fr4TL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71+K9JT7srL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61l8pdQLPYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61mp2YH+kOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61jmF8YD+0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/617DNTlMT1L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/610PvF-4fOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71frmIkun2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61dC6emBvLL._SL1500_.jpg"
     ],
     "details": {
       "brand": "PETOLOGY",
@@ -561,8 +600,48 @@
     "isTrending": true
   },
   {
-    "id": "15",
-    "name": "Professional Pet Hair Trimmer Wireless",
+    "id": "16",
+    "name": "Pet Hair Trimmer Wireless",
+    "price": 2299,
+    "originalPrice": 5999,
+    "category": "petology",
+    "badge": "New",
+    "images": [
+      "https://m.media-amazon.com/images/I/71FsEUaULsL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ATgprsBVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61HyIq9Bw0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61mvvvbTwfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61BmqUZMP3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61L8WLzgxzL._SL1051_.jpg",
+      "https://m.media-amazon.com/images/I/61gsMIXTrVL._SL1039_.jpg",
+      "https://m.media-amazon.com/images/I/71e1-ebtHQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/618iPyY8ewL._SL1155_.jpg"
+    ],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Metal, Plastic",
+      "colour": "Pink",
+      "power_source": "Battery",
+      "about": [
+        "Rechargeable trimmer",
+        "Sharp stainless and ceramic blades",
+        "Ultra-quiet operation",
+        "Adjustable combs",
+        "Safe and easy grooming"
+      ]
+    },
+    "colors": ["pink"],
+    "sizes": [],
+    "description": "Wireless grooming machine with extra blade.",
+    "amazonLink": "https://www.amazon.in/dp/B0C9ZVZ1HB",
+    "related": ["9", "1"],
+    "isFeatured": true,
+    "isBestSeller": true,
+    "isTrending": false
+  },
+  {
+    "id": "17",
+    "name": "Pet Hair Trimmer Wireless with Extra Blade",
     "price": 2699,
     "originalPrice": 5999,
     "category": "petology",
@@ -601,7 +680,45 @@
     "isTrending": false
   },
   {
-    "id": "16",
+    "id": "18",
+    "name": "Pet Hair Trimmer With Lcd Display And Turbo Mode",
+    "price": 2999,
+    "originalPrice": 3199,
+    "category": "petology",
+    "badge": "Hot",
+    "images": [
+      "https://m.media-amazon.com/images/I/61-Li6ydWwL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/611emRj6CKL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61nkH2kHH5L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51kS8gHK7BL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/511jsxKbDiL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61pFXFCvjNL._SL1116_.jpg",
+      "https://m.media-amazon.com/images/I/616d1ReYrYL._SL1000_.jpg"
+    ],
+    "details": {
+      "brand": "PETOLOGY",
+      "material": "Titanium",
+      "colour": "Black,Green",
+      "power_source": "Battery",
+      "about": [
+        "Sharp titanium blade with ceramic comb",
+        "Rechargeable cordless design",
+        "Adjustable cutting lengths",
+        "Low noise motor",
+        "Fine tuning for precision"
+      ]
+    },
+    "colors": ["white"],
+    "sizes": [],
+    "description": "Professional rechargeable trimmer for dogs and cats.",
+    "amazonLink": "https://www.amazon.in/dp/B07SH7FHMZ",
+    "related": ["15", "1"],
+    "isFeatured": true,
+    "isBestSeller": false,
+    "isTrending": true
+  },
+  {
+    "id": "19",
     "name": "Resistance Tube Set with Safety Nylon Protection",
     "price": 599,
     "originalPrice": 2499,
@@ -640,7 +757,7 @@
     "isTrending": false
   },
   {
-    "id": "17",
+    "id": "20",
     "name": "Resistance Loop Bands for Pullup Assist",
     "price": 2399,
     "originalPrice": 3999,
@@ -678,7 +795,7 @@
     "isTrending": false
   },
   {
-    "id": "18",
+    "id": "21",
     "name": "Resistance Loop Bands for Pullup Assist, Pilates, Yoga",
     "price": 449,
     "originalPrice": 1499,
@@ -716,7 +833,7 @@
     "isTrending": false
   },
   {
-    "id": "19",
+    "id": "22",
     "name": "Resistance Loop Bands for Pullup Assist",
     "price": 549,
     "originalPrice": 1799,
@@ -754,7 +871,7 @@
     "isTrending": false
   },
   {
-    "id": "20",
+    "id": "23",
     "name": "Resistance Loop Bands for Pullup Assist, Pilates, Yoga",
     "price": 949,
     "originalPrice": 2399,
@@ -793,11 +910,11 @@
     "isTrending": false
   },
   {
-    "id": "21",
+    "id": "24",
     "name": "Natural Rubber Resistance Bands for Toning",
     "price": 289,
     "originalPrice": 899,
-    "category": "bodylastics",
+    "category": "fitlastics",
     "images": [
       "https://m.media-amazon.com/images/I/6160ExztUoL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/61s7-dqdujL._SL1500_.jpg",
@@ -830,9 +947,8 @@
     "isBestSeller": true,
     "isTrending": false
   },
-
   {
-    "id": "22",
+    "id": "25",
     "name": "Resistance Bands Set for Squats",
     "price": 1199,
     "originalPrice": 1799,
@@ -871,7 +987,7 @@
     "isTrending": false
   },
   {
-    "id": "23",
+    "id": "26",
     "name": "Resistance Bands Set for Squats & Stretching",
     "price": 799,
     "originalPrice": 1999,
@@ -908,7 +1024,7 @@
     "isTrending": true
   },
   {
-    "id": "24",
+    "id": "27",
     "name": "Fitlastics Resistance Loop Bands Set",
     "price": 899,
     "originalPrice": 1499,
@@ -947,7 +1063,7 @@
     "isTrending": true
   },
   {
-    "id": "25",
+    "id": "28",
     "name": "Resistance Bands Set for Squats & Stretching",
     "price": 699,
     "originalPrice": 999,
@@ -984,7 +1100,7 @@
     "isTrending": true
   },
   {
-    "id": "26",
+    "id": "29",
     "name": "Resistance Bands Set for Squats & Stretching",
     "price": 375,
     "originalPrice": 1499,
@@ -1022,13 +1138,12 @@
     "isBestSeller": false,
     "isTrending": true
   },
-
   {
-    "id": "27",
+    "id": "30",
     "name": "Natural Rubber Resistance Bands for Strength Training",
     "price": 269,
     "originalPrice": 799,
-    "category": "bodylastics",
+    "category": "fitlastics",
     "images": [
       "https://m.media-amazon.com/images/I/61DONZL340L._SL1198_.jpg",
       "https://m.media-amazon.com/images/I/71z5JkJmGdL._SL1500_.jpg",
@@ -1061,11 +1176,11 @@
     "isTrending": false
   },
   {
-    "id": "28",
+    "id": "31",
     "name": "Natural Rubber Resistance Bands",
     "price": 249,
     "originalPrice": 699,
-    "category": "bodylastics",
+    "category": "fitlastics",
     "images": [
       "https://m.media-amazon.com/images/I/6160ExztUoL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/61n8TI8e+4L._SL1445_.jpg",
@@ -1099,7 +1214,7 @@
     "isTrending": false
   },
   {
-    "id": "29",
+    "id": "32",
     "name": "Bodylastics Adjustable Ankle & Wrist Weights 4 lb Pair (2 lb Each)",
     "price": 1999,
     "originalPrice": 4999,
@@ -1134,22 +1249,22 @@
     "amazonLink": "https://www.amazon.in/dp/B0GSNN9ZCJ"
   },
   {
-    "id": "30",
+    "id": "33",
     "name": "Bodylastics Adjustable Ankle & Wrist Weights 2 lb Pair (1 lb Each)",
     "price": 999,
     "originalPrice": 2999,
     "category": "bodylastics",
     "badge": "Deal",
     "images": [
-      "https://m.media-amazon.com/images/I/71MTlKjCzPL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/716v3YMGinL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/7106gtUiVOL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71Pf-cyejjL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61lRjA81FbL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71brkZHHctL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71FSqUl84BL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71+CFBkB8fL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71Ow0g3A+IL._SL1500_.jpg"
+      "https://m.media-amazon.com/images/I/617JYe6-lIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71J+eqSrEQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MK2wD77+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71lrya5hRDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/619mfq4xoHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/717mPG+H8jL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71aumZZu7LL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81cB1q8lQLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71EhyMBU5nL._SL1500_.jpg"
     ],
     "details": {
       "brand": "Bodylastics",
@@ -1164,7 +1279,7 @@
     "amazonLink": "https://www.amazon.in/dp/B0GSNC73YF"
   },
   {
-    "id": "31",
+    "id": "34",
     "name": "Bodylastics 60cms Foam Roller for Deep Tissue Massage",
     "price": 999,
     "originalPrice": 2499,
@@ -1197,22 +1312,53 @@
     "amazonLink": "https://www.amazon.in/dp/B0995LXTRT"
   },
   {
-    "id": "32",
-    "name": "Bodylastics 33cms Foam Roller",
+    "id": "35",
+    "name": "Bodylastics 45cms Foam Roller for Deep Tissue Massage",
+    "price": 799,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "Deal",
+    "images": [
+      "https://m.media-amazon.com/images/I/61m9eB+srJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61VaGDYB8WL._SL1414_.jpg",
+      "https://m.media-amazon.com/images/I/81n0UzTDbLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813WIjRS2yL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GI7+6ifqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71oXgCTiEQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71S2hrEWuoL._SL1478_.jpg",
+      "https://m.media-amazon.com/images/I/717kDHHrL0L._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Foam",
+      "size": "45 cm",
+      "power_source": "Manual",
+      "about": [
+        "Deep tissue massage",
+        "Muscle recovery",
+        "Pre and post workout use"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "description": "Foam roller for muscle recovery and pain relief.",
+    "amazonLink": "https://www.amazon.in/dp/B08425FXMH"
+  },
+  {
+    "id": "36",
+    "name": "Bodylastics 33cms Foam Roller for Deep Tissue Massage",
     "price": 649,
     "originalPrice": 1699,
     "category": "bodylastics",
     "badge": "Deal",
     "images": [
-      "https://m.media-amazon.com/images/I/61uedGaiADL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/51AZTZ5h-XL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61DMpfJDOFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/31c4CBEWIAL.jpg",
+      "https://m.media-amazon.com/images/I/61gvWvPLb9L._SL1015_.jpg",
+      "https://m.media-amazon.com/images/I/51f2SJ7TJaL._SL1044_.jpg",
       "https://m.media-amazon.com/images/I/813WIjRS2yL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71GI7+6ifqL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/51f2SJ7TJaL._SL1044_.jpg",
       "https://m.media-amazon.com/images/I/71S2hrEWuoL._SL1478_.jpg",
-      "https://m.media-amazon.com/images/I/71oXgCTiEQL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61mqDrjsnUL._SL1136_.jpg",
-      "https://m.media-amazon.com/images/I/610ARdyP7+L._SL1062_.jpg"
+      "https://m.media-amazon.com/images/I/419MHQ9sHNL.jpg"
     ],
     "details": {
       "brand": "Bodylastics",
@@ -1227,10 +1373,86 @@
     },
     "colors": ["yellow", "red", "blue"],
     "description": "Affordable foam roller for everyday recovery sessions.",
-    "amazonLink": "https://www.amazon.in/dp/B0842589P6"
+    "amazonLink": "https://www.amazon.in/dp/B08421CNFD"
   },
   {
-    "id": "33",
+    "id": "37",
+    "name": "Bodylastics 60cms Foam Roller for Pre & Post Workout & Muscle Recovery",
+    "price": 799,
+    "originalPrice": 1599,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/71AN2JKaM0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51gNaAWWM4S._SL1202_.jpg",
+      "https://m.media-amazon.com/images/I/61Ye3H3AkPL._SL1062_.jpg",
+      "https://m.media-amazon.com/images/I/610ARdyP7+L._SL1062_.jpg",
+      "https://m.media-amazon.com/images/I/61uR2sYYiXL._SL1062_.jpg",
+      "https://m.media-amazon.com/images/I/71R5krUo7yL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71iw0slLDFL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "EVA Foam",
+      "size": "60 cm",
+      "dimensions": "60 x 14 x 14 cm",
+      "power_source": "Manual",
+      "item_weight": "800 g",
+      "about": [
+        "Triple grid 3D massage zones mimic therapist hands",
+        "Medium density suitable for beginners and deep tissue massage",
+        "Helps relieve muscle pain, sciatica, and plantar fasciitis",
+        "Improves blood circulation and reduces lactic acid buildup",
+        "Ideal for pre and post workout recovery routines",
+        "Effective for legs, arms, back, hamstrings, IT band, and calves",
+        "Lightweight, durable, and suitable for home or gym use"
+      ]
+    },
+    "colors": ["grey"],
+    "description": "Medium-density foam roller designed for deep tissue massage, muscle recovery, and improved flexibility.",
+    "amazonLink": "https://www.amazon.in/dp/B0B98YW81L"
+  },
+  {
+    "id": "38",
+    "name": "Bodylastics 45cms Foam Roller for Pre & Post Workout & Muscle Recovery",
+    "price": 649,
+    "originalPrice": 1299,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/51Iby93gZ0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61S0tok0UtL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61KGrTipX7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7165CD4zcpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jR2LKYBlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/618GS6YsIfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/610ARdyP7+L._SL1062_.jpg",
+      "https://m.media-amazon.com/images/I/61Ye3H3AkPL._SL1062_.jpg",
+      "https://m.media-amazon.com/images/I/61uR2sYYiXL._SL1062_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "EVA Foam",
+      "size": "45 cm",
+      "dimensions": "45 x 14 x 14 cm",
+      "power_source": "Manual",
+      "item_weight": "700 g",
+      "about": [
+        "Triple grid 3D massage zones mimic therapist hands",
+        "Medium density suitable for beginners and deep tissue massage",
+        "Helps relieve muscle pain, sciatica, and plantar fasciitis",
+        "Improves blood circulation and reduces lactic acid buildup",
+        "Ideal for pre and post workout recovery routines",
+        "Effective for legs, arms, back, hamstrings, IT band, and calves",
+        "Lightweight, durable, and suitable for home or gym use"
+      ]
+    },
+    "colors": ["grey"],
+    "description": "Medium-density foam roller designed for deep tissue massage, muscle recovery, and improved flexibility.",
+    "amazonLink": "https://www.amazon.in/dp/B0B986D8HD"
+  },
+  {
+    "id": "39",
     "name": "Bodylastics 33cms Foam Roller for Pre & Post Workout Sessions",
     "price": 499,
     "originalPrice": 999,
@@ -1265,7 +1487,50 @@
     "amazonLink": "https://www.amazon.in/dp/B0B9889LQX"
   },
   {
-    "id": "34",
+    "id": "40",
+    "name": "Bodylastics Resistance Loop Band Orange Medium 25-60 lbs",
+    "price": 549,
+    "originalPrice": 1799,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/71o9pwIs1NL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61tq2uvyZ1L._SL1078_.jpg",
+      "https://m.media-amazon.com/images/I/71sGMD5jdPL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/71QhaDJAaBL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61922iItacL._SL1238_.jpg",
+      "https://m.media-amazon.com/images/I/61vLM4xvCNL._SL1005_.jpg",
+      "https://m.media-amazon.com/images/I/61EUHQWI8mL._SL1033_.jpg",
+      "https://m.media-amazon.com/images/I/511qKZLeJ4L._SL1031_.jpg",
+      "https://m.media-amazon.com/images/I/61g7JiTbJdL._SL1082_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Natural Rubber",
+      "size": "41 Inches Length",
+      "dimensions": "41 in length, 4.5 mm thickness",
+      "power_source": "Manual",
+      "item_weight": "200 g",
+      "resistance": "25 - 60 lbs",
+      "sport": ["Exercise", "Fitness", "Pilates", "Yoga"],
+      "included_components": ["1 Resistance Loop Band", "Door Anchor"],
+      "about": [
+        "Single medium resistance loop band with door anchor",
+        "Provides 25 to 60 lbs resistance support",
+        "Ideal for pull-up assistance and strength training",
+        "Suitable for Pilates, yoga, stretching, and mobility work",
+        "Natural rubber construction for durability and flexibility",
+        "Can be used for squats, bench press, and Olympic lifts",
+        "Improves range of motion, strength, and muscle activation",
+        "Portable design for home, gym, or travel workouts"
+      ]
+    },
+    "colors": ["orange"],
+    "description": "Medium resistance loop band with door anchor for pull-up assistance, strength training, yoga, Pilates, and mobility workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B07XCWXLPW"
+  },
+  {
+    "id": "41",
     "name": "Bodylastics Dual Layer Resistance Loop Bands",
     "price": 899,
     "originalPrice": 2199,
@@ -1300,7 +1565,49 @@
     "amazonLink": "https://www.amazon.in/dp/B07XDXTN97"
   },
   {
-    "id": "35",
+    "id": "42",
+    "name": "Bodylastics Dual Layer Resistance Loop Bands Set",
+    "price": 2499,
+    "originalPrice": 4999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/81NYhZ6qa3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81jGIO8nlkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/610KI5uY+gL._SL1078_.jpg",
+      "https://m.media-amazon.com/images/I/71sGMD5jdPL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61g7JiTbJdL._SL1082_.jpg",
+      "https://m.media-amazon.com/images/I/51OlzPGjuyL._SL1307_.jpg",
+      "https://m.media-amazon.com/images/I/51zQIJf2nSL._SL1140_.jpg",
+      "https://m.media-amazon.com/images/I/51gCrvbgzbL.jpg",
+      "https://m.media-amazon.com/images/I/81-21ptee2L._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Natural Rubber",
+      "size": "41 Inches Length",
+      "dimensions": "41 in length, 4.5 cm thickness",
+      "power_source": "Manual",
+      "item_weight": "920 g",
+      "sport": ["Exercise", "Fitness", "Pilates", "Yoga"],
+      "included_components": ["4 Resistance Loop Bands", "Door Anchor"],
+      "about": [
+        "Complete set with all 4 resistance bands and door anchor",
+        "Dual layer natural rubber bands built for durability",
+        "Suitable for pull-up assistance and strength training",
+        "Ideal for Pilates, yoga, mobility, and home workouts",
+        "Different resistance levels for beginners to advanced users",
+        "Can be used for squats, bench press, Olympic lifts, and stretching",
+        "Improves range of motion, strength, and muscle activation",
+        "Bands can be combined for higher resistance levels"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Set of 4 dual layer resistance loop bands with door anchor for pull-up assistance, strength training, yoga, Pilates, and fitness workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B07TTG5S37"
+  },
+  {
+    "id": "43",
     "name": "Bodylastics Yoga Mat 6mm with Carry Bag",
     "price": 999,
     "originalPrice": 2999,
@@ -1335,9 +1642,174 @@
     "amazonLink": "https://www.amazon.in/dp/B0CVXFTKVH"
   },
   {
-    "id": "36",
+    "id": "44",
+    "name": "Bodylastics Yoga Mat 6mm with Carry Bag",
+    "price": 1299,
+    "originalPrice": 2999,
+    "category": "bodylastics",
+    "badge": "Best seller",
+    "images": [
+      "https://m.media-amazon.com/images/I/81eB0r8koXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71hT-kb2E2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Gh7Jd8pgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71lJSHYUdNL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81J--Z+9XuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61LllCDw2VL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61gT4CEerPL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/714AcLYvPHL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "TPE",
+      "size": "6mm",
+      "power_source": "Manual",
+      "about": [
+        "Anti-slip surface",
+        "Eco-friendly material",
+        "Comfortable cushioning",
+        "Lightweight with carry bag",
+        "Ideal for yoga and workouts"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "description": "Durable and anti-slip yoga mat for all types of workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B09GJKYTQZ"
+  },
+  {
+    "id": "45",
+    "name": "Bodylastics Door Anchor for Resistance Bands",
+    "price": 199,
+    "originalPrice": 699,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/61JSsd9peGL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/71sGMD5jdPL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61dVR-cRvjL._SL1070_.jpg",
+      "https://m.media-amazon.com/images/I/513pnjDKH0L._SL1028_.jpg",
+      "https://m.media-amazon.com/images/I/61yxEZ5z+SL._SL1148_.jpg",
+      "https://m.media-amazon.com/images/I/61BBsEadCWL._SL1071_.jpg",
+      "https://m.media-amazon.com/images/I/6165oX1kCwL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71MpuL-GLQL._SL1280_.jpg",
+      "https://m.media-amazon.com/images/I/71oXj5jDfKL._SL1300_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Foam, Nylon, Neoprene",
+      "size": "Universal Fit",
+      "power_source": "Manual",
+      "item_weight": "30 g",
+      "style": "Resistance Bands Door Anchor",
+      "included_components": ["1 Door Anchor"],
+      "about": [
+        "Heavy-duty door anchor for resistance band workouts",
+        "Made with thick nylon webbing and reinforced stitching",
+        "Neoprene lining helps protect resistance bands from wear",
+        "Large high-density foam wheel protects doors from scratches and dents",
+        "Can be positioned at top, middle, or bottom of door",
+        "Expands exercise options for upper and lower body training",
+        "Compatible with most resistance tubes and bands",
+        "Simple setup by closing door on hinge side"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Heavy-duty door anchor with neoprene lining and foam wheel for safe resistance band workouts at home.",
+    "amazonLink": "https://www.amazon.in/dp/B07PF6KLS7"
+  },
+  {
+    "id": "46",
+    "name": "Bodylastics Resistance Tube Band Yellow 10 lbs",
+    "price": 299,
+    "originalPrice": 899,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/716vI7nO0oL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71AyiFtiy5L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61IHArfj43L._SL1012_.jpg",
+      "https://m.media-amazon.com/images/I/71sGMD5jdPL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61SSi2K4HSL._SL1002_.jpg",
+      "https://m.media-amazon.com/images/I/61Y7-LGRixL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61Y7-LGRixL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61V54phjqQL._SL1036_.jpg",
+      "https://m.media-amazon.com/images/I/619lLNOhjwL._SL1000_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Natural Rubber",
+      "size": "Adjustable Length",
+      "power_source": "Manual",
+      "item_weight": "220 g",
+      "resistance": "10 lbs",
+      "sport": ["Pilates", "Strength Training", "Home Workout"],
+      "included_components": [
+        "1 Resistance Tube Band with Handles",
+        "1 High Density Door Anchor"
+      ],
+      "about": [
+        "Resistance tube band with 10 lbs tension",
+        "Adjustable length for multiple workout styles",
+        "Comfortable non-slip handles for secure grip",
+        "Made from natural latex with anti-snap double layer design",
+        "Ideal for arms, shoulders, hips, legs, and flexibility training",
+        "Suitable for Pilates, yoga, CrossFit, running, and rehab workouts",
+        "Includes durable high-density door anchor",
+        "Portable setup for home or travel workouts"
+      ]
+    },
+    "colors": ["yellow"],
+    "description": "Adjustable 10 lbs resistance tube band with handles and door anchor for strength training, flexibility, Pilates, and home workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B07WZK2RRT"
+  },
+  {
+    "id": "47",
+    "name": "Bodylastics Resistance Tube Band Red 15 lbs",
+    "price": 339,
+    "originalPrice": 999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/81I1m4LJuyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sGMD5jdPL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61IHArfj43L._SL1012_.jpg",
+      "https://m.media-amazon.com/images/I/51IJpjtaNtL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61SSi2K4HSL._SL1002_.jpg",
+      "https://m.media-amazon.com/images/I/61lrYyeiAeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61gLyqnZZIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/619lLNOhjwL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61Y7-LGRixL._SL1000_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Natural Rubber",
+      "size": "Adjustable Length",
+      "power_source": "Manual",
+      "item_weight": "260 g",
+      "resistance": "15 lbs",
+      "sport": ["Exercise", "Fitness", "Pilates", "Running"],
+      "included_components": [
+        "1 Resistance Tube Band with Handles",
+        "1 High Density Door Anchor"
+      ],
+      "about": [
+        "Resistance tube band with 15 lbs tension",
+        "Adjustable length for versatile workout routines",
+        "Comfortable non-slip handles for secure grip",
+        "Made from natural latex with anti-snap double layer design",
+        "Ideal for shoulders, hips, arms, legs, and flexibility training",
+        "Suitable for Pilates, running, yoga, CrossFit, and rehab workouts",
+        "Includes durable high-density door anchor",
+        "Portable setup for home, gym, or travel workouts"
+      ]
+    },
+    "colors": ["red"],
+    "description": "Adjustable 15 lbs resistance tube band with handles and door anchor for strength training, Pilates, fitness, and home workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B07WZJR9FQ"
+  },
+  {
+    "id": "48",
     "name": "Bodylastics Resistance Tube Band with Handles",
-    "price": 349,
+    "price": 389,
     "originalPrice": 1099,
     "category": "bodylastics",
     "badge": "Budget pick",
@@ -1369,7 +1841,142 @@
     "amazonLink": "https://www.amazon.in/dp/B07X3RVS13"
   },
   {
-    "id": "37",
+    "id": "49",
+    "name": "Bodylastics Resistance Tube Band Green 25 lbs",
+    "price": 399,
+    "originalPrice": 1199,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/713+Q6o07VL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sGMD5jdPL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61IHArfj43L._SL1012_.jpg",
+      "https://m.media-amazon.com/images/I/51IJpjtaNtL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61SSi2K4HSL._SL1002_.jpg",
+      "https://m.media-amazon.com/images/I/61lrYyeiAeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/619lLNOhjwL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71qsXfFPYXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Y7-LGRixL._SL1000_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Natural Rubber",
+      "size": "Adjustable Length",
+      "power_source": "Manual",
+      "item_weight": "260 g",
+      "resistance": "25 lbs",
+      "sport": ["Exercise", "Fitness", "Pilates", "Running"],
+      "included_components": [
+        "1 Resistance Tube Band with Handles",
+        "1 High Density Door Anchor"
+      ],
+      "about": [
+        "Resistance tube band with 25 lbs tension",
+        "Adjustable length for versatile training routines",
+        "Comfortable non-slip handles for secure grip",
+        "Made from natural latex with anti-snap double layer design",
+        "Ideal for shoulders, hips, arms, legs, and flexibility workouts",
+        "Suitable for Pilates, running, yoga, CrossFit, and rehab training",
+        "Includes durable high-density door anchor",
+        "Portable setup for home, gym, or travel workouts"
+      ]
+    },
+    "colors": ["green"],
+    "description": "Adjustable 25 lbs resistance tube band with handles and door anchor for strength training, Pilates, fitness, and home workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B07X3RDFZL"
+  },
+  {
+    "id": "50",
+    "name": "Bodylastics Resistance Tube Band Black 30 lbs",
+    "price": 419,
+    "originalPrice": 1299,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/61bvJCpXoWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sGMD5jdPL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61IHArfj43L._SL1012_.jpg",
+      "https://m.media-amazon.com/images/I/71XH5DVw2OL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61SSi2K4HSL._SL1002_.jpg",
+      "https://m.media-amazon.com/images/I/51IJpjtaNtL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61lrYyeiAeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61gLyqnZZIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XH5DVw2OL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Natural Rubber",
+      "size": "Adjustable Length",
+      "power_source": "Manual",
+      "item_weight": "260 g",
+      "resistance": "30 lbs",
+      "sport": ["Exercise", "Fitness", "Pilates", "Yoga"],
+      "included_components": [
+        "1 Resistance Tube Band with Handles",
+        "1 High Density Door Anchor"
+      ],
+      "about": [
+        "Resistance tube band with 30 lbs tension",
+        "Adjustable length for versatile workout routines",
+        "Comfortable non-slip handles for secure grip",
+        "Made from natural latex with anti-snap double layer design",
+        "Ideal for shoulders, hips, arms, legs, and flexibility training",
+        "Suitable for Pilates, yoga, CrossFit, running, and rehab workouts",
+        "Includes durable high-density door anchor",
+        "Portable setup for home, gym, or travel workouts"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Adjustable 30 lbs resistance tube band with handles and door anchor for strength training, Pilates, yoga, and home workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B07X1MWXLY"
+  },
+  {
+    "id": "51",
+    "name": "Bodylastics Resistance Tube Band Orange 50 lbs",
+    "price": 489,
+    "originalPrice": 1499,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/81o65dJ4QzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61IHArfj43L._SL1012_.jpg",
+      "https://m.media-amazon.com/images/I/71sGMD5jdPL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/71XH5DVw2OL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/619lLNOhjwL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61lrYyeiAeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51IJpjtaNtL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/6165oX1kCwL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61SSi2K4HSL._SL1002_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Natural Rubber",
+      "size": "Adjustable Length",
+      "power_source": "Manual",
+      "item_weight": "220 g",
+      "resistance": "50 lbs",
+      "sport": ["Exercise", "Fitness", "Pilates", "Yoga"],
+      "included_components": [
+        "1 Resistance Tube Band with Handles",
+        "1 High Density Door Anchor"
+      ],
+      "about": [
+        "Resistance tube band with 50 lbs tension",
+        "Adjustable length for versatile workout routines",
+        "Comfortable non-slip handles for secure grip",
+        "Made from natural latex with anti-snap double layer design",
+        "Ideal for shoulders, hips, arms, legs, and strength training",
+        "Suitable for Pilates, yoga, CrossFit, running, and rehab workouts",
+        "Includes durable high-density door anchor",
+        "Portable setup for home, gym, or travel workouts"
+      ]
+    },
+    "colors": ["orange"],
+    "description": "Adjustable 50 lbs resistance tube band with handles and door anchor for strength training, Pilates, yoga, and home workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B0842VXJGH"
+  },
+  {
+    "id": "52",
     "name": "Bodylastics Hand Grip Strengthener Adjustable 10-40kg",
     "price": 499,
     "originalPrice": 1499,
@@ -1403,10 +2010,178 @@
     "amazonLink": "https://www.amazon.in/dp/B0958357FH"
   },
   {
-    "id": "38",
-    "name": "Bodylastics Resistance Hip Loop Bands",
-    "price": 229,
+    "id": "53",
+    "name": "Bodylastics High Density Foam Roller (30x14 cms) for Deep Tissue Massage",
+    "price": 549,
+    "originalPrice": 1299,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/51nTnnHVtSL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/81SzJjaGFQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61I95APklXL.jpg",
+      "https://m.media-amazon.com/images/I/51jYKUiFhZL.jpg",
+      "https://m.media-amazon.com/images/I/61eNArEdb5L._SL1031_.jpg",
+      "https://m.media-amazon.com/images/I/613CAgiiFOL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51hv7YsCimL.jpg",
+      "https://m.media-amazon.com/images/I/71ENZEQe2RL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "High Density Foam (Polystyrene/Thermocol)",
+      "size": "30 x 14 x 14 cm",
+      "power_source": "Manual",
+      "item_weight": "150 g",
+      "style": "Hard Foam Roller",
+      "included_components": ["1 High Density Foam Roller"],
+      "about": [
+        "High density hard foam roller designed for deep tissue massage and muscle recovery",
+        "30 x 14 cm compact size suitable for home, gym, and travel use",
+        "Helps relieve sore muscles, stiffness, knots, and myofascial tightness",
+        "Useful before and after workouts for warm-up and recovery sessions",
+        "Supports recovery from plantar fasciitis, shin splints, runner’s leg, and tennis elbow",
+        "Made from durable polystyrene foam that resists bending and breaking",
+        "Helps improve mobility, flexibility, and range of motion",
+        "Effective for back, neck, TFL, feet, calves, and other muscle groups",
+        "Suitable for runners, CrossFit athletes, yoga, pilates, swimmers, and therapy users",
+        "Lightweight and portable design for easy carrying anywhere"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Compact high density foam roller for deep tissue massage, pain relief, and pre or post workout muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B08427FCFM"
+  },
+  {
+    "id": "54",
+    "name": "Bodylastics High Density Foam Roller (45x14 cms) for Deep Tissue Massage",
+    "price": 799,
+    "originalPrice": 1499,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/51nTnnHVtSL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/81SzJjaGFQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61I95APklXL.jpg",
+      "https://m.media-amazon.com/images/I/51jYKUiFhZL.jpg",
+      "https://m.media-amazon.com/images/I/61eNArEdb5L._SL1031_.jpg",
+      "https://m.media-amazon.com/images/I/613CAgiiFOL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51hv7YsCimL.jpg",
+      "https://m.media-amazon.com/images/I/71ENZEQe2RL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "High Density Foam (Polystyrene/Thermocol)",
+      "size": "45 x 14 x 14 cm",
+      "power_source": "Manual",
+      "item_weight": "200 g",
+      "style": "Hard Foam Roller",
+      "included_components": ["1 High Density Foam Roller"],
+      "about": [
+        "High density hard foam roller designed for deep tissue massage and muscle recovery",
+        "45 x 14 cm compact size suitable for home, gym, and travel use",
+        "Helps relieve sore muscles, stiffness, knots, and myofascial tightness",
+        "Useful before and after workouts for warm-up and recovery sessions",
+        "Supports recovery from plantar fasciitis, shin splints, runner’s leg, and tennis elbow",
+        "Made from durable polystyrene foam that resists bending and breaking",
+        "Helps improve mobility, flexibility, and range of motion",
+        "Effective for back, neck, TFL, feet, calves, and other muscle groups",
+        "Suitable for runners, CrossFit athletes, yoga, pilates, swimmers, and therapy users",
+        "Lightweight and portable design for easy carrying anywhere"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Compact high density foam roller for deep tissue massage, pain relief, and pre or post workout muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B08427J46T"
+  },
+  {
+    "id": "55",
+    "name": "Bodylastics High Density Foam Roller (60x14 cms) for Deep Tissue Massage",
+    "price": 999,
     "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/51nTnnHVtSL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/81SzJjaGFQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61I95APklXL.jpg",
+      "https://m.media-amazon.com/images/I/51jYKUiFhZL.jpg",
+      "https://m.media-amazon.com/images/I/61eNArEdb5L._SL1031_.jpg",
+      "https://m.media-amazon.com/images/I/613CAgiiFOL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51hv7YsCimL.jpg",
+      "https://m.media-amazon.com/images/I/71ENZEQe2RL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "High Density Foam (Polystyrene/Thermocol)",
+      "size": "60 x 14 x 14 cm",
+      "power_source": "Manual",
+      "item_weight": "280 g",
+      "style": "Hard Foam Roller",
+      "included_components": ["1 High Density Foam Roller"],
+      "about": [
+        "High density hard foam roller designed for deep tissue massage and muscle recovery",
+        "60 x 14 cm compact size suitable for home, gym, and travel use",
+        "Helps relieve sore muscles, stiffness, knots, and myofascial tightness",
+        "Useful before and after workouts for warm-up and recovery sessions",
+        "Supports recovery from plantar fasciitis, shin splints, runner’s leg, and tennis elbow",
+        "Made from durable polystyrene foam that resists bending and breaking",
+        "Helps improve mobility, flexibility, and range of motion",
+        "Effective for back, neck, TFL, feet, calves, and other muscle groups",
+        "Suitable for runners, CrossFit athletes, yoga, pilates, swimmers, and therapy users",
+        "Lightweight and portable design for easy carrying anywhere"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Compact high density foam roller for deep tissue massage, pain relief, and pre or post workout muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B08V8YXY65"
+  },
+  {
+    "id": "56",
+    "name": "Bodylastics Resistance Hip Loop Bands 14-25lbs for Legs, Butt, Thighs & Glutes",
+    "price": 209,
+    "originalPrice": 599,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/71Qw+y6ZHGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81zndP9BFxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61n+K24skbL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/81m2znoHL7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71AAUluOtLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81H6kdnY23L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vqd2z3GeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81s8PyfFPaL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Cotton Blend, Latex",
+      "size": "Universal Loop Band",
+      "power_source": "Manual",
+      "item_weight": "500 g",
+      "style": "Light - Green",
+      "included_components": ["1 Resistance Hip Loop Band"],
+      "about": [
+        "Fabric resistance hip loop band designed for legs, glutes, thighs, hips, and butt workouts",
+        "Light resistance level offers 14-25 lbs tension for beginners and moderate training",
+        "Ideal for bodyweight exercises, warm-ups, stretching, yoga, pilates, and strength workouts",
+        "Anti-slip inner grip strips help keep the band in place during exercise",
+        "Will not roll, pinch, slide, or snap like traditional latex loop bands",
+        "Made with soft polyester cotton blend and durable latex for comfort and long life",
+        "Wide flat design provides extra support and comfort on legs",
+        "Portable and lightweight for use at home, gym, office, beach, or travel",
+        "Helps tone lower body muscles and improve glute activation",
+        "Suitable for men and women of all fitness levels"
+      ]
+    },
+    "colors": ["light green"],
+    "description": "Anti-slip fabric hip resistance band with 14-25 lbs tension for glute, thigh, leg, and lower body workouts anywhere.",
+    "amazonLink": "https://www.amazon.in/dp/B0F5B8755L"
+  },
+  {
+    "id": "57",
+    "name": "Bodylastics Resistance Hip Loop Bands 25-35lbs",
+    "price": 229,
+    "originalPrice": 799,
     "category": "bodylastics",
     "badge": "Trending",
     "images": [
@@ -1434,5 +2209,2040 @@
     "colors": ["yellow", "red", "blue"],
     "description": "Fabric resistance bands for lower body workouts.",
     "amazonLink": "https://www.amazon.in/dp/B0F5B8MZGF"
+  },
+  {
+    "id": "58",
+    "name": "Bodylastics Resistance Hip Loop Bands 35-50lbs",
+    "price": 249,
+    "originalPrice": 999,
+    "category": "bodylastics",
+    "badge": "Trending",
+    "images": [
+      "https://m.media-amazon.com/images/I/814lcSpum5L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/717OU+gc0wL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/81zndP9BFxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81m2znoHL7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71AAUluOtLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81H6kdnY23L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vqd2z3GeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81s8PyfFPaL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Fabric",
+      "power_source": "Manual",
+      "about": [
+        "Anti-slip fabric",
+        "Ideal for glutes and thighs",
+        "Durable and stretchable",
+        "Comfortable fit",
+        "Suitable for all fitness levels"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "description": "Fabric resistance bands for lower body workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B0F5B9ZFH2"
+  },
+  {
+    "id": "59",
+    "name": "Bodylastics Resistance Hip Loop Bands Set of 3 for Legs, Butt, Thighs & Glutes",
+    "price": 699,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/812zF9WGtwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81YxciPdgcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81zndP9BFxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81K9-gBdT-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71AAUluOtLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81H6kdnY23L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81vqd2z3GeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81s8PyfFPaL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Cotton Blend, Latex",
+      "size": "Small 13.1 in, Medium 14.5 in, Large 16 in",
+      "power_source": "Manual",
+      "item_weight": "500 g",
+      "style": "3 Bands Set",
+      "included_components": [
+        "1 Light Resistance Hip Band",
+        "1 Medium Resistance Hip Band",
+        "1 Heavy Resistance Hip Band"
+      ],
+      "about": [
+        "Set of 3 fabric resistance hip loop bands for lower body training",
+        "Designed for glutes, thighs, hips, quads, hamstrings, and butt workouts",
+        "Includes three resistance levels suitable for beginners to advanced users",
+        "Sizes included: Small 13.1 in, Medium 14.5 in, Large 16 in",
+        "Anti-slip inner grip strips prevent sliding, rolling, or pinching during exercise",
+        "Made with durable cotton blend fabric and elastic latex core",
+        "Comfortable wide band design reduces discomfort on legs",
+        "Ideal for strength training, pilates, stretching, physiotherapy, and warm-ups",
+        "Portable and lightweight for home, gym, office, hotel, or travel workouts",
+        "Helps tone lower body muscles and improve glute activation"
+      ]
+    },
+    "colors": ["3 bands set"],
+    "description": "Set of 3 anti-slip fabric hip resistance bands with multiple resistance levels for glute, thigh, and lower body workouts anywhere.",
+    "amazonLink": "https://www.amazon.in/dp/B084MKF4FT"
+  },
+  {
+    "id": "60",
+    "name": "Bodylastics Peanut Massage Ball for Deep Tissue & Muscle Recovery",
+    "price": 245,
+    "originalPrice": 4999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/612WUbF-tKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/612Dpf3BmAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61JkwtmTxGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GuOI-2fHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/717ugCrTFwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61lVo4GbuPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71RJ5MBOOyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51M+23k-bLL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "High-density EVA Foam",
+      "power_source": "Manual",
+      "item_weight": "260 g",
+      "dimensions": "6 x 6 x 12 cm",
+      "about": [
+        "Dual peanut shape allows safe spinal alignment and deep massage",
+        "Targets muscle knots, tightness, and soreness effectively",
+        "Ideal for back, neck, shoulders, glutes, calves, and hamstrings",
+        "Improves blood circulation and speeds up recovery",
+        "Durable high-density material retains shape with repeated use",
+        "Supports muscle recovery, mobility, and flexibility",
+        "Suitable for gym, yoga, physiotherapy, and sports recovery"
+      ]
+    },
+    "colors": ["green"],
+    "description": "Peanut-shaped massage ball designed for deep tissue relief, trigger point therapy, and full-body muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0G5QLGSD9"
+  },
+  {
+    "id": "61",
+    "name": "Bodylastics Foot Massage Roller for Plantar Fasciitis & Muscle Recovery",
+    "price": 339,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/61uTdzpZ49L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61-mhtojYYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61rCpnM+MLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61M8mSbUGpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61YKZRcmubL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61-s+yqp0ML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71EuiSHF0HL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ASmkkQAgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51cYkkxW9BL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "ABS Plastic, Stainless Steel",
+      "power_source": "Manual",
+      "item_weight": "190 g",
+      "about": [
+        "Ergonomic design fits foot arch for effective pain relief",
+        "Provides reflexology benefits and improves blood circulation",
+        "Suitable for foot, hand, heel, leg, neck, and full body use",
+        "Helps treat plantar fasciitis, muscle spasms, and pain relief",
+        "Made from safe, durable, and non-toxic materials",
+        "Lightweight, portable, and easy to use anywhere"
+      ]
+    },
+    "colors": ["green"],
+    "description": "Portable foot massage roller designed for plantar fasciitis relief, reflexology, and full-body muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0GHFZ3LRX"
+  },
+  {
+    "id": "62",
+    "name": "Bodylastics 2 x Foot Massage Rollers Recovery Kit",
+    "price": 649,
+    "originalPrice": 2999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/61aWVcIs3VL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61uTdzpZ49L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61BHRpG+BVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61rCpnM+MLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61NLGUvcmyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61YKZRcmubL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61o15YwsZzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71EuiSHF0HL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61LlXF-8AnL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "ABS Plastic, Stainless Steel, TPR, PVC",
+      "size": "17 x 7 x 7 cm Each",
+      "dimensions": "17 x 7 x 7 cm",
+      "power_source": "Manual",
+      "item_weight": "360 g",
+      "use_for": ["Foot", "Hand", "Heel", "Leg", "Neck"],
+      "included_components": ["2 Foot Massage Rollers"],
+      "about": [
+        "Set of 2 ergonomic foot massage rollers",
+        "Helps relieve plantar fasciitis and tired achy feet",
+        "Supports reflexology and improves blood circulation",
+        "Deep tissue massage for heel, arches, toes, hands, and legs",
+        "Helps release tight muscles, spasms, and pressure points",
+        "Spiky textured surface stimulates recovery and relaxation",
+        "Portable and lightweight for home, office, gym, or travel use",
+        "Durable washable construction with no assembly required"
+      ]
+    },
+    "colors": ["pink", "green"],
+    "description": "Set of 2 foot massage rollers for plantar fasciitis relief, reflexology, circulation boost, and full body muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0GVBKMBQX"
+  },
+  {
+    "id": "63",
+    "name": "Bodylastics 60cms EVA Foam Roller for Deep Tissue & Muscle Recovery",
+    "price": 1399,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/71Q+GzRmX4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71t9xmxXmeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81pJU40ElcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71M+cpWXksL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71TsbS1p8pL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/714gEmSNqXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71nAc1UMX-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61hvSTaTwpL._SL1058_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "EVA Foam",
+      "size": "60 cm",
+      "dimensions": "60 x 15 x 15 cm",
+      "power_source": "Manual",
+      "item_weight": "600 g",
+      "about": [
+        "Dotted foam surface for enhanced deep tissue massage",
+        "Helps relieve muscle tightness in back, neck, legs, and feet",
+        "Medium density suitable for beginners and effective muscle penetration",
+        "Improves blood circulation and reduces lactic acid buildup",
+        "Ideal for pre and post workout recovery routines",
+        "Provides relief for sciatica, plantar fasciitis, and sore muscles",
+        "Supports flexibility, mobility, and overall performance",
+        "Durable and suitable for home or gym use"
+      ]
+    },
+    "colors": ["purple"],
+    "description": "60cm EVA foam roller designed for deep tissue massage, muscle recovery, and improved flexibility.",
+    "amazonLink": "https://www.amazon.in/dp/B08NX1KBY8"
+  },
+  {
+    "id": "64",
+    "name": "Bodylastics 45cms EVA Foam Roller for Deep Tissue & Muscle Recovery",
+    "price": 999,
+    "originalPrice": 1699,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/71KyONqFHTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51LkSahbrRL.jpg",
+      "https://m.media-amazon.com/images/I/71UkhyjALGL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71c6C08XawL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71cRgpYpy-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71COlLX1LXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41EPUCtITTL.jpg",
+      "https://m.media-amazon.com/images/I/71kdzEb0uML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41lklzCRP3L.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "EVA Foam",
+      "size": "45 cm",
+      "dimensions": "45 x 15 x 15 cm",
+      "power_source": "Manual",
+      "item_weight": "600 g",
+      "about": [
+        "Dotted foam surface for enhanced deep tissue massage",
+        "Helps relieve muscle tightness in back, neck, legs, and feet",
+        "Medium density suitable for beginners and effective muscle penetration",
+        "Improves blood circulation and reduces lactic acid buildup",
+        "Ideal for pre and post workout recovery routines",
+        "Provides relief for sciatica, plantar fasciitis, and sore muscles",
+        "Supports flexibility, mobility, and overall performance",
+        "Durable and suitable for home or gym use"
+      ]
+    },
+    "colors": ["purple"],
+    "description": "45cm EVA foam roller designed for deep tissue massage, muscle recovery, and improved flexibility.",
+    "amazonLink": "https://www.amazon.in/dp/B08K9B5SWV"
+  },
+  {
+    "id": "65",
+    "name": "Bodylastics 30cms EVA Foam Roller for Deep Tissue & Muscle Recovery",
+    "price": 750,
+    "originalPrice": 1499,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/61AlykVHamL._SL1382_.jpg",
+      "https://m.media-amazon.com/images/I/61Lur3g1amL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61qZQGZy4gL._SL1473_.jpg",
+      "https://m.media-amazon.com/images/I/619C8EBXrJL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61ZFu8eA5aL._SL1005_.jpg",
+      "https://m.media-amazon.com/images/I/41lklzCRP3L.jpg",
+      "https://m.media-amazon.com/images/I/712Y3wzlVZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Bh2fZo2xL._SL1028_.jpg",
+      "https://m.media-amazon.com/images/I/71iBFyZEuwL._SL1437_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "EVA Foam",
+      "size": "30 cm",
+      "dimensions": "30 x 15 x 15 cm",
+      "power_source": "Manual",
+      "item_weight": "600 g",
+      "about": [
+        "Dotted foam surface for enhanced deep tissue massage",
+        "Helps relieve muscle tightness in back, neck, legs, and feet",
+        "Medium density suitable for beginners and effective muscle penetration",
+        "Improves blood circulation and reduces lactic acid buildup",
+        "Ideal for pre and post workout recovery routines",
+        "Provides relief for sciatica, plantar fasciitis, and sore muscles",
+        "Supports flexibility, mobility, and overall performance",
+        "Durable and suitable for home or gym use"
+      ]
+    },
+    "colors": ["purple"],
+    "description": "30cm EVA foam roller designed for deep tissue massage, muscle recovery, and improved flexibility.",
+    "amazonLink": "https://www.amazon.in/dp/B08K9B12Z8"
+  },
+  {
+    "id": "66",
+    "name": "Bodylastics EVA Yoga Block for Balance & Flexibility (9x6x3 inches)",
+    "price": 299,
+    "originalPrice": 599,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/61ZR+O56xyL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61bc6P3MDzL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61zSnRsfllL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61gyOb22n4L._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61DvM8M8BgS._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51LHM785qXS._SL1181_.jpg",
+      "https://m.media-amazon.com/images/I/71U5J5FLZfS._SL1303_.jpg",
+      "https://m.media-amazon.com/images/I/71ByjYehMpL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "EVA Foam",
+      "size": "9 x 6 x 3 inches",
+      "power_source": "Manual",
+      "about": [
+        "High-density EVA foam provides strong and durable support",
+        "Non-slip surface with rounded edges for comfortable grip",
+        "Helps improve balance, flexibility, and posture alignment",
+        "Enhances stretching and deepens yoga poses",
+        "Moisture-proof and easy to clean surface",
+        "Suitable for yoga, workouts, and strength training",
+        "Lightweight and portable for home or gym use"
+      ]
+    },
+    "colors": ["blue", "brown"],
+    "description": "High-density yoga block designed to improve balance, flexibility, and support during yoga and workout sessions.",
+    "amazonLink": "https://www.amazon.in/dp/B09516WRNN"
+  },
+  {
+    "id": "67",
+    "name": "Bodylastics EVA Yoga Blocks Set of 2 for Balance & Flexibility (9x6x3 inches)",
+    "price": 599,
+    "originalPrice": 999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/61jV6YHuC3S._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71U5J5FLZfS._SL1303_.jpg",
+      "https://m.media-amazon.com/images/I/61DvM8M8BgS._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51LHM785qXS._SL1181_.jpg",
+      "https://m.media-amazon.com/images/I/61bc6P3MDzL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61zSnRsfllL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/71ByjYehMpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ZR+O56xyL._SL1400_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "EVA Foam",
+      "size": "9 x 6 x 3 inches (each)",
+      "power_source": "Manual",
+      "quantity": "Set of 2",
+      "about": [
+        "Set of 2 high-density EVA foam yoga blocks for strong support",
+        "Non-slip surface with rounded edges for stable and comfortable grip",
+        "Helps improve balance, flexibility, and posture alignment",
+        "Enhances stretching and deepens yoga poses",
+        "Moisture-proof and easy to clean surface",
+        "Suitable for yoga, workouts, and strength training",
+        "Lightweight and portable for home or gym use"
+      ]
+    },
+    "colors": ["blue", "brown"],
+    "description": "Set of 2 high-density yoga blocks designed to improve balance, flexibility, and support during yoga and workout sessions.",
+    "amazonLink": "https://www.amazon.in/dp/B08P6TLJ37"
+  },
+  {
+    "id": "68",
+    "name": "Bodylastics EVA Yoga Blocks Set of 2 for Balance & Flexibility (9x6x3 inches)",
+    "price": 649,
+    "originalPrice": 999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/61joaVMGsPS._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71U5J5FLZfS._SL1303_.jpg",
+      "https://m.media-amazon.com/images/I/61DvM8M8BgS._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51LHM785qXS._SL1181_.jpg",
+      "https://m.media-amazon.com/images/I/51lP50+FuaL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/51Xz0uBgbML._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/51nkb+mmdRL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/615vGV7mndL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/71ByjYehMpL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "EVA Foam",
+      "size": "9 x 6 x 3 inches (each)",
+      "power_source": "Manual",
+      "quantity": "Set of 2",
+      "about": [
+        "Set of 2 high-density EVA foam yoga blocks for strong support",
+        "Non-slip surface with rounded edges for stable and comfortable grip",
+        "Helps improve balance, flexibility, and posture alignment",
+        "Enhances stretching and deepens yoga poses",
+        "Moisture-proof and easy to clean surface",
+        "Suitable for yoga, workouts, and strength training",
+        "Lightweight and portable for home or gym use"
+      ]
+    },
+    "colors": ["green", "brown"],
+    "description": "Set of 2 high-density yoga blocks designed to improve balance, flexibility, and support during yoga and workout sessions.",
+    "amazonLink": ""
+  },
+  {
+    "id": "69",
+    "name": "Bodylastics Yoga Wheel for Back Stretching & Flexibility (13 Inch)",
+    "price": 799,
+    "originalPrice": 2999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/61LoERa43sL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614gmmNu3-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/416YlkAOsmL.jpg",
+      "https://m.media-amazon.com/images/I/71T7Yk220vL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61BkA+yuWlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51LCkQoELhL._SL1220_.jpg",
+      "https://m.media-amazon.com/images/I/71S7ulZWdXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61-jCsEqwgL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Plastic",
+      "size": "13 inch",
+      "power_source": "Manual",
+      "item_weight": "0.87 kg",
+      "about": [
+        "Thick padding provides superior comfort for back, hands, and feet",
+        "Helps improve flexibility, balance, and deep back stretches",
+        "Ideal for backbends, yoga poses, and posture correction",
+        "Sweat-resistant surface prevents moisture buildup",
+        "Strong and durable design supports up to 550 lbs",
+        "Lightweight and portable for home, gym, or travel use",
+        "Suitable for beginners and advanced yoga practitioners"
+      ]
+    },
+    "colors": ["blue", "pink"],
+    "description": "Durable yoga wheel designed for back stretching, flexibility, and improving yoga performance.",
+    "amazonLink": "https://www.amazon.in/dp/B09YDBW75Z"
+  },
+  {
+    "id": "70",
+    "name": "Bodylastics Cork Yoga Wheel for Back Stretching & Flexibility (13 Inch)",
+    "price": 1499,
+    "originalPrice": 2999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/61HMVZZE5bL._SL1016_.jpg",
+      "https://m.media-amazon.com/images/I/61Pmi1-PbBL._SL1084_.jpg",
+      "https://m.media-amazon.com/images/I/51Xm6DdCowL._SL1020_.jpg",
+      "https://m.media-amazon.com/images/I/61ucjtRzzJL._SL1008_.jpg",
+      "https://m.media-amazon.com/images/I/61Ec2-k-NCL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/71geLWig0kL._SL1000_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "PVC, Cork",
+      "size": "13 inch",
+      "power_source": "Manual",
+      "about": [
+        "Helps improve backbends, stretching, and flexibility",
+        "Strong durable wheel supports up to 550 lbs",
+        "Thick padded surface offers superior comfort",
+        "Sweat-resistant design prevents moisture buildup",
+        "Ideal for posture correction and yoga practice",
+        "Lightweight and portable for studio or travel use",
+        "Suitable for men and women of all fitness levels"
+      ]
+    },
+    "colors": ["black", "brown"],
+    "description": "Cork yoga wheel designed for back stretching, balance, posture support, and improved flexibility.",
+    "amazonLink": "https://www.amazon.in/dp/B07WSGJ16S"
+  },
+  {
+    "id": "71",
+    "name": "Bodylastics Ankle & Wrist Weights Pair 0.5kg for Strength Training",
+    "price": 599,
+    "originalPrice": 999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/51YOXOamcmL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51Mm77sMwEL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61jePhugs5L._SL1333_.jpg",
+      "https://m.media-amazon.com/images/I/71jaRwA6LFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ejvvX7arL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71YiY5-6X5L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Iygpbkl3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XxEOiSn4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bGCxoWGcL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Iron, Neoprene, Stainless Steel",
+      "size": "Adjustable (One Size Fits All)",
+      "power_source": "Manual",
+      "item_display_weight": "0.5 kg",
+      "about": [
+        "Soft neoprene material ensures comfort and prevents skin irritation",
+        "Adjustable velcro straps provide secure fit for ankles and wrists",
+        "Balanced weight distribution for safe and effective workouts",
+        "Helps build muscle, improve strength, balance, and flexibility",
+        "Ideal for walking, jogging, aerobics, gym, and home workouts",
+        "Durable stitching prevents leakage and ensures long-lasting use",
+        "Lightweight and portable for easy use anywhere",
+        "Suitable for beginners and advanced fitness levels"
+      ]
+    },
+    "colors": ["yellow"],
+    "description": "Adjustable ankle and wrist weights designed to add resistance and enhance strength training and fitness workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B08K99QT4C"
+  },
+  {
+    "id": "72",
+    "name": "Bodylastics Ankle & Wrist Weights Pair 1.0kg for Strength Training",
+    "price": 749,
+    "originalPrice": 1299,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/51o3-59BxEL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/511pfvP+C6L._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61jePhugs5L._SL1333_.jpg",
+      "https://m.media-amazon.com/images/I/71-tMUmmqIL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71C6G1q5lCL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jvJeso8vL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jaRwA6LFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ejvvX7arL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bGCxoWGcL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Iron, Neoprene, Stainless Steel",
+      "size": "Adjustable (One Size Fits All)",
+      "power_source": "Manual",
+      "item_display_weight": "1.0 kg",
+      "about": [
+        "Soft neoprene material ensures comfort and prevents skin irritation",
+        "Adjustable velcro straps provide secure fit for ankles and wrists",
+        "Balanced weight distribution for safe and effective workouts",
+        "Helps build muscle, improve strength, balance, and flexibility",
+        "Ideal for walking, jogging, aerobics, gym, and home workouts",
+        "Durable stitching prevents leakage and ensures long-lasting use",
+        "Lightweight and portable for easy use anywhere",
+        "Suitable for beginners and advanced fitness levels"
+      ]
+    },
+    "colors": ["pink"],
+    "description": "Adjustable ankle and wrist weights designed to add resistance and enhance strength training and fitness workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B08K9CZ69H"
+  },
+  {
+    "id": "73",
+    "name": "Bodylastics Ankle & Wrist Weights Pair 1.5kg for Strength Training",
+    "price": 999,
+    "originalPrice": 1599,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/51FpAS2lMdL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51eW6ieAvjL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61S1cl+ZejL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61jePhugs5L._SL1333_.jpg",
+      "https://m.media-amazon.com/images/I/719pdiHpSyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71B-VDnv7BL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jaRwA6LFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ejvvX7arL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71-tMUmmqIL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Iron, Neoprene, Stainless Steel",
+      "size": "Adjustable (One Size Fits All)",
+      "power_source": "Manual",
+      "item_display_weight": "1.5 kg",
+      "about": [
+        "Soft neoprene material ensures comfort and prevents skin irritation",
+        "Adjustable velcro straps provide secure fit for ankles and wrists",
+        "Balanced weight distribution for safe and effective workouts",
+        "Helps build muscle, improve strength, balance, and flexibility",
+        "Ideal for walking, jogging, aerobics, gym, and home workouts",
+        "Durable stitching prevents leakage and ensures long-lasting use",
+        "Lightweight and portable for easy use anywhere",
+        "Suitable for beginners and advanced fitness levels"
+      ]
+    },
+    "colors": ["blue"],
+    "description": "Adjustable ankle and wrist weights designed to add resistance and enhance strength training and fitness workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B08K9B2YZ7"
+  },
+  {
+    "id": "74",
+    "name": "Bodylastics Ankle & Wrist Weights Pair 2kg for Strength Training",
+    "price": 1299,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/61Xv2qMziHL._SL1258_.jpg",
+      "https://m.media-amazon.com/images/I/61T91MfwPML._SL1258_.jpg",
+      "https://m.media-amazon.com/images/I/61S1cl+ZejL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61jePhugs5L._SL1333_.jpg",
+      "https://m.media-amazon.com/images/I/719pdiHpSyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71B-VDnv7BL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jaRwA6LFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ejvvX7arL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71-tMUmmqIL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Iron, Neoprene, Stainless Steel",
+      "size": "Adjustable (One Size Fits All)",
+      "power_source": "Manual",
+      "item_display_weight": "2 kg",
+      "about": [
+        "Soft neoprene material ensures comfort and prevents skin irritation",
+        "Adjustable velcro straps provide secure fit for ankles and wrists",
+        "Balanced weight distribution for safe and effective workouts",
+        "Helps build muscle, improve strength, balance, and flexibility",
+        "Ideal for walking, jogging, aerobics, gym, and home workouts",
+        "Durable stitching prevents leakage and ensures long-lasting use",
+        "Lightweight and portable for easy use anywhere",
+        "Suitable for beginners and advanced fitness levels"
+      ]
+    },
+    "colors": ["brown"],
+    "description": "Adjustable ankle and wrist weights designed to add resistance and enhance strength training and fitness workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B08K99QT4C"
+  },
+  {
+    "id": "75",
+    "name": "Bodylastics Lacrosse Massage Ball for Deep Tissue & Muscle Recovery (7.5cm)",
+    "price": 179,
+    "originalPrice": 499,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/71g5iRAIppL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61jq0ufIXhL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71WEUrdmluL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sVBkzLwaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Jzx+EPc+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71d8dZ0lweL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71RiG--4hwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71O0qnau-rL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71L4mxAkRyL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Polyethylene (PE)",
+      "size": "7.5 cm",
+      "dimensions": "7.5 x 7.5 x 7.5 cm",
+      "power_source": "Manual",
+      "item_weight": "40 g",
+      "about": [
+        "Provides deep tissue massage and trigger point therapy",
+        "Helps relieve muscle knots, tension, and soreness",
+        "Supports myofascial release and muscle recovery",
+        "Improves blood circulation and tissue restoration",
+        "Effective for shoulder, back, and full body use",
+        "Durable and water-resistant material",
+        "Compact, lightweight, and portable design"
+      ]
+    },
+    "colors": ["blue", "black"],
+    "description": "Lacrosse massage ball designed for deep tissue therapy, muscle recovery, and pain relief.",
+    "amazonLink": "https://www.amazon.in/dp/B096QDWCH5"
+  },
+  {
+    "id": "76",
+    "name": "Bodylastics Massage Roller Stick for Muscle Recovery (40cm)",
+    "price": 525,
+    "originalPrice": 999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/71J4p8-B8NL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71AlKFioHkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61PI4n6WcgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71tOa1aQQZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71iybb6sUhL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61oXdOA6QML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61VNzEJJlKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61hTh-1gpLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71-m3L9-hKL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Polypropylene, Stainless Steel",
+      "size": "40 cm",
+      "dimensions": "40 x 5 x 5 cm",
+      "power_source": "Manual",
+      "item_weight": "180 g",
+      "about": [
+        "Helps relieve muscle soreness, tightness, and cramps",
+        "Improves blood circulation and speeds up recovery",
+        "Ideal for legs, back, shoulders, calves, and full body use",
+        "Solid steel core ensures durability with no bending or breaking",
+        "Smooth rolling design with no squeaking or hair pulling",
+        "Anti-slip ergonomic handle for better grip and control",
+        "Lightweight and portable for home, gym, or travel use"
+      ]
+    },
+    "colors": ["purple"],
+    "description": "Portable massage roller stick designed for deep tissue relief, muscle recovery, and improved flexibility.",
+    "amazonLink": "https://www.amazon.in/dp/B0FH4PPJ9N"
+  },
+  {
+    "id": "77",
+    "name": "Bodylastics Massage Roller Stick for Muscle Recovery (45cm)",
+    "price": 550,
+    "originalPrice": 999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/614Lfsd-TOL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51xijksnvfL._SL1082_.jpg",
+      "https://m.media-amazon.com/images/I/81QhMKFDagL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/810040L03+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uQU2utuJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61fjBLFlUeL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/81nn05vNe9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uX7vICPEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41BnpM6YyCL.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Polypropylene, Stainless Steel",
+      "size": "45 cm",
+      "dimensions": "45 x 5 x 5 cm",
+      "power_source": "Manual",
+      "item_weight": "200 g",
+      "about": [
+        "Helps relieve muscle soreness, tightness, and cramps",
+        "Improves blood circulation and speeds up recovery",
+        "Ideal for legs, back, shoulders, calves, and full body use",
+        "Solid steel core ensures durability with no bending or breaking",
+        "Smooth rolling design with no squeaking or hair pulling",
+        "Anti-slip ergonomic handle for better grip and control",
+        "Lightweight and portable for home, gym, or travel use"
+      ]
+    },
+    "colors": ["purple"],
+    "description": "Portable massage roller stick designed for deep tissue relief, muscle recovery, and improved flexibility.",
+    "amazonLink": "https://www.amazon.in/dp/B07X9G3KXB"
+  },
+  {
+    "id": "78",
+    "name": "Bodylastics Cobblestone Massage Ball for Deep Tissue & Muscle Recovery (7.5cm)",
+    "price": 599,
+    "originalPrice": 1499,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/51hJJ4xTuQL._SL1030_.jpg",
+      "https://m.media-amazon.com/images/I/51QD6X7VIVL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/51jShICfwGL._SL1030_.jpg",
+      "https://m.media-amazon.com/images/I/51V1FVTBIjL._SL1193_.jpg",
+      "https://m.media-amazon.com/images/I/613rYuvUsVL._SL1425_.jpg",
+      "https://m.media-amazon.com/images/I/71EW9U22TXL._SL1295_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Polyethylene (PE)",
+      "size": "7.5 cm",
+      "dimensions": "7.5 x 7.5 x 7.5 cm",
+      "power_source": "Manual",
+      "item_weight": "40 g",
+      "about": [
+        "Cobblestone texture provides enhanced deep tissue massage",
+        "Helps relieve muscle soreness, knots, and tightness",
+        "Supports trigger point therapy and myofascial release",
+        "Improves blood circulation and tissue recovery",
+        "Effective for shoulder, back, and full body use",
+        "Durable and water-resistant construction",
+        "Compact and portable for easy use anywhere"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Cobblestone textured massage ball designed for deep tissue therapy, muscle recovery, and pain relief.",
+    "amazonLink": "https://www.amazon.in/dp/B096QD5T1B"
+  },
+  {
+    "id": "79",
+    "name": "Bodylastics Cobblestone Massage Ball for Deep Tissue & Muscle Recovery (11cm)",
+    "price": 699,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/51CZJUILmxL._SL1209_.jpg",
+      "https://m.media-amazon.com/images/I/51J0D25lMTL._SL1209_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Polyethylene (PE)",
+      "size": "11 cm",
+      "dimensions": "11 x 11 x 20.4 cm",
+      "power_source": "Manual",
+      "item_weight": "250 g",
+      "about": [
+        "Cobblestone texture provides enhanced deep tissue massage",
+        "Helps relieve muscle soreness, knots, and tightness",
+        "Supports trigger point therapy and myofascial release",
+        "Improves blood circulation and tissue recovery",
+        "Effective for shoulder, back, and full body use",
+        "Durable and water-resistant construction",
+        "Compact and portable for easy use anywhere"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Cobblestone textured massage ball designed for deep tissue therapy, muscle recovery, and pain relief.",
+    "amazonLink": "https://www.amazon.in/dp/B09BV5P4BM"
+  },
+  {
+    "id": "80",
+    "name": "Bodylastics Spike Massage Ball for Deep Tissue & Muscle Recovery (6.5cm)",
+    "price": 179,
+    "originalPrice": 1499,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/71S2hrEWuoL._SL1478_.jpg",
+      "https://m.media-amazon.com/images/I/813WIjRS2yL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51o6+AoxpSL._SL1104_.jpg",
+      "https://m.media-amazon.com/images/I/61BtZK4r2JL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61HVFUPvwVL._SL1018_.jpg",
+      "https://m.media-amazon.com/images/I/51KnXvYb9gL._SL1006_.jpg",
+      "https://m.media-amazon.com/images/I/61w-lY76L9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61OTn4fthgL._SL1483_.jpg",
+      "https://m.media-amazon.com/images/I/61EFKPLIreL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Polyvinyl Chloride",
+      "size": "6.5 cm",
+      "dimensions": "6.5 x 6.5 x 6.5 cm",
+      "power_source": "Manual",
+      "item_weight": "40 g",
+      "about": [
+        "Spiky design provides deep tissue massage and trigger point therapy",
+        "Helps relieve muscle tension, soreness, and stiffness",
+        "Effective for plantar fasciitis, back pain, neck, and shoulder relief",
+        "Improves blood circulation and speeds up recovery",
+        "Supports myofascial release and enhances mobility",
+        "Durable, non-toxic, and water-resistant material",
+        "Compact, lightweight, and portable for easy use anywhere"
+      ]
+    },
+    "colors": ["red"],
+    "description": "Spiky massage ball designed for deep tissue therapy, muscle recovery, and pain relief.",
+    "amazonLink": "https://www.amazon.in/dp/B096QCMFDB"
+  },
+  {
+    "id": "81",
+    "name": "Bodylastics Spike Massage Ball for Deep Tissue & Muscle Recovery (6.5cm)",
+    "price": 189,
+    "originalPrice": 499,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/71mj5GmIPaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71EW9U22TXL._SL1295_.jpg",
+      "https://m.media-amazon.com/images/I/813WIjRS2yL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61IJJOP2zKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51KnXvYb9gL._SL1006_.jpg",
+      "https://m.media-amazon.com/images/I/712njwhRfpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/615FCBEa9PL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71YSADBMimL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/710A9F269hL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Polyvinyl Chloride",
+      "size": "6.5 cm",
+      "dimensions": "6.5 x 6.5 x 6.5 cm",
+      "power_source": "Manual",
+      "item_weight": "120 g",
+      "about": [
+        "Spiky design provides deep tissue massage and trigger point therapy",
+        "Helps relieve muscle tension, soreness, and stiffness",
+        "Effective for plantar fasciitis, back pain, neck, and shoulder relief",
+        "Improves blood circulation and speeds up recovery",
+        "Supports myofascial release and enhances mobility",
+        "Durable, non-toxic, and water-resistant material",
+        "Compact, lightweight, and portable for easy use anywhere"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Spiky massage ball designed for deep tissue therapy, muscle recovery, and pain relief.",
+    "amazonLink": "https://www.amazon.in/dp/B096QDBV1L"
+  },
+  {
+    "id": "82",
+    "name": "Bodylastics Yoga Strap with D-Rings for Stretching & Flexibility",
+    "price": 199,
+    "originalPrice": 499,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/81LUi8pD00L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/615CPh6kuRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61tnV7L6sjL._SL1250_.jpg",
+      "https://m.media-amazon.com/images/I/71GqkjIPUFL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71Yv0CjNjuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71go-CnwvxL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71yCYoQvd4L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61lfzpsFLEL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Organic Cotton, Steel",
+      "power_source": "Manual",
+      "item_weight": "50 g",
+      "about": [
+        "Made from durable, non-slip organic cotton for secure grip",
+        "Adjustable heavy-duty steel D-rings for customized length",
+        "Helps improve flexibility, posture, and alignment",
+        "Ideal for yoga, pilates, stretching, and physical therapy",
+        "Supports beginners and advanced users for deeper poses",
+        "Non-toxic, eco-friendly, and machine washable material",
+        "Lightweight and portable for home, gym, or travel use"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Adjustable yoga strap designed to enhance flexibility, stretching, and support during yoga and workout sessions.",
+    "amazonLink": "https://www.amazon.in/dp/B09FQ85NZZ"
+  },
+  {
+    "id": "83",
+    "name": "Bodylastics 4-in-1 Abs Roller Kit with Pushup Stands & Jump Rope",
+    "price": 799,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "Starter Kit",
+    "images": [
+      "https://m.media-amazon.com/images/I/61tKGVrWFkL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/71SioF+NzFL._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61KsA-kyD-L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/61BSy9jdc6L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/518-9uTIDPL.jpg",
+      "https://m.media-amazon.com/images/I/7129djqZC-L._SX679_.jpg",
+      "https://m.media-amazon.com/images/I/51dBbd4OfjL.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "PP, ABS Plastic, Steel, EVA Foam",
+      "power_source": "Manual",
+      "item_weight": "1.2 kg",
+      "included_components": [
+        "Abs Roller Wheel",
+        "Knee Pad",
+        "Push-up Stands (Pair)",
+        "Adjustable Jump Rope"
+      ],
+      "about": [
+        "Complete 4-in-1 home workout kit for full body training",
+        "Dual-wheel abs roller supports up to 660 lbs with non-slip handles",
+        "Ergonomic push-up stands improve stability and upper body strength",
+        "Adjustable jump rope with steel wire and smooth ball bearing system",
+        "Helps build core strength, burn calories, and improve endurance",
+        "Targets abs, shoulders, arms, legs, and back muscles",
+        "Includes soft knee pad for added comfort during workouts",
+        "Durable, portable, and ideal for home or gym use"
+      ]
+    },
+    "colors": ["black"],
+    "description": "4-in-1 workout kit including abs roller, push-up stands, jump rope, and knee pad for full-body strength and core training.",
+    "amazonLink": "https://www.amazon.in/dp/B08HM4HQWD"
+  },
+  {
+    "id": "84",
+    "name": "Bodylastics Yoga Starter Kit with 13 Inch Wheel, Blocks & Strap",
+    "price": 1499,
+    "originalPrice": 3999,
+    "category": "bodylastics",
+    "badge": "Starter Kit",
+    "images": [
+      "https://m.media-amazon.com/images/I/71t5abAU1EL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51lOaKh3zxL._SL1055_.jpg",
+      "https://m.media-amazon.com/images/I/71tduxWZNjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/615CPh6kuRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XTYnqJiNL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ByjYehMpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81eGY9FipqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71C-ew6mw8L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51veycJtHQL._SL1199_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Plastic, Polypropylene, EVA Foam, Cotton Blend, Microfiber",
+      "size": "13 inch Wheel + Blocks + Strap + Towel",
+      "power_source": "Manual",
+      "item_weight": "1 kg",
+      "included_components": [
+        "13 inch Yoga Wheel",
+        "2 Yoga Blocks",
+        "6 ft Yoga Strap",
+        "Microfiber Cooling Towel"
+      ],
+      "about": [
+        "Complete yoga starter kit for stretching, balance, and flexibility",
+        "13 inch yoga wheel supports up to 550 lbs for safe backbends",
+        "2 high-density EVA yoga blocks with non-slip surface",
+        "Adjustable yoga strap with metal D-ring buckle for poses and stretches",
+        "Cooling microfiber towel made with breathable hyper-evaporative fabric",
+        "Helps improve posture, mobility, and core strength",
+        "Portable and suitable for home, studio, or travel use",
+        "Ideal for beginners and advanced yoga practitioners"
+      ]
+    },
+    "colors": ["rose red", "black"],
+    "description": "Complete yoga kit with wheel, blocks, strap, and cooling towel for stretching, balance, and flexibility training.",
+    "amazonLink": "https://www.amazon.in/dp/B07Y2WSDBM"
+  },
+  {
+    "id": "85",
+    "name": "Bodylastics Yoga Starter Kit with 13 Inch Wheel, Blocks & Strap",
+    "price": 1599,
+    "originalPrice": 3999,
+    "category": "bodylastics",
+    "badge": "Starter Kit",
+    "images": [
+      "https://m.media-amazon.com/images/I/911J-0FmrZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71eGiQjsb9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71T7Yk220vL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71kJDuJslEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/615CPh6kuRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ByjYehMpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XTYnqJiNL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91R1duzNnTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81TaTIUW3xL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Plastic, Polypropylene, EVA Foam, Cotton Blend, Microfiber",
+      "size": "13 inch Wheel + Blocks + Strap + Towel",
+      "power_source": "Manual",
+      "item_weight": "1 kg",
+      "included_components": [
+        "13 inch Yoga Wheel",
+        "2 Yoga Blocks",
+        "6 ft Yoga Strap",
+        "Microfiber Cooling Towel"
+      ],
+      "about": [
+        "Complete yoga starter kit for stretching, balance, and flexibility",
+        "13 inch yoga wheel supports up to 550 lbs for safe backbends",
+        "2 high-density EVA yoga blocks with non-slip surface",
+        "Adjustable yoga strap with metal D-ring buckle for poses and stretches",
+        "Cooling microfiber towel made with breathable hyper-evaporative fabric",
+        "Helps improve posture, mobility, and core strength",
+        "Portable and suitable for home, studio, or travel use",
+        "Ideal for beginners and advanced yoga practitioners"
+      ]
+    },
+    "colors": ["blue", "black"],
+    "description": "Complete yoga kit with wheel, blocks, strap, and cooling towel for stretching, balance, and flexibility training.",
+    "amazonLink": "https://www.amazon.in/dp/B07Y2WRQ9G"
+  },
+  {
+    "id": "86",
+    "name": "Bodylastics Cork Yoga Starter Kit with 13 Inch Wheel, Blocks & Strap",
+    "price": 1699,
+    "originalPrice": 3999,
+    "category": "bodylastics",
+    "badge": "Starter Kit",
+    "images": [
+      "https://m.media-amazon.com/images/I/71epEKcE2RL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Pmi1-PbBL._SL1084_.jpg",
+      "https://m.media-amazon.com/images/I/71ByjYehMpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/615CPh6kuRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XTYnqJiNL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51CZ9kE7F+L._SL1001_.jpg",
+      "https://m.media-amazon.com/images/I/71r13+GFN+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61HMVZZE5bL._SL1016_.jpg",
+      "https://m.media-amazon.com/images/I/51Xm6DdCowL._SL1020_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Cork, EVA Foam, Polyester Cotton, Microfiber",
+      "size": "13 inch Wheel + 6 ft Strap",
+      "power_source": "Manual",
+      "included_components": [
+        "13 inch Cork Yoga Wheel",
+        "2 Yoga Blocks",
+        "6 ft Yoga Strap",
+        "Cooling Towel"
+      ],
+      "about": [
+        "Complete yoga starter kit for stretching, balance, and flexibility",
+        "13 inch cork yoga wheel supports up to 550 lbs for safe backbends",
+        "2 high-density EVA foam blocks with non-slip grip",
+        "Adjustable 6 ft yoga strap with metal D-ring buckle",
+        "Microfiber cooling towel with breathable quick-cool fabric",
+        "Helps improve posture, mobility, and core strength",
+        "Portable and suitable for home, studio, or travel use",
+        "Ideal for beginners and advanced yoga practitioners"
+      ]
+    },
+    "colors": ["black", "brown"],
+    "description": "Complete cork yoga kit with wheel, blocks, strap, and cooling towel for stretching, balance, and flexibility training.",
+    "amazonLink": "https://www.amazon.in/dp/B07Y371ZDD"
+  },
+  {
+    "id": "87",
+    "name": "Bodylastics 6-in-1 Foam Roller Kit with Massage Tools (18 Inch)",
+    "price": 1549,
+    "originalPrice": 2999,
+    "category": "bodylastics",
+    "badge": "Starter Kit",
+    "images": [
+      "https://m.media-amazon.com/images/I/71GynL0H07L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71cwWUABb3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71oWy1UEiZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XChlmHtfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61bARj0kslL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71ONGlmEcnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/715oOkTmIXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/41-7z90GEHL.jpg",
+      "https://m.media-amazon.com/images/I/614TKV+Ac8L._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "EVA Foam, Expanded Polypropylene Foam",
+      "size": "18 inch",
+      "dimensions": "45 x 14 x 14 cm",
+      "power_source": "Manual",
+      "item_weight": "1.7 kg",
+      "included_components": [
+        "Foam Roller",
+        "Massage Stick",
+        "3 Massage Balls",
+        "Storage Bag"
+      ],
+      "about": [
+        "6-in-1 recovery kit for pre and post workout sessions",
+        "Medium-density 18 inch foam roller for deep tissue massage",
+        "Helps improve mobility, flexibility, and blood circulation",
+        "Supports myofascial release and faster muscle recovery",
+        "Useful for back pain, shoulder stress, and sore muscles",
+        "Effective for plantar fasciitis and foot arch relief",
+        "Ideal for runners, gym users, and physical therapy",
+        "Portable set with storage bag for easy carrying"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Complete foam roller recovery kit with massage stick, balls, and storage bag for pain relief and muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B07PDGGS2N"
+  },
+  {
+    "id": "88",
+    "name": "Bodylastics Deep Tissue Recovery Kit with Foam Roller & Pullup Bands",
+    "price": 2999,
+    "originalPrice": 4999,
+    "category": "bodylastics",
+    "badge": "Starter Kit",
+    "images": ["https://m.media-amazon.com/images/I/81+g89Ej3dS._SL1500_.jpg"],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Foam, Rubber, Fabric",
+      "power_source": "Manual",
+      "item_weight": "1.7 kg",
+      "firmness": "Soft",
+      "included_components": [
+        "Foam Roller",
+        "Massage Stick",
+        "Massage Balls",
+        "Storage Bag",
+        "Pullup Bands Set"
+      ],
+      "about": [
+        "Complete recovery kit for pre and post workout stretching",
+        "Foam roller supports deep tissue massage and myofascial release",
+        "Massage tools help reduce soreness and muscle tightness",
+        "Pullup bands assist strength training, mobility, and stretching",
+        "Improves flexibility, joint movement, and blood circulation",
+        "Useful for plantar fasciitis, shoulder stress, and back relief",
+        "Ideal for runners, gym users, and home workouts",
+        "Portable all-in-one set with storage bag"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Complete body recovery kit with foam roller, massage tools, storage bag, and pullup bands for fitness and pain relief.",
+    "amazonLink": "https://www.amazon.in/dp/B0931TM6VK"
+  },
+  {
+    "id": "89",
+    "name": "Bodylastics Foam Roller & Massage Stick Combo for Muscle Recovery (45cm)",
+    "price": 899,
+    "originalPrice": 3999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/61XegbIGHlL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61NsuBTYotL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71pQOFuDONL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/6139donsNJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51Y5NUkxezL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/716NQ8MLCnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61hTh-1gpLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71owgz1Y5QL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "High-density EVA Foam, Plastic, Stainless Steel",
+      "size": "45 cm Roller + 40 cm Stick",
+      "dimensions": "45 x 15 x 15 cm",
+      "power_source": "Manual",
+      "item_weight": "850 g",
+      "about": [
+        "Complete combo with 45cm foam roller and 40cm massage stick",
+        "Triple-grid foam roller provides deep tissue and myofascial release",
+        "Massage stick targets muscle knots in legs, back, and shoulders",
+        "Medium-firm density suitable for beginners and athletes",
+        "Improves blood circulation and speeds up muscle recovery",
+        "Ergonomic, lightweight, and portable for home or gym use",
+        "Durable materials designed for long-term daily use",
+        "Ideal for runners, gym users, yoga, and physiotherapy"
+      ]
+    },
+    "colors": ["pink"],
+    "description": "Foam roller and massage stick combo designed for deep tissue massage, muscle recovery, and pain relief.",
+    "amazonLink": "https://www.amazon.in/dp/B0GW6F9GC7"
+  },
+  {
+    "id": "90",
+    "name": "Bodylastics Foam Roller Kit with Massage Stick & Balls for Muscle Recovery (45cm)",
+    "price": 999,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/61TjRpSR7DL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61iiupiFHgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61wyNeDqzAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51BNvRLidwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/616Sbu9CUTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/6163OKHH+bL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61spKA0FrnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71yC8ylW-YL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71R5krUo7yL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Rubber, Thermoplastic Rubber",
+      "size": "45 cm Roller + 40 cm Stick + 6.5 cm Balls",
+      "dimensions": "45 x 15 x 15 cm",
+      "power_source": "Manual",
+      "item_weight": "600 g",
+      "about": [
+        "Complete kit with foam roller, massage stick, lacrosse ball, and spiky ball",
+        "45cm foam roller provides deep tissue and myofascial release",
+        "40cm massage stick targets muscle soreness and improves recovery",
+        "Lacrosse ball enables precise trigger point therapy for tight knots",
+        "Spiky ball delivers acupressure relief for plantar fasciitis and foot pain",
+        "Improves flexibility, circulation, and reduces muscle stiffness",
+        "Helps relieve back pain, sciatica, IT band issues, and soreness",
+        "Compact, portable, and ideal for gym, travel, or home use",
+        "Supports injury prevention and enhances overall performance"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Complete muscle recovery kit with foam roller, massage stick, and therapy balls for deep tissue massage and pain relief.",
+    "amazonLink": "https://www.amazon.in/dp/B0GW5W8DRF"
+  },
+  {
+    "id": "91",
+    "name": "Bodylastics Foot Massage Roller for Plantar Fasciitis & Muscle Recovery (Foot Roller + 60cms Finger Roller)",
+    "price": 999,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/61HjXb2D88L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61cbsu5TyOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614quJmQ4cL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61deXItSSjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61KXlOxsI-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/616Sbu9CUTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/610hzN2W0KL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61HjXb2D88L._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Thermoplastic Rubber",
+      "power_source": "Manual",
+      "model_name": "Foot Massage Roller",
+      "dimensions": "17 x 7 x 7 cm",
+      "about": [
+        "Ergonomic design fits foot arch for effective pain relief",
+        "Useful for reflexology on feet, hands, forearms, shoulders, back, and hamstrings",
+        "Improves blood circulation and provides deep tissue stimulation",
+        "Made from safe, non-toxic, durable TPR and PVC material",
+        "Helps treat plantar fasciitis, muscle spasms, and relieves pain",
+        "Portable and easy to use anywhere (home, office, travel)"
+      ]
+    },
+    "colors": [""],
+    "description": "Ergonomic foot massage roller designed for plantar fasciitis relief, reflexology, and full-body muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0GL9D2XSY"
+  },
+  {
+    "id": "92",
+    "name": "Bodylastics Lacrosse & Spike Massage Ball Combo for Muscle Recovery (6.5cm)",
+    "price": 299,
+    "originalPrice": 1699,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/71yz57uZH9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71tZ2XMYIhL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61sLbVF6RqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ZzRObumZL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71yC8ylW-YL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71CBCZ7GWLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51BNvRLidwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61vs6s2cH7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bDi-7g+wL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Polyvinyl Chloride, Rubber",
+      "size": "6.5 cm Balls",
+      "dimensions": "6.5 x 6.5 x 6.5 cm",
+      "power_source": "Manual",
+      "item_weight": "200 g",
+      "about": [
+        "2-in-1 combo with spiky ball and smooth lacrosse ball",
+        "Provides deep trigger point therapy and muscle relaxation",
+        "Helps relieve pain in back, feet, calves, shoulders, and full body",
+        "Improves blood circulation and reduces muscle stiffness",
+        "Supports myofascial release and increases range of motion",
+        "Durable materials ensure long-lasting performance",
+        "Lightweight, portable, and easy to carry anywhere",
+        "Simple to use on floor, wall, or any firm surface"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Massage ball combo with lacrosse and spiky balls designed for trigger point therapy, muscle recovery, and pain relief.",
+    "amazonLink": "https://www.amazon.in/dp/B0GW4ZKHLB"
+  },
+  {
+    "id": "93",
+    "name": "Bodylastics Peanut & Lacrosse Massage Balls Combo",
+    "price": 349,
+    "originalPrice": 2999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/71oFo8T+52L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/711aKFbzWWL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51M+23k-bLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71f4kGO+HHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71k2jPtD6sL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/717ugCrTFwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71sVBkzLwaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/612m0xUjOvL._SL1200_.jpg",
+      "https://m.media-amazon.com/images/I/71NQsE9VYUL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Rubber",
+      "size": "12 x 6.5 x 6.5 cm",
+      "dimensions": "12L x 6.5W x 6.5H cm",
+      "power_source": "Manual",
+      "item_weight": "85 g",
+      "use_for": ["Back", "Foot", "Hand", "Neck", "Whole Body"],
+      "included_components": [
+        "1 Peanut Massage Ball",
+        "1 Lacrosse Massage Ball"
+      ],
+      "about": [
+        "2-in-1 recovery combo with peanut and lacrosse massage balls",
+        "Peanut ball supports spine-safe rolling and alignment massage",
+        "Lacrosse ball targets trigger points and deep tissue knots",
+        "Helps relieve soreness in back, shoulders, glutes, calves, feet, and neck",
+        "Supports myofascial release, mobility, and faster recovery",
+        "Made from durable high-density non-slip rubber",
+        "Portable lightweight design for gym, office, home, or travel",
+        "Ideal for athletes, runners, yoga users, and desk workers"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Peanut and lacrosse massage ball combo for trigger point therapy, deep tissue relief, myofascial release, and mobility recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0FMNSPP8G"
+  },
+  {
+    "id": "94",
+    "name": "Bodylastics Peanut, Lacrosse & Spike Massage Ball Combo for Muscle Recovery (6.5cm)",
+    "price": 499,
+    "originalPrice": 2999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/815mqNPqflL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61lVo4GbuPL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/6163OKHH+bL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51BNvRLidwL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ZinpykEbL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71bDi-7g+wL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61sLbVF6RqL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/717o9UzLlnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71yC8ylW-YL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Polyvinyl Chloride, Rubber",
+      "size": "6.5 cm Balls",
+      "dimensions": "6.5 x 6.5 x 6.5 cm",
+      "power_source": "Manual",
+      "item_weight": "350 g",
+      "about": [
+        "3-in-1 combo with peanut, lacrosse, and spiky massage balls",
+        "Provides deep tissue massage and trigger point therapy",
+        "Helps relieve muscle tension, soreness, and stiffness",
+        "Effective for plantar fasciitis, back pain, and muscle knots",
+        "Improves blood circulation and speeds up recovery",
+        "Enhances flexibility and range of motion",
+        "Durable, non-toxic material for long-lasting use",
+        "Lightweight, portable, and easy to use anywhere"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Massage ball combo set designed for deep tissue therapy, myofascial release, and full-body muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0GW5JYX6Z"
+  },
+  {
+    "id": "95",
+    "name": "Bodylastics Foot Massage Roller & 33cms Foam Roller Recovery Kit",
+    "price": 799,
+    "originalPrice": 4999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/71w-s3YUcJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61hd5ozqq6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61iiupiFHgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+BmGG43VL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/610hzN2W0KL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61GAskCPKeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61zKQajd4WL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+FwgCRbaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71R5krUo7yL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "ABS Plastic, Stainless Steel, Foam",
+      "size": "33 cm Foam Roller",
+      "dimensions": "33 x 15 x 15 cm",
+      "power_source": "Manual",
+      "item_weight": "190 g",
+      "included_components": ["Foot Massage Roller", "33 cm Foam Roller"],
+      "about": [
+        "Complete recovery kit with foot roller and foam roller",
+        "Foot roller helps relieve plantar fasciitis and foot pain",
+        "Foam roller provides deep tissue massage and myofascial release",
+        "Improves blood circulation and reduces muscle soreness",
+        "Medium-density roller suitable for beginners and regular use",
+        "Useful for legs, back, shoulders, calves, and full body recovery",
+        "Portable and lightweight for home, gym, or travel use",
+        "Helps improve flexibility, mobility, and post-workout recovery"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Recovery kit with foot massage roller and 45cm foam roller for plantar fasciitis relief, muscle recovery, and deep tissue massage.",
+    "amazonLink": "https://www.amazon.in/dp/B0GVDLQD14"
+  },
+  {
+    "id": "96",
+    "name": "Bodylastics Foot Massage Roller & 45cms Foam Roller Recovery Kit",
+    "price": 999,
+    "originalPrice": 4999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/71w-s3YUcJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61hd5ozqq6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61iiupiFHgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+BmGG43VL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/610hzN2W0KL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61GAskCPKeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61zKQajd4WL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+FwgCRbaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71R5krUo7yL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "ABS Plastic, Stainless Steel, Foam",
+      "size": "45 cm Foam Roller",
+      "dimensions": "45 x 15 x 15 cm",
+      "power_source": "Manual",
+      "item_weight": "800 g",
+      "included_components": ["Foot Massage Roller", "45 cm Foam Roller"],
+      "about": [
+        "Complete recovery kit with foot roller and foam roller",
+        "Foot roller helps relieve plantar fasciitis and foot pain",
+        "Foam roller provides deep tissue massage and myofascial release",
+        "Improves blood circulation and reduces muscle soreness",
+        "Medium-density roller suitable for beginners and regular use",
+        "Useful for legs, back, shoulders, calves, and full body recovery",
+        "Portable and lightweight for home, gym, or travel use",
+        "Helps improve flexibility, mobility, and post-workout recovery"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Recovery kit with foot massage roller and 45cm foam roller for plantar fasciitis relief, muscle recovery, and deep tissue massage.",
+    "amazonLink": "https://www.amazon.in/dp/B0GVDQS52Q"
+  },
+  {
+    "id": "97",
+    "name": "Bodylastics Foot Massage Roller & 60cms Foam Roller Recovery Kit",
+    "price": 1199,
+    "originalPrice": 4999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/71w-s3YUcJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61hd5ozqq6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61cbsu5TyOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+BmGG43VL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/610hzN2W0KL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61GAskCPKeL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61zKQajd4WL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+FwgCRbaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71R5krUo7yL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "ABS Plastic, Stainless Steel, Foam",
+      "size": "60 cm Foam Roller",
+      "dimensions": "60 x 15 x 15 cm",
+      "power_source": "Manual",
+      "item_weight": "1000 g",
+      "included_components": ["Foot Massage Roller", "60 cm Foam Roller"],
+      "about": [
+        "Complete recovery kit with foot roller and foam roller",
+        "Foot roller helps relieve plantar fasciitis and foot pain",
+        "Foam roller provides deep tissue massage and myofascial release",
+        "Improves blood circulation and reduces muscle soreness",
+        "Medium-density roller suitable for beginners and regular use",
+        "Useful for legs, back, shoulders, calves, and full body recovery",
+        "Portable and lightweight for home, gym, or travel use",
+        "Helps improve flexibility, mobility, and post-workout recovery"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Recovery kit with foot massage roller and 60cm foam roller for plantar fasciitis relief, muscle recovery, and deep tissue massage.",
+    "amazonLink": "https://www.amazon.in/dp/B0GVDLRGYN"
+  },
+  {
+    "id": "98",
+    "name": "Bodylastics Foot Massage Roller & Lacrosse Ball Recovery Kit",
+    "price": 499,
+    "originalPrice": 2999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/61k-LaPu4vL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61uTdzpZ49L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61-mhtojYYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71oXgCTiEQL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61rCpnM+MLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71L4mxAkRyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61-s+yqp0ML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71f4kGO+HHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61M8mSbUGpL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "ABS Plastic, Stainless Steel, Rubber",
+      "size": "17 x 7 x 7 cm Roller + 6.5 cm Ball",
+      "dimensions": "17 x 7 x 7 cm",
+      "power_source": "Manual",
+      "item_weight": "190 g",
+      "included_components": ["Foot Massage Roller", "Lacrosse Massage Ball"],
+      "about": [
+        "Recovery kit with foot roller and lacrosse massage ball",
+        "Foot roller helps relieve plantar fasciitis and foot pain",
+        "Provides reflexology benefits and improves circulation",
+        "Lacrosse ball supports deep tissue massage and trigger point therapy",
+        "Targets back, neck, feet, shoulders, and sore muscles",
+        "Durable materials maintain firmness for long-lasting use",
+        "Portable and lightweight for home, gym, office, or travel use",
+        "Helps reduce muscle knots, tension, and soreness"
+      ]
+    },
+    "colors": ["green"],
+    "description": "Foot roller and lacrosse massage ball combo for plantar fasciitis relief, deep tissue massage, and muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0GV9KVQJ6"
+  },
+  {
+    "id": "99",
+    "name": "Bodylastics Foot Massage Roller & Spike Ball Recovery Kit",
+    "price": 499,
+    "originalPrice": 4999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/61WqpyxzrML._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61hd5ozqq6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71mj5GmIPaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+BmGG43VL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71DalyrfZEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+FwgCRbaL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Nsr0eIYjL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61gEJByfc-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/6103nza6vvL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "ABS Plastic, Stainless Steel, PVC",
+      "size": "17 x 7 x 7 cm Roller + Spike Ball",
+      "dimensions": "17 x 7 x 7 cm",
+      "power_source": "Manual",
+      "item_weight": "240 g",
+      "included_components": ["Foot Massage Roller", "Spike Massage Ball"],
+      "about": [
+        "Recovery kit with foot roller and spiky massage ball",
+        "Foot roller helps relieve plantar fasciitis and tired feet",
+        "Provides reflexology benefits and improves circulation",
+        "Spike ball delivers deep tissue massage and trigger point relief",
+        "Helps reduce back pain, neck stiffness, and muscle knots",
+        "Stimulates blood flow and speeds up recovery",
+        "Portable and lightweight for home, gym, office, or travel use",
+        "Ideal for foot and full body massage therapy"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Foot massage roller and spike ball combo for plantar fasciitis relief, deep tissue massage, and total body recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0GV9QD4J1"
+  },
+  {
+    "id": "100",
+    "name": "Bodylastics Foot Massage Roller & Massage Stick Recovery Kit",
+    "price": 799,
+    "originalPrice": 4999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/61tMFwn6WuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61OiV3y38bL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61hTh-1gpLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61BHRpG+BVL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61xisJrcafL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61S0mSwHP2L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61NsuBTYotL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61NLGUvcmyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61kThpgr2EL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "ABS Plastic, Stainless Steel, TPR, PVC",
+      "size": "17 x 7 x 7 cm Roller + Massage Stick",
+      "dimensions": "17 x 7 x 7 cm",
+      "power_source": "Manual",
+      "item_weight": "350 g",
+      "use_for": ["Foot", "Hand", "Heel", "Leg", "Neck"],
+      "included_components": ["Foot Massage Roller", "Massage Roller Stick"],
+      "about": [
+        "Recovery kit with foot roller and massage stick",
+        "Foot roller helps relieve plantar fasciitis and tired feet",
+        "Provides reflexology benefits and improves circulation",
+        "Massage stick helps reduce soreness, cramps, and tight muscles",
+        "Supports faster recovery and improves flexibility",
+        "Targets calves, quads, hamstrings, shoulders, neck, and back",
+        "Anti-slip ergonomic handle for easy self-massage",
+        "Portable and lightweight for home, gym, office, or travel use"
+      ]
+    },
+    "colors": ["pink"],
+    "description": "Foot massage roller and massage stick combo for plantar fasciitis relief, deep tissue recovery, and full body muscle massage.",
+    "amazonLink": "https://www.amazon.in/dp/B0GV9KR2J5"
+  },
+  {
+    "id": "101",
+    "name": "Bodylastics Deep Tissue Massage Stick & 45cms Foam Roller Combo Pack",
+    "price": 999,
+    "originalPrice": 999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/81NWsEbJkYL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/810040L03+L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61iiupiFHgL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uX7vICPEL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71R5krUo7yL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81uQU2utuJL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/610hzN2W0KL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61D2ffj0vuL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61sZhZWGcoL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Ethylene Vinyl Acetate, Stainless Steel",
+      "size": "45 x 14 x 14 cm",
+      "power_source": "Manual",
+      "item_weight": "800 g",
+      "style": "Black Stick & Foam Roller Combo",
+      "included_components": [
+        "1 Deep Tissue Massage Stick",
+        "1 Foam Roller (45 cm)"
+      ],
+      "about": [
+        "Combo pack includes massage stick and 45 cm foam roller for complete muscle recovery",
+        "Helps relieve soreness, cramping, tightness, and muscle fatigue",
+        "Ideal for legs, back, shoulders, calves, hamstrings, traps, and neck",
+        "Massage stick helps improve blood flow and supports myofascial release",
+        "Solid core steel tube construction with quiet rolling design",
+        "Anti-slip handles provide better grip and easy self-massage",
+        "Foam roller features triple grid 3D massage zones that mimic therapist hands",
+        "Medium density foam suitable for beginners and advanced users",
+        "Useful before and after workouts to improve flexibility and recovery",
+        "Portable design for home, gym, yoga studio, or travel use"
+      ]
+    },
+    "colors": ["black"],
+    "description": "Complete recovery combo with deep tissue massage stick and 45 cm foam roller for pain relief, flexibility, and faster muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0FSXCFQYN"
+  },
+  {
+    "id": "102",
+    "name": "Bodylastics Foot Massage Roller & 33cms Foam Roller for Plantar Fasciitis Pain Relief",
+    "price": 899,
+    "originalPrice": 1799,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/61bd+XLwnDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61BT+2qwsDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Lr7Tffe7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71p3LgCZgnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XChlmHtfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61il2YnL4BL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614quJmQ4cL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61bd+XLwnDL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Ethylene Vinyl Acetate, TPR, PVC",
+      "size": "Foot Roller: 17 x 7 x 7 cm, Foam Roller: 33 cm",
+      "power_source": "Manual",
+      "style": "Multi-color Combo",
+      "included_components": ["1 Foot Massage Roller", "1 Foam Roller (33 cm)"],
+      "about": [
+        "Combo set includes foot massage roller and 33 cm foam roller for total body recovery",
+        "Designed for plantar fasciitis relief, foot pain reduction, and muscle recovery",
+        "Ergonomic foot roller shape fits the arch for targeted reflexology massage",
+        "Helps relieve tired feet, muscle spasms, tightness, and pressure points",
+        "Can be used on feet, hands, forearms, shoulders, back, hamstrings, and calves",
+        "Foam roller supports deep tissue massage, mobility work, and myofascial release",
+        "Improves circulation and helps reduce soreness after workouts",
+        "Made from safe, washable, durable, and non-toxic materials",
+        "Portable design suitable for home, office, gym, or travel use",
+        "Useful for pre-workout warm-up and post-workout recovery sessions"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Recovery combo with ergonomic foot massage roller and 33 cm foam roller for plantar fasciitis relief, reflexology massage, and total body muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0F4R68S94"
+  },
+  {
+    "id": "103",
+    "name": "Bodylastics Foot Massage Roller & 45cms Foam Roller for Plantar Fasciitis Pain Relief",
+    "price": 899,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/61bd+XLwnDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61KXlOxsI-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Lr7Tffe7L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71p3LgCZgnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XChlmHtfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61il2YnL4BL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614quJmQ4cL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61bd+XLwnDL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Ethylene Vinyl Acetate, TPR, PVC",
+      "size": "Foot Roller: 17 x 7 x 7 cm, Foam Roller: 45 cm",
+      "power_source": "Manual",
+      "style": "Multi-color Combo",
+      "included_components": ["1 Foot Massage Roller", "1 Foam Roller (45 cm)"],
+      "about": [
+        "Combo set includes foot massage roller and 45 cm foam roller for total body recovery",
+        "Designed for plantar fasciitis relief, foot pain reduction, and muscle recovery",
+        "Ergonomic foot roller shape fits the arch for targeted reflexology massage",
+        "Helps relieve tired feet, muscle spasms, tightness, and pressure points",
+        "Can be used on feet, hands, forearms, shoulders, back, hamstrings, and calves",
+        "Foam roller supports deep tissue massage, mobility work, and myofascial release",
+        "Improves circulation and helps reduce soreness after workouts",
+        "Made from safe, washable, durable, and non-toxic materials",
+        "Portable design suitable for home, office, gym, or travel use",
+        "Useful for pre-workout warm-up and post-workout recovery sessions"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Recovery combo with ergonomic foot massage roller and 45 cm foam roller for plantar fasciitis relief, reflexology massage, and total body muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0CLLHFL1P"
+  },
+  {
+    "id": "104",
+    "name": "Bodylastics Foot Massage Roller & 60cms Foam Roller for Plantar Fasciitis Pain Relief",
+    "price": 999,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/61bd+XLwnDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61KXlOxsI-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61cbsu5TyOL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71p3LgCZgnL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71XChlmHtfL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61il2YnL4BL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614quJmQ4cL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61bd+XLwnDL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Ethylene Vinyl Acetate, TPR, PVC",
+      "size": "Foot Roller: 17 x 7 x 7 cm, Foam Roller: 60 cm",
+      "power_source": "Manual",
+      "style": "Multi-color Combo",
+      "included_components": ["1 Foot Massage Roller", "1 Foam Roller (60 cm)"],
+      "about": [
+        "Combo set includes foot massage roller and 60 cm foam roller for total body recovery",
+        "Designed for plantar fasciitis relief, foot pain reduction, and muscle recovery",
+        "Ergonomic foot roller shape fits the arch for targeted reflexology massage",
+        "Helps relieve tired feet, muscle spasms, tightness, and pressure points",
+        "Can be used on feet, hands, forearms, shoulders, back, hamstrings, and calves",
+        "Foam roller supports deep tissue massage, mobility work, and myofascial release",
+        "Improves circulation and helps reduce soreness after workouts",
+        "Made from safe, washable, durable, and non-toxic materials",
+        "Portable design suitable for home, office, gym, or travel use",
+        "Useful for pre-workout warm-up and post-workout recovery sessions"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Recovery combo with ergonomic foot massage roller and 60 cm foam roller for plantar fasciitis relief, reflexology massage, and total body muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0GL9D2XSY"
+  },
+  {
+    "id": "105",
+    "name": "Bodylastics Foot Massage Roller for Plantar Fasciitis Pain Relief",
+    "price": 449,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/617wxdRLRLL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614quJmQ4cL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61KXlOxsI-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61+JGt+HWyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51T6AczstiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51SqSlwSSXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71oghhbwQcL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71p3LgCZgnL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Thermoplastic Rubber, PVC",
+      "size": "17 x 7 x 7 cm",
+      "power_source": "Manual",
+      "style": "Foot Roller",
+      "included_components": ["1 Foot Massage Roller"],
+      "about": [
+        "Ergonomic foot massage roller designed to match the natural arch of the foot",
+        "Helps relieve plantar fasciitis pain, heel discomfort, and tired achy feet",
+        "Provides reflexology-style stimulation to improve circulation throughout the body",
+        "Can be used on feet, hands, forearms, shoulders, back, and hamstrings",
+        "Helps release muscle spasms, knots, tightness, and pressure points",
+        "Made from durable, washable, non-toxic TPR and PVC materials",
+        "No assembly required and easy to use on any flat surface",
+        "Portable compact design for home, office, gym, or travel use",
+        "Suitable for daily recovery, relaxation, and post-workout massage",
+        "Supports deep tissue muscle recovery and foot comfort"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Compact ergonomic foot massage roller for plantar fasciitis relief, reflexology stimulation, and deep tissue recovery at home or on the go.",
+    "amazonLink": "https://www.amazon.in/dp/B09G2Q52N5"
+  },
+  {
+    "id": "106",
+    "name": "Bodylastics Foot Massage Roller & Massage Stick for Plantar Fasciitis Pain Relief",
+    "price": 899,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/618U56GHK6L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614quJmQ4cL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51QjXfcvrtL._SL1005_.jpg",
+      "https://m.media-amazon.com/images/I/61KXlOxsI-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81OTiDtX7zL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81nUJqQ8bmL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Hg3yRr1bL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81epCvjbzzL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Ethylene Vinyl Acetate, TPR, PVC",
+      "size": "17 x 7 x 7 cm",
+      "power_source": "Manual",
+      "style": "Multi-color Combo",
+      "included_components": [
+        "1 Foot Massage Roller",
+        "1 Massage Roller Stick"
+      ],
+      "about": [
+        "Combo set includes ergonomic foot massage roller and massage stick for full body recovery",
+        "Designed to help relieve plantar fasciitis pain, heel discomfort, and tired feet",
+        "Foot roller shape fits the natural arch for targeted reflexology massage",
+        "Improves circulation and stimulates recovery through rolling pressure",
+        "Can be used on feet, hands, forearms, shoulders, back, and hamstrings",
+        "Massage stick helps reduce soreness, tightness, and muscle knots in legs and calves",
+        "Supports deep tissue massage and post-workout muscle recovery",
+        "Made from durable, washable, non-toxic materials for long-lasting use",
+        "Portable design for use at home, office, gym, or while traveling",
+        "Easy to use with no assembly required"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Recovery combo with ergonomic foot massage roller and massage stick for plantar fasciitis relief, reflexology massage, and deep tissue muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0F4R5SN39"
+  },
+  {
+    "id": "107",
+    "name": "Bodylastics Foot Massage Roller & Lacrosse Massage Ball for Plantar Fasciitis Pain Relief",
+    "price": 649,
+    "originalPrice": 1499,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/61S7Q47uoiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614quJmQ4cL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71IExYzTkkL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61KXlOxsI-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/718ikKeyzoL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71f4kGO+HHL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51SqSlwSSXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71EW9U22TXL._SL1295_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Ethylene Vinyl Acetate, TPR, PVC",
+      "size": "17 x 7 x 7 cm",
+      "power_source": "Manual",
+      "style": "Multi-color Combo",
+      "included_components": [
+        "1 Foot Massage Roller",
+        "1 Lacrosse Massage Ball"
+      ],
+      "about": [
+        "Combo set includes ergonomic foot massage roller and lacrosse massage ball for total body recovery",
+        "Designed to help relieve plantar fasciitis pain, heel discomfort, and foot fatigue",
+        "Foot roller fits the natural arch for targeted reflexology massage",
+        "Improves circulation and helps reduce tightness and pressure points",
+        "Can be used on feet, hands, forearms, shoulders, back, and hamstrings",
+        "Lacrosse massage ball supports deep tissue massage and trigger point release",
+        "Useful for muscle knots, soreness, mobility work, and myofascial recovery",
+        "Made from durable, washable, non-toxic materials for long-lasting use",
+        "Portable compact design for home, office, gym, or travel use",
+        "No assembly required and easy to use on flat surfaces"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Recovery combo with ergonomic foot massage roller and lacrosse massage ball for plantar fasciitis relief, reflexology massage, and deep tissue muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0F4R81WTS"
+  },
+  {
+    "id": "108",
+    "name": "Bodylastics Foot Massage Roller & Spike Massage Ball for Plantar Fasciitis Pain Relief",
+    "price": 599,
+    "originalPrice": 1999,
+    "category": "bodylastics",
+    "badge": "Combo",
+    "images": [
+      "https://m.media-amazon.com/images/I/61vU8cSDKsL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Hg3yRr1bL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61HVFUPvwVL._SL1018_.jpg",
+      "https://m.media-amazon.com/images/I/61+JGt+HWyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/813WIjRS2yL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51SqSlwSSXL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/614quJmQ4cL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61iCciYjJOL._SL1000_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Thermoplastic Rubber, Poly Vinyl Chloride",
+      "size": "17 x 7 x 7 cm",
+      "power_source": "Manual",
+      "style": "Multi-color Combo",
+      "included_components": ["1 Foot Massage Roller", "1 Spike Massage Ball"],
+      "about": [
+        "Combo set includes ergonomic foot massage roller and spike massage ball for total body recovery",
+        "Designed to help relieve plantar fasciitis pain, heel discomfort, and tired feet",
+        "Foot roller shape fits the natural arch for targeted reflexology massage",
+        "Improves circulation and helps reduce muscle tightness, spasms, and pressure points",
+        "Can be used on feet, hands, forearms, shoulders, back, and hamstrings",
+        "Spike massage ball supports deep tissue massage and trigger point therapy",
+        "Useful for sore muscles, knots, mobility work, and myofascial release",
+        "Made from durable, washable, non-toxic TPR and PVC materials",
+        "Portable compact design for home, office, gym, or travel use",
+        "Easy to use with no assembly required"
+      ]
+    },
+    "colors": ["multi-color"],
+    "description": "Recovery combo with ergonomic foot massage roller and spike massage ball for plantar fasciitis relief, reflexology massage, and deep tissue muscle recovery.",
+    "amazonLink": "https://www.amazon.in/dp/B0CWQ8BXVC"
   }
 ]
