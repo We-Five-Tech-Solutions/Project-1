@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 export default function FeaturedProducts() {
   const { data: products = [] } = useProducts()
   const featured = products
-    .filter(p => p.isBestSeller)
+    .filter((p) => p.badge === "Best seller")
     .slice(0, 8)
 
   if (!featured.length) return null

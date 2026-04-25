@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "name": "Petology Pet Grooming Comb Stainless Steel",
+    "name": "Pet Grooming Comb Stainless Steel",
     "price": 159,
     "originalPrice": 999,
     "category": "petology",
@@ -369,6 +369,7 @@
     "price": 175,
     "originalPrice": 999,
     "category": "petology",
+    "badge": "Trending",
     "images": [
       "https://m.media-amazon.com/images/I/71T4AOZwv1L._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/81vaXyAm+lL._SL1500_.jpg",
@@ -446,7 +447,7 @@
     "price": 799,
     "originalPrice": 4999,
     "category": "petology",
-    "badge": "Best seller",
+    "badge": "",
     "images": [
       "https://m.media-amazon.com/images/I/51Qr-4j-tcL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71SyAgOpCuL._SL1500_.jpg",
@@ -486,7 +487,7 @@
     "price": 699,
     "originalPrice": 1999,
     "category": "petology",
-    "badge": "Best seller",
+    "badge": "Trending",
     "images": [
       "https://m.media-amazon.com/images/I/51O4L3bgtDL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71l0fVZgSwL._SL1500_.jpg",
@@ -521,12 +522,12 @@
     "isTrending": true
   },
   {
-    "id": "14",
+    "id": "14.0",
     "name": "Retractable Dog Leash 5M (16ft) for dogs up to 15kg",
     "price": 599,
     "originalPrice": 4999,
     "category": "petology",
-    "badge": "Best seller",
+    "badge": "",
     "images": [
       "https://m.media-amazon.com/images/I/51-m2Un7nTL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71Z97Bt92NL._SL1500_.jpg",
@@ -685,7 +686,7 @@
     "price": 2999,
     "originalPrice": 3199,
     "category": "petology",
-    "badge": "Hot",
+    "badge": "Best seller",
     "images": [
       "https://m.media-amazon.com/images/I/61-Li6ydWwL._SL1000_.jpg",
       "https://m.media-amazon.com/images/I/611emRj6CKL._SL1000_.jpg",
@@ -876,7 +877,7 @@
     "price": 949,
     "originalPrice": 2399,
     "category": "fitlastics",
-    "badge": "Trending",
+    "badge": "",
     "images": [
       "https://m.media-amazon.com/images/I/71b7bgmYnvL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/61XJyUAKADL._SL1192_.jpg",
@@ -1025,7 +1026,7 @@
   },
   {
     "id": "27",
-    "name": "Fitlastics Resistance Loop Bands Set",
+    "name": "Resistance Loop Bands Set",
     "price": 899,
     "originalPrice": 1499,
     "category": "fitlastics",
@@ -1144,6 +1145,7 @@
     "price": 269,
     "originalPrice": 799,
     "category": "fitlastics",
+    "badge": "Trending",
     "images": [
       "https://m.media-amazon.com/images/I/61DONZL340L._SL1198_.jpg",
       "https://m.media-amazon.com/images/I/71z5JkJmGdL._SL1500_.jpg",
@@ -1215,7 +1217,7 @@
   },
   {
     "id": "32",
-    "name": "Bodylastics Adjustable Ankle & Wrist Weights 4 lb Pair (2 lb Each)",
+    "name": "Adjustable Ankle & Wrist Weights 4 lb Pair (2 lb Each)",
     "price": 1999,
     "originalPrice": 4999,
     "category": "bodylastics",
@@ -1250,7 +1252,7 @@
   },
   {
     "id": "33",
-    "name": "Bodylastics Adjustable Ankle & Wrist Weights 2 lb Pair (1 lb Each)",
+    "name": "Adjustable Ankle & Wrist Weights 2 lb Pair (1 lb Each)",
     "price": 999,
     "originalPrice": 2999,
     "category": "bodylastics",
@@ -1280,7 +1282,7 @@
   },
   {
     "id": "34",
-    "name": "Bodylastics 60cms Foam Roller for Deep Tissue Massage",
+    "name": "60cms Foam Roller for Deep Tissue Massage",
     "price": 999,
     "originalPrice": 2499,
     "category": "bodylastics",
@@ -1313,7 +1315,7 @@
   },
   {
     "id": "35",
-    "name": "Bodylastics 45cms Foam Roller for Deep Tissue Massage",
+    "name": "45cms Foam Roller for Deep Tissue Massage",
     "price": 799,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -1345,7 +1347,7 @@
   },
   {
     "id": "36",
-    "name": "Bodylastics 33cms Foam Roller for Deep Tissue Massage",
+    "name": "33cms Foam Roller for Deep Tissue Massage",
     "price": 649,
     "originalPrice": 1699,
     "category": "bodylastics",
@@ -1377,7 +1379,7 @@
   },
   {
     "id": "37",
-    "name": "Bodylastics 60cms Foam Roller for Pre & Post Workout & Muscle Recovery",
+    "name": "60cms Foam Roller for Pre & Post Workout & Muscle Recovery",
     "price": 799,
     "originalPrice": 1599,
     "category": "bodylastics",
@@ -1414,7 +1416,7 @@
   },
   {
     "id": "38",
-    "name": "Bodylastics 45cms Foam Roller for Pre & Post Workout & Muscle Recovery",
+    "name": "45cms Foam Roller for Pre & Post Workout & Muscle Recovery",
     "price": 649,
     "originalPrice": 1299,
     "category": "bodylastics",
@@ -1453,11 +1455,11 @@
   },
   {
     "id": "39",
-    "name": "Bodylastics 33cms Foam Roller for Pre & Post Workout Sessions",
+    "name": "33cms Foam Roller for Pre & Post Workout Sessions",
     "price": 499,
     "originalPrice": 999,
     "category": "bodylastics",
-    "badge": "Best seller",
+    "badge": "",
     "images": [
       "https://m.media-amazon.com/images/I/61ui7anIHdL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71mnT9R0xaL._SL1500_.jpg",
@@ -1488,7 +1490,7 @@
   },
   {
     "id": "40",
-    "name": "Bodylastics Resistance Loop Band Orange Medium 25-60 lbs",
+    "name": "Resistance Loop Band Orange Medium 25-60 lbs",
     "price": 549,
     "originalPrice": 1799,
     "category": "bodylastics",
@@ -1531,7 +1533,7 @@
   },
   {
     "id": "41",
-    "name": "Bodylastics Dual Layer Resistance Loop Bands",
+    "name": "Dual Layer Resistance Loop Bands",
     "price": 899,
     "originalPrice": 2199,
     "category": "bodylastics",
@@ -1566,7 +1568,7 @@
   },
   {
     "id": "42",
-    "name": "Bodylastics Dual Layer Resistance Loop Bands Set",
+    "name": "Dual Layer Resistance Loop Bands Set",
     "price": 2499,
     "originalPrice": 4999,
     "category": "bodylastics",
@@ -1608,11 +1610,11 @@
   },
   {
     "id": "43",
-    "name": "Bodylastics Yoga Mat 6mm with Carry Bag",
+    "name": "Yoga Mat 6mm with Carry Bag",
     "price": 999,
     "originalPrice": 2999,
     "category": "bodylastics",
-    "badge": "Best seller",
+    "badge": "",
     "images": [
       "https://m.media-amazon.com/images/I/71QS1035BJL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71XjZM-DVVL._SL1500_.jpg",
@@ -1643,7 +1645,7 @@
   },
   {
     "id": "44",
-    "name": "Bodylastics Yoga Mat 6mm with Carry Bag",
+    "name": "Yoga Mat 6mm with Carry Bag",
     "price": 1299,
     "originalPrice": 2999,
     "category": "bodylastics",
@@ -1677,7 +1679,7 @@
   },
   {
     "id": "45",
-    "name": "Bodylastics Door Anchor for Resistance Bands",
+    "name": "Door Anchor for Resistance Bands",
     "price": 199,
     "originalPrice": 699,
     "category": "bodylastics",
@@ -1718,7 +1720,7 @@
   },
   {
     "id": "46",
-    "name": "Bodylastics Resistance Tube Band Yellow 10 lbs",
+    "name": "Resistance Tube Band Yellow 10 lbs",
     "price": 299,
     "originalPrice": 899,
     "category": "bodylastics",
@@ -1763,7 +1765,7 @@
   },
   {
     "id": "47",
-    "name": "Bodylastics Resistance Tube Band Red 15 lbs",
+    "name": "Resistance Tube Band Red 15 lbs",
     "price": 339,
     "originalPrice": 999,
     "category": "bodylastics",
@@ -1808,7 +1810,7 @@
   },
   {
     "id": "48",
-    "name": "Bodylastics Resistance Tube Band with Handles",
+    "name": "Resistance Tube Band with Handles",
     "price": 389,
     "originalPrice": 1099,
     "category": "bodylastics",
@@ -1842,11 +1844,11 @@
   },
   {
     "id": "49",
-    "name": "Bodylastics Resistance Tube Band Green 25 lbs",
+    "name": "Resistance Tube Band Green 25 lbs",
     "price": 399,
     "originalPrice": 1199,
     "category": "bodylastics",
-    "badge": "",
+    "badge": "Best seller",
     "images": [
       "https://m.media-amazon.com/images/I/713+Q6o07VL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71sGMD5jdPL._SL1400_.jpg",
@@ -1887,7 +1889,7 @@
   },
   {
     "id": "50",
-    "name": "Bodylastics Resistance Tube Band Black 30 lbs",
+    "name": "Resistance Tube Band Black 30 lbs",
     "price": 419,
     "originalPrice": 1299,
     "category": "bodylastics",
@@ -1932,7 +1934,7 @@
   },
   {
     "id": "51",
-    "name": "Bodylastics Resistance Tube Band Orange 50 lbs",
+    "name": "Resistance Tube Band Orange 50 lbs",
     "price": 489,
     "originalPrice": 1499,
     "category": "bodylastics",
@@ -1977,7 +1979,7 @@
   },
   {
     "id": "52",
-    "name": "Bodylastics Hand Grip Strengthener Adjustable 10-40kg",
+    "name": "Hand Grip Strengthener Adjustable 10-40kg",
     "price": 499,
     "originalPrice": 1499,
     "category": "bodylastics",
@@ -2011,7 +2013,7 @@
   },
   {
     "id": "53",
-    "name": "Bodylastics High Density Foam Roller (30x14 cms) for Deep Tissue Massage",
+    "name": "High Density Foam Roller (30x14 cms) for Deep Tissue Massage",
     "price": 549,
     "originalPrice": 1299,
     "category": "bodylastics",
@@ -2053,7 +2055,7 @@
   },
   {
     "id": "54",
-    "name": "Bodylastics High Density Foam Roller (45x14 cms) for Deep Tissue Massage",
+    "name": "High Density Foam Roller (45x14 cms) for Deep Tissue Massage",
     "price": 799,
     "originalPrice": 1499,
     "category": "bodylastics",
@@ -2095,7 +2097,7 @@
   },
   {
     "id": "55",
-    "name": "Bodylastics High Density Foam Roller (60x14 cms) for Deep Tissue Massage",
+    "name": "High Density Foam Roller (60x14 cms) for Deep Tissue Massage",
     "price": 999,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -2137,7 +2139,7 @@
   },
   {
     "id": "56",
-    "name": "Bodylastics Resistance Hip Loop Bands 14-25lbs for Legs, Butt, Thighs & Glutes",
+    "name": "Resistance Hip Loop Bands 14-25lbs for Legs, Butt, Thighs & Glutes",
     "price": 209,
     "originalPrice": 599,
     "category": "bodylastics",
@@ -2179,7 +2181,7 @@
   },
   {
     "id": "57",
-    "name": "Bodylastics Resistance Hip Loop Bands 25-35lbs",
+    "name": "Resistance Hip Loop Bands 25-35lbs",
     "price": 229,
     "originalPrice": 799,
     "category": "bodylastics",
@@ -2212,11 +2214,11 @@
   },
   {
     "id": "58",
-    "name": "Bodylastics Resistance Hip Loop Bands 35-50lbs",
+    "name": "Resistance Hip Loop Bands 35-50lbs",
     "price": 249,
     "originalPrice": 999,
     "category": "bodylastics",
-    "badge": "Trending",
+    "badge": "",
     "images": [
       "https://m.media-amazon.com/images/I/814lcSpum5L._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/717OU+gc0wL._SL1400_.jpg",
@@ -2245,7 +2247,7 @@
   },
   {
     "id": "59",
-    "name": "Bodylastics Resistance Hip Loop Bands Set of 3 for Legs, Butt, Thighs & Glutes",
+    "name": "Resistance Hip Loop Bands Set of 3 for Legs, Butt, Thighs & Glutes",
     "price": 699,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -2291,7 +2293,7 @@
   },
   {
     "id": "60",
-    "name": "Bodylastics Peanut Massage Ball for Deep Tissue & Muscle Recovery",
+    "name": "Peanut Massage Ball for Deep Tissue & Muscle Recovery",
     "price": 245,
     "originalPrice": 4999,
     "category": "bodylastics",
@@ -2328,11 +2330,11 @@
   },
   {
     "id": "61",
-    "name": "Bodylastics Foot Massage Roller for Plantar Fasciitis & Muscle Recovery",
+    "name": "Foot Massage Roller for Plantar Fasciitis & Muscle Recovery",
     "price": 339,
     "originalPrice": 1999,
     "category": "bodylastics",
-    "badge": "",
+    "badge": "Trending",
     "images": [
       "https://m.media-amazon.com/images/I/61uTdzpZ49L._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/61-mhtojYYL._SL1500_.jpg",
@@ -2364,7 +2366,7 @@
   },
   {
     "id": "62",
-    "name": "Bodylastics 2 x Foot Massage Rollers Recovery Kit",
+    "name": "2 x Foot Massage Rollers Recovery Kit",
     "price": 649,
     "originalPrice": 2999,
     "category": "bodylastics",
@@ -2406,7 +2408,7 @@
   },
   {
     "id": "63",
-    "name": "Bodylastics 60cms EVA Foam Roller for Deep Tissue & Muscle Recovery",
+    "name": "60cms EVA Foam Roller for Deep Tissue & Muscle Recovery",
     "price": 1399,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -2445,7 +2447,7 @@
   },
   {
     "id": "64",
-    "name": "Bodylastics 45cms EVA Foam Roller for Deep Tissue & Muscle Recovery",
+    "name": "45cms EVA Foam Roller for Deep Tissue & Muscle Recovery",
     "price": 999,
     "originalPrice": 1699,
     "category": "bodylastics",
@@ -2485,7 +2487,7 @@
   },
   {
     "id": "65",
-    "name": "Bodylastics 30cms EVA Foam Roller for Deep Tissue & Muscle Recovery",
+    "name": "30cms EVA Foam Roller for Deep Tissue & Muscle Recovery",
     "price": 750,
     "originalPrice": 1499,
     "category": "bodylastics",
@@ -2525,7 +2527,7 @@
   },
   {
     "id": "66",
-    "name": "Bodylastics EVA Yoga Block for Balance & Flexibility (9x6x3 inches)",
+    "name": "EVA Yoga Block for Balance & Flexibility (9x6x3 inches)",
     "price": 299,
     "originalPrice": 599,
     "category": "bodylastics",
@@ -2561,7 +2563,7 @@
   },
   {
     "id": "67",
-    "name": "Bodylastics EVA Yoga Blocks Set of 2 for Balance & Flexibility (9x6x3 inches)",
+    "name": "EVA Yoga Blocks Set of 2 for Balance & Flexibility (9x6x3 inches)",
     "price": 599,
     "originalPrice": 999,
     "category": "bodylastics",
@@ -2598,7 +2600,7 @@
   },
   {
     "id": "68",
-    "name": "Bodylastics EVA Yoga Blocks Set of 2 for Balance & Flexibility (9x6x3 inches)",
+    "name": "EVA Yoga Blocks Set of 2 for Balance & Flexibility (9x6x3 inches)",
     "price": 649,
     "originalPrice": 999,
     "category": "bodylastics",
@@ -2636,7 +2638,7 @@
   },
   {
     "id": "69",
-    "name": "Bodylastics Yoga Wheel for Back Stretching & Flexibility (13 Inch)",
+    "name": "Yoga Wheel for Back Stretching & Flexibility (13 Inch)",
     "price": 799,
     "originalPrice": 2999,
     "category": "bodylastics",
@@ -2673,11 +2675,11 @@
   },
   {
     "id": "70",
-    "name": "Bodylastics Cork Yoga Wheel for Back Stretching & Flexibility (13 Inch)",
+    "name": "Cork Yoga Wheel for Back Stretching & Flexibility (13 Inch)",
     "price": 1499,
     "originalPrice": 2999,
     "category": "bodylastics",
-    "badge": "",
+    "badge": "Best seller",
     "images": [
       "https://m.media-amazon.com/images/I/61HMVZZE5bL._SL1016_.jpg",
       "https://m.media-amazon.com/images/I/61Pmi1-PbBL._SL1084_.jpg",
@@ -2707,7 +2709,7 @@
   },
   {
     "id": "71",
-    "name": "Bodylastics Ankle & Wrist Weights Pair 0.5kg for Strength Training",
+    "name": "Ankle & Wrist Weights Pair 0.5kg for Strength Training",
     "price": 599,
     "originalPrice": 999,
     "category": "bodylastics",
@@ -2746,7 +2748,7 @@
   },
   {
     "id": "72",
-    "name": "Bodylastics Ankle & Wrist Weights Pair 1.0kg for Strength Training",
+    "name": "Ankle & Wrist Weights Pair 1.0kg for Strength Training",
     "price": 749,
     "originalPrice": 1299,
     "category": "bodylastics",
@@ -2785,7 +2787,7 @@
   },
   {
     "id": "73",
-    "name": "Bodylastics Ankle & Wrist Weights Pair 1.5kg for Strength Training",
+    "name": "Ankle & Wrist Weights Pair 1.5kg for Strength Training",
     "price": 999,
     "originalPrice": 1599,
     "category": "bodylastics",
@@ -2824,7 +2826,7 @@
   },
   {
     "id": "74",
-    "name": "Bodylastics Ankle & Wrist Weights Pair 2kg for Strength Training",
+    "name": "Ankle & Wrist Weights Pair 2kg for Strength Training",
     "price": 1299,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -2863,7 +2865,7 @@
   },
   {
     "id": "75",
-    "name": "Bodylastics Lacrosse Massage Ball for Deep Tissue & Muscle Recovery (7.5cm)",
+    "name": "Lacrosse Massage Ball for Deep Tissue & Muscle Recovery (7.5cm)",
     "price": 179,
     "originalPrice": 499,
     "category": "bodylastics",
@@ -2902,7 +2904,7 @@
   },
   {
     "id": "76",
-    "name": "Bodylastics Massage Roller Stick for Muscle Recovery (40cm)",
+    "name": "Massage Roller Stick for Muscle Recovery (40cm)",
     "price": 525,
     "originalPrice": 999,
     "category": "bodylastics",
@@ -2941,7 +2943,7 @@
   },
   {
     "id": "77",
-    "name": "Bodylastics Massage Roller Stick for Muscle Recovery (45cm)",
+    "name": "Massage Roller Stick for Muscle Recovery (45cm)",
     "price": 550,
     "originalPrice": 999,
     "category": "bodylastics",
@@ -2980,7 +2982,7 @@
   },
   {
     "id": "78",
-    "name": "Bodylastics Cobblestone Massage Ball for Deep Tissue & Muscle Recovery (7.5cm)",
+    "name": "Cobblestone Massage Ball for Deep Tissue & Muscle Recovery (7.5cm)",
     "price": 599,
     "originalPrice": 1499,
     "category": "bodylastics",
@@ -3016,7 +3018,7 @@
   },
   {
     "id": "79",
-    "name": "Bodylastics Cobblestone Massage Ball for Deep Tissue & Muscle Recovery (11cm)",
+    "name": "Cobblestone Massage Ball for Deep Tissue & Muscle Recovery (11cm)",
     "price": 699,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -3048,11 +3050,11 @@
   },
   {
     "id": "80",
-    "name": "Bodylastics Spike Massage Ball for Deep Tissue & Muscle Recovery (6.5cm)",
+    "name": "Spike Massage Ball for Deep Tissue & Muscle Recovery (6.5cm)",
     "price": 179,
     "originalPrice": 1499,
     "category": "bodylastics",
-    "badge": "",
+    "badge": "Trending",
     "images": [
       "https://m.media-amazon.com/images/I/71S2hrEWuoL._SL1478_.jpg",
       "https://m.media-amazon.com/images/I/813WIjRS2yL._SL1500_.jpg",
@@ -3087,7 +3089,7 @@
   },
   {
     "id": "81",
-    "name": "Bodylastics Spike Massage Ball for Deep Tissue & Muscle Recovery (6.5cm)",
+    "name": "Spike Massage Ball for Deep Tissue & Muscle Recovery (6.5cm)",
     "price": 189,
     "originalPrice": 499,
     "category": "bodylastics",
@@ -3126,7 +3128,7 @@
   },
   {
     "id": "82",
-    "name": "Bodylastics Yoga Strap with D-Rings for Stretching & Flexibility",
+    "name": "Yoga Strap with D-Rings for Stretching & Flexibility",
     "price": 199,
     "originalPrice": 499,
     "category": "bodylastics",
@@ -3162,7 +3164,7 @@
   },
   {
     "id": "83",
-    "name": "Bodylastics 4-in-1 Abs Roller Kit with Pushup Stands & Jump Rope",
+    "name": "4-in-1 Abs Roller Kit with Pushup Stands & Jump Rope",
     "price": 799,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -3204,7 +3206,7 @@
   },
   {
     "id": "84",
-    "name": "Bodylastics Yoga Starter Kit with 13 Inch Wheel, Blocks & Strap",
+    "name": "Yoga Starter Kit with 13 Inch Wheel, Blocks & Strap",
     "price": 1499,
     "originalPrice": 3999,
     "category": "bodylastics",
@@ -3249,7 +3251,7 @@
   },
   {
     "id": "85",
-    "name": "Bodylastics Yoga Starter Kit with 13 Inch Wheel, Blocks & Strap",
+    "name": "Yoga Starter Kit with 13 Inch Wheel, Blocks & Strap",
     "price": 1599,
     "originalPrice": 3999,
     "category": "bodylastics",
@@ -3294,7 +3296,7 @@
   },
   {
     "id": "86",
-    "name": "Bodylastics Cork Yoga Starter Kit with 13 Inch Wheel, Blocks & Strap",
+    "name": "Cork Yoga Starter Kit with 13 Inch Wheel, Blocks & Strap",
     "price": 1699,
     "originalPrice": 3999,
     "category": "bodylastics",
@@ -3338,7 +3340,7 @@
   },
   {
     "id": "87",
-    "name": "Bodylastics 6-in-1 Foam Roller Kit with Massage Tools (18 Inch)",
+    "name": "6-in-1 Foam Roller Kit with Massage Tools (18 Inch)",
     "price": 1549,
     "originalPrice": 2999,
     "category": "bodylastics",
@@ -3384,7 +3386,7 @@
   },
   {
     "id": "88",
-    "name": "Bodylastics Deep Tissue Recovery Kit with Foam Roller & Pullup Bands",
+    "name": "Deep Tissue Recovery Kit with Foam Roller & Pullup Bands",
     "price": 2999,
     "originalPrice": 4999,
     "category": "bodylastics",
@@ -3420,7 +3422,7 @@
   },
   {
     "id": "89",
-    "name": "Bodylastics Foam Roller & Massage Stick Combo for Muscle Recovery (45cm)",
+    "name": "Foam Roller & Massage Stick Combo for Muscle Recovery (45cm)",
     "price": 899,
     "originalPrice": 3999,
     "category": "bodylastics",
@@ -3459,7 +3461,7 @@
   },
   {
     "id": "90",
-    "name": "Bodylastics Foam Roller Kit with Massage Stick & Balls for Muscle Recovery (45cm)",
+    "name": "Foam Roller Kit with Massage Stick & Balls for Muscle Recovery (45cm)",
     "price": 999,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -3500,7 +3502,7 @@
   },
   {
     "id": "91",
-    "name": "Bodylastics Foot Massage Roller for Plantar Fasciitis & Muscle Recovery (Foot Roller + 60cms Finger Roller)",
+    "name": "Foot Massage Roller for Plantar Fasciitis & Muscle Recovery (Foot Roller + 60cms Finger Roller)",
     "price": 999,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -3536,7 +3538,7 @@
   },
   {
     "id": "92",
-    "name": "Bodylastics Lacrosse & Spike Massage Ball Combo for Muscle Recovery (6.5cm)",
+    "name": "Lacrosse & Spike Massage Ball Combo for Muscle Recovery (6.5cm)",
     "price": 299,
     "originalPrice": 1699,
     "category": "bodylastics",
@@ -3576,7 +3578,7 @@
   },
   {
     "id": "93",
-    "name": "Bodylastics Peanut & Lacrosse Massage Balls Combo",
+    "name": "Peanut & Lacrosse Massage Balls Combo",
     "price": 349,
     "originalPrice": 2999,
     "category": "bodylastics",
@@ -3621,7 +3623,7 @@
   },
   {
     "id": "94",
-    "name": "Bodylastics Peanut, Lacrosse & Spike Massage Ball Combo for Muscle Recovery (6.5cm)",
+    "name": "Peanut, Lacrosse & Spike Massage Ball Combo for Muscle Recovery (6.5cm)",
     "price": 499,
     "originalPrice": 2999,
     "category": "bodylastics",
@@ -3661,7 +3663,7 @@
   },
   {
     "id": "95",
-    "name": "Bodylastics Foot Massage Roller & 33cms Foam Roller Recovery Kit",
+    "name": "Foot Massage Roller & 33cms Foam Roller Recovery Kit",
     "price": 799,
     "originalPrice": 4999,
     "category": "bodylastics",
@@ -3702,7 +3704,7 @@
   },
   {
     "id": "96",
-    "name": "Bodylastics Foot Massage Roller & 45cms Foam Roller Recovery Kit",
+    "name": "Foot Massage Roller & 45cms Foam Roller Recovery Kit",
     "price": 999,
     "originalPrice": 4999,
     "category": "bodylastics",
@@ -3743,7 +3745,7 @@
   },
   {
     "id": "97",
-    "name": "Bodylastics Foot Massage Roller & 60cms Foam Roller Recovery Kit",
+    "name": "Foot Massage Roller & 60cms Foam Roller Recovery Kit",
     "price": 1199,
     "originalPrice": 4999,
     "category": "bodylastics",
@@ -3784,7 +3786,7 @@
   },
   {
     "id": "98",
-    "name": "Bodylastics Foot Massage Roller & Lacrosse Ball Recovery Kit",
+    "name": "Foot Massage Roller & Lacrosse Ball Recovery Kit",
     "price": 499,
     "originalPrice": 2999,
     "category": "bodylastics",
@@ -3825,7 +3827,7 @@
   },
   {
     "id": "99",
-    "name": "Bodylastics Foot Massage Roller & Spike Ball Recovery Kit",
+    "name": "Foot Massage Roller & Spike Ball Recovery Kit",
     "price": 499,
     "originalPrice": 4999,
     "category": "bodylastics",
@@ -3866,7 +3868,7 @@
   },
   {
     "id": "100",
-    "name": "Bodylastics Foot Massage Roller & Massage Stick Recovery Kit",
+    "name": "Foot Massage Roller & Massage Stick Recovery Kit",
     "price": 799,
     "originalPrice": 4999,
     "category": "bodylastics",
@@ -3908,7 +3910,7 @@
   },
   {
     "id": "101",
-    "name": "Bodylastics Deep Tissue Massage Stick & 45cms Foam Roller Combo Pack",
+    "name": "Deep Tissue Massage Stick & 45cms Foam Roller Combo Pack",
     "price": 999,
     "originalPrice": 999,
     "category": "bodylastics",
@@ -3954,7 +3956,7 @@
   },
   {
     "id": "102",
-    "name": "Bodylastics Foot Massage Roller & 33cms Foam Roller for Plantar Fasciitis Pain Relief",
+    "name": "Foot Massage Roller & 33cms Foam Roller for Plantar Fasciitis Pain Relief",
     "price": 899,
     "originalPrice": 1799,
     "category": "bodylastics",
@@ -3995,7 +3997,7 @@
   },
   {
     "id": "103",
-    "name": "Bodylastics Foot Massage Roller & 45cms Foam Roller for Plantar Fasciitis Pain Relief",
+    "name": "Foot Massage Roller & 45cms Foam Roller for Plantar Fasciitis Pain Relief",
     "price": 899,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -4036,7 +4038,7 @@
   },
   {
     "id": "104",
-    "name": "Bodylastics Foot Massage Roller & 60cms Foam Roller for Plantar Fasciitis Pain Relief",
+    "name": "Foot Massage Roller & 60cms Foam Roller for Plantar Fasciitis Pain Relief",
     "price": 999,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -4077,7 +4079,7 @@
   },
   {
     "id": "105",
-    "name": "Bodylastics Foot Massage Roller for Plantar Fasciitis Pain Relief",
+    "name": "Foot Massage Roller for Plantar Fasciitis Pain Relief",
     "price": 449,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -4118,7 +4120,7 @@
   },
   {
     "id": "106",
-    "name": "Bodylastics Foot Massage Roller & Massage Stick for Plantar Fasciitis Pain Relief",
+    "name": "Foot Massage Roller & Massage Stick for Plantar Fasciitis Pain Relief",
     "price": 899,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -4162,7 +4164,7 @@
   },
   {
     "id": "107",
-    "name": "Bodylastics Foot Massage Roller & Lacrosse Massage Ball for Plantar Fasciitis Pain Relief",
+    "name": "Foot Massage Roller & Lacrosse Massage Ball for Plantar Fasciitis Pain Relief",
     "price": 649,
     "originalPrice": 1499,
     "category": "bodylastics",
@@ -4206,7 +4208,7 @@
   },
   {
     "id": "108",
-    "name": "Bodylastics Foot Massage Roller & Spike Massage Ball for Plantar Fasciitis Pain Relief",
+    "name": "Foot Massage Roller & Spike Massage Ball for Plantar Fasciitis Pain Relief",
     "price": 599,
     "originalPrice": 1999,
     "category": "bodylastics",

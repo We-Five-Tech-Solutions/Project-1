@@ -17,10 +17,10 @@ export default function Footer() {
           </p>
 
           <div className="flex gap-3">
-            {['IG', 'FB', 'YT'].map((s) => (
+            {['IG'].map((s) => (
               <a
                 key={s}
-                href="#"
+                href="https://www.instagram.com/bodylastics_official"
                 className="w-10 h-10 border border-gray-700 rounded-md flex items-center justify-center text-xs font-semibold hover:border-white hover:text-white transition-all"
               >
                 {s}

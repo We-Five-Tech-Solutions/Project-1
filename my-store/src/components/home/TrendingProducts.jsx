@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 export default function TrendingProducts() {
   const { data: products = [] } = useProducts();
 
-  const trending = products.filter((p) => p.isTrending).slice(0, 8);
+  const trending = products.filter((p) => p.badge === "Trending").slice(0, 8);
 
   if (!trending.length) return null;
 
