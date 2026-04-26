@@ -10,7 +10,7 @@ export default function Footer() {
         {/* Brand */}
         <div className="col-span-2">
           <p className="text-white font-extrabold text-2xl mb-4 tracking-tight">
-            RGR GLOABL STORE
+            RGR GLOBAL STORE
           </p>
           <p className="text-sm text-gray-500 leading-relaxed mb-6 max-w-sm">
             Three powerful brands. One destination for your wellness and fitness journey.
@@ -37,7 +37,7 @@ export default function Footer() {
           <ul className="space-y-3 text-sm">
             <li><Link to="/collections/petology" className="hover:text-white transition">Petology</Link></li>
             <li><Link to="/collections/bodylastics" className="hover:text-white transition">Bodylastics</Link></li>
-            <li><Link to="/collections/fitlastics" className="hover:text-white transition">FitLastics</Link></li>
+            <li><Link to="/collections/fitlastics" className="hover:text-white transition">Fitlastics</Link></li>
           </ul>
         </div>
 

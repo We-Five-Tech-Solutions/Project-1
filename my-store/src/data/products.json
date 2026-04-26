@@ -325,7 +325,7 @@
     "isTrending": true
   },
   {
-    "id": "10",
+    "id": "9",
     "name": "Dog Leash 6FT Heavy Duty Rope",
     "price": 399,
     "originalPrice": 1299,
@@ -364,7 +364,7 @@
     "isTrending": true
   },
   {
-    "id": "11",
+    "id": "10",
     "name": "Dog Leash 4FT Heavy Duty Rope",
     "price": 175,
     "originalPrice": 999,
@@ -403,7 +403,7 @@
     "isTrending": true
   },
   {
-    "id": "12",
+    "id": "11",
     "name": "Dog Leash 5FT Medium Rope",
     "price": 279,
     "originalPrice": 999,
@@ -442,7 +442,7 @@
     "isTrending": true
   },
   {
-    "id": "13",
+    "id": "12",
     "name": "Retractable Dog Leash 5M (16ft) for dogs up to 50kg",
     "price": 799,
     "originalPrice": 4999,
@@ -475,14 +475,14 @@
     "colors": [],
     "sizes": [],
     "description": "Retractable leash with brake and lock system.",
-    "amazonLink": "https://www.amazon.in/dp/B0FR8LQPD3",
+    "amazonLink": "https://www.amazon.in/dp/B0FR8BSDDB",
     "related": ["14", "10"],
     "isFeatured": true,
     "isBestSeller": false,
     "isTrending": true
   },
   {
-    "id": "14",
+    "id": "13",
     "name": "Retractable Dog Leash 5M (16ft) for dogs up to 25kg",
     "price": 699,
     "originalPrice": 1999,
@@ -515,14 +515,14 @@
     "colors": [],
     "sizes": [],
     "description": "Retractable leash with brake and lock system.",
-    "amazonLink": "https://www.amazon.in/dp/B0FR8LQPD3",
+    "amazonLink": "https://www.amazon.in/dp/B0FR8BRSY3",
     "related": ["14", "10"],
     "isFeatured": true,
     "isBestSeller": false,
     "isTrending": true
   },
   {
-    "id": "14.0",
+    "id": "14",
     "name": "Retractable Dog Leash 5M (16ft) for dogs up to 15kg",
     "price": 599,
     "originalPrice": 4999,
@@ -634,8 +634,8 @@
     "colors": ["pink"],
     "sizes": [],
     "description": "Wireless grooming machine with extra blade.",
-    "amazonLink": "https://www.amazon.in/dp/B0C9ZVZ1HB",
-    "related": ["9", "1"],
+    "amazonLink": "https://www.amazon.in/dp/B0C9ZXZHV2",
+    "related": ["18", "1"],
     "isFeatured": true,
     "isBestSeller": true,
     "isTrending": false
@@ -675,7 +675,7 @@
     "sizes": [],
     "description": "Wireless grooming machine with extra blade.",
     "amazonLink": "https://www.amazon.in/dp/B0C9ZVZ1HB",
-    "related": ["9", "1"],
+    "related": ["18", "16"],
     "isFeatured": true,
     "isBestSeller": true,
     "isTrending": false
@@ -790,7 +790,7 @@
     "sizes": [],
     "description": "Ideal for pull-up assistance and strength training.",
     "amazonLink": "https://www.amazon.in/dp/B0842PZV2H",
-    "related": ["16", "18"],
+    "related": ["24", "23"],
     "isFeatured": true,
     "isBestSeller": true,
     "isTrending": false
@@ -828,7 +828,7 @@
     "sizes": [],
     "description": "Multi-purpose bands for yoga, pilates, and stretching.",
     "amazonLink": "https://www.amazon.in/dp/B07XTCPHTM",
-    "related": ["17", "19"],
+    "related": ["30", "19"],
     "isFeatured": true,
     "isBestSeller": true,
     "isTrending": false
@@ -905,14 +905,14 @@
     "sizes": [],
     "description": "Premium quality bands for full-body workouts.",
     "amazonLink": "https://www.amazon.in/dp/B083MXQ436",
-    "related": ["18", "21"],
+    "related": ["22", "21"],
     "isFeatured": true,
     "isBestSeller": true,
     "isTrending": false
   },
   {
     "id": "24",
-    "name": "Natural Rubber Resistance Bands for Toning",
+    "name": "Natural Rubber Resistance Bands 25Lbs - 6Ft",
     "price": 289,
     "originalPrice": 899,
     "category": "fitlastics",
@@ -1141,7 +1141,7 @@
   },
   {
     "id": "30",
-    "name": "Natural Rubber Resistance Bands for Strength Training",
+    "name": "Natural Rubber Resistance Bands 20Lbs - 6Ft",
     "price": 269,
     "originalPrice": 799,
     "category": "fitlastics",
@@ -1179,7 +1179,7 @@
   },
   {
     "id": "31",
-    "name": "Natural Rubber Resistance Bands",
+    "name": "Natural Rubber Resistance Bands 15Lbs - 6Ft",
     "price": 249,
     "originalPrice": 699,
     "category": "fitlastics",
@@ -1246,6 +1246,7 @@
       ]
     },
     "colors": ["yellow", "red", "blue"],
+    "related": ["33"],
     "sizes": [],
     "description": "Adjustable ankle and wrist weights for workouts and physiotherapy.",
     "amazonLink": "https://www.amazon.in/dp/B0GSNN9ZCJ"
@@ -1277,6 +1278,7 @@
       "about": ["Lightweight", "Sweat-resistant", "Beginner friendly"]
     },
     "colors": ["yellow", "red", "blue"],
+    "related": ["32"],
     "description": "Lightweight adjustable ankle and wrist weights.",
     "amazonLink": "https://www.amazon.in/dp/B0GSNC73YF"
   },
@@ -1310,6 +1312,7 @@
       ]
     },
     "colors": ["yellow", "red", "blue"],
+    "related": ["35","36"],
     "description": "Foam roller for muscle recovery and pain relief.",
     "amazonLink": "https://www.amazon.in/dp/B0995LXTRT"
   },
@@ -1342,6 +1345,7 @@
       ]
     },
     "colors": ["yellow", "red", "blue"],
+    "related": ["34","36"],
     "description": "Foam roller for muscle recovery and pain relief.",
     "amazonLink": "https://www.amazon.in/dp/B08425FXMH"
   },
@@ -1374,6 +1378,7 @@
       ]
     },
     "colors": ["yellow", "red", "blue"],
+    "related": ["35","34"],
     "description": "Affordable foam roller for everyday recovery sessions.",
     "amazonLink": "https://www.amazon.in/dp/B08421CNFD"
   },
@@ -1411,6 +1416,7 @@
       ]
     },
     "colors": ["grey"],
+    "related": ["38","39"],
     "description": "Medium-density foam roller designed for deep tissue massage, muscle recovery, and improved flexibility.",
     "amazonLink": "https://www.amazon.in/dp/B0B98YW81L"
   },
@@ -1450,6 +1456,7 @@
       ]
     },
     "colors": ["grey"],
+    "related": ["37","39"],
     "description": "Medium-density foam roller designed for deep tissue massage, muscle recovery, and improved flexibility.",
     "amazonLink": "https://www.amazon.in/dp/B0B986D8HD"
   },
@@ -1485,6 +1492,7 @@
       ]
     },
     "colors": ["yellow", "red", "blue"],
+    "related": ["38","37"],
     "description": "Compact foam roller designed for muscle recovery and deep tissue massage.",
     "amazonLink": "https://www.amazon.in/dp/B0B9889LQX"
   },
@@ -1528,6 +1536,7 @@
       ]
     },
     "colors": ["orange"],
+    "related": ["42","41"],
     "description": "Medium resistance loop band with door anchor for pull-up assistance, strength training, yoga, Pilates, and mobility workouts.",
     "amazonLink": "https://www.amazon.in/dp/B07XCWXLPW"
   },
@@ -1563,6 +1572,7 @@
       ]
     },
     "colors": ["yellow", "red", "blue"],
+    "related": ["40","42"],
     "description": "Versatile resistance bands for strength training and assisted exercises.",
     "amazonLink": "https://www.amazon.in/dp/B07XDXTN97"
   },
@@ -1605,6 +1615,7 @@
       ]
     },
     "colors": ["multi-color"],
+    "related": ["40","41"],
     "description": "Set of 4 dual layer resistance loop bands with door anchor for pull-up assistance, strength training, yoga, Pilates, and fitness workouts.",
     "amazonLink": "https://www.amazon.in/dp/B07TTG5S37"
   },
@@ -1640,6 +1651,7 @@
       ]
     },
     "colors": ["yellow", "red", "blue"],
+    "related": ["44"],
     "description": "Durable and anti-slip yoga mat for all types of workouts.",
     "amazonLink": "https://www.amazon.in/dp/B0CVXFTKVH"
   },
@@ -1674,6 +1686,7 @@
       ]
     },
     "colors": ["yellow", "red", "blue"],
+    "related": ["43"],
     "description": "Durable and anti-slip yoga mat for all types of workouts.",
     "amazonLink": "https://www.amazon.in/dp/B09GJKYTQZ"
   },
@@ -1715,6 +1728,7 @@
       ]
     },
     "colors": ["black"],
+    "related":["41","40"],
     "description": "Heavy-duty door anchor with neoprene lining and foam wheel for safe resistance band workouts at home.",
     "amazonLink": "https://www.amazon.in/dp/B07PF6KLS7"
   },
@@ -1760,6 +1774,7 @@
       ]
     },
     "colors": ["yellow"],
+    "related": ["47","48"],
     "description": "Adjustable 10 lbs resistance tube band with handles and door anchor for strength training, flexibility, Pilates, and home workouts.",
     "amazonLink": "https://www.amazon.in/dp/B07WZK2RRT"
   },
@@ -1805,12 +1820,13 @@
       ]
     },
     "colors": ["red"],
+    "related": ["48","46"],
     "description": "Adjustable 15 lbs resistance tube band with handles and door anchor for strength training, Pilates, fitness, and home workouts.",
     "amazonLink": "https://www.amazon.in/dp/B07WZJR9FQ"
   },
   {
     "id": "48",
-    "name": "Resistance Tube Band with Handles",
+    "name": "Resistance Tube Band Blue 20lbs",
     "price": 389,
     "originalPrice": 1099,
     "category": "bodylastics",
@@ -1839,6 +1855,7 @@
       ]
     },
     "colors": ["yellow", "red", "blue"],
+    "related": ["49","47"],
     "description": "Affordable resistance band with handles for full-body workouts.",
     "amazonLink": "https://www.amazon.in/dp/B07X3RVS13"
   },
@@ -1884,6 +1901,7 @@
       ]
     },
     "colors": ["green"],
+    "related": ["47","48"],
     "description": "Adjustable 25 lbs resistance tube band with handles and door anchor for strength training, Pilates, fitness, and home workouts.",
     "amazonLink": "https://www.amazon.in/dp/B07X3RDFZL"
   },
@@ -1929,6 +1947,7 @@
       ]
     },
     "colors": ["black"],
+    "related": ["49","48"],
     "description": "Adjustable 30 lbs resistance tube band with handles and door anchor for strength training, Pilates, yoga, and home workouts.",
     "amazonLink": "https://www.amazon.in/dp/B07X1MWXLY"
   },
@@ -1974,6 +1993,7 @@
       ]
     },
     "colors": ["orange"],
+    "related": ["50","49"],
     "description": "Adjustable 50 lbs resistance tube band with handles and door anchor for strength training, Pilates, yoga, and home workouts.",
     "amazonLink": "https://www.amazon.in/dp/B0842VXJGH"
   },
@@ -2050,6 +2070,7 @@
       ]
     },
     "colors": ["black"],
+    "related": ["55","54"],
     "description": "Compact high density foam roller for deep tissue massage, pain relief, and pre or post workout muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B08427FCFM"
   },
@@ -2092,6 +2113,7 @@
       ]
     },
     "colors": ["black"],
+    "related": ["55","53"],
     "description": "Compact high density foam roller for deep tissue massage, pain relief, and pre or post workout muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B08427J46T"
   },
@@ -2134,6 +2156,7 @@
       ]
     },
     "colors": ["black"],
+    "related": ["54","53"],
     "description": "Compact high density foam roller for deep tissue massage, pain relief, and pre or post workout muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B08V8YXY65"
   },
@@ -2176,6 +2199,7 @@
       ]
     },
     "colors": ["light green"],
+    "related": ["57","58"],
     "description": "Anti-slip fabric hip resistance band with 14-25 lbs tension for glute, thigh, leg, and lower body workouts anywhere.",
     "amazonLink": "https://www.amazon.in/dp/B0F5B8755L"
   },
@@ -2209,6 +2233,7 @@
       ]
     },
     "colors": ["yellow", "red", "blue"],
+    "related": ["58","56"],
     "description": "Fabric resistance bands for lower body workouts.",
     "amazonLink": "https://www.amazon.in/dp/B0F5B8MZGF"
   },
@@ -2242,13 +2267,14 @@
       ]
     },
     "colors": ["yellow", "red", "blue"],
+    "related": ["57","56"],
     "description": "Fabric resistance bands for lower body workouts.",
     "amazonLink": "https://www.amazon.in/dp/B0F5B9ZFH2"
   },
   {
     "id": "59",
     "name": "Resistance Hip Loop Bands Set of 3 for Legs, Butt, Thighs & Glutes",
-    "price": 699,
+    "price": 649,
     "originalPrice": 1999,
     "category": "bodylastics",
     "badge": "",
@@ -2288,6 +2314,7 @@
       ]
     },
     "colors": ["3 bands set"],
+    "related": ["58","57"],
     "description": "Set of 3 anti-slip fabric hip resistance bands with multiple resistance levels for glute, thigh, and lower body workouts anywhere.",
     "amazonLink": "https://www.amazon.in/dp/B084MKF4FT"
   },
@@ -2361,6 +2388,7 @@
       ]
     },
     "colors": ["green"],
+    "related": ["62","105"],
     "description": "Portable foot massage roller designed for plantar fasciitis relief, reflexology, and full-body muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B0GHFZ3LRX"
   },
@@ -2403,6 +2431,7 @@
       ]
     },
     "colors": ["pink", "green"],
+    "related": ["61","105"],
     "description": "Set of 2 foot massage rollers for plantar fasciitis relief, reflexology, circulation boost, and full body muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B0GVBKMBQX"
   },
@@ -2442,6 +2471,7 @@
       ]
     },
     "colors": ["purple"],
+    "related": ["64","65"],
     "description": "60cm EVA foam roller designed for deep tissue massage, muscle recovery, and improved flexibility.",
     "amazonLink": "https://www.amazon.in/dp/B08NX1KBY8"
   },
@@ -2482,6 +2512,7 @@
       ]
     },
     "colors": ["purple"],
+    "related": ["63","65"],
     "description": "45cm EVA foam roller designed for deep tissue massage, muscle recovery, and improved flexibility.",
     "amazonLink": "https://www.amazon.in/dp/B08K9B5SWV"
   },
@@ -2522,6 +2553,7 @@
       ]
     },
     "colors": ["purple"],
+    "related": ["64","63"],
     "description": "30cm EVA foam roller designed for deep tissue massage, muscle recovery, and improved flexibility.",
     "amazonLink": "https://www.amazon.in/dp/B08K9B12Z8"
   },
@@ -2558,6 +2590,7 @@
       ]
     },
     "colors": ["blue", "brown"],
+    "related": ["68","67"],
     "description": "High-density yoga block designed to improve balance, flexibility, and support during yoga and workout sessions.",
     "amazonLink": "https://www.amazon.in/dp/B09516WRNN"
   },
@@ -2595,6 +2628,7 @@
       ]
     },
     "colors": ["blue", "brown"],
+    "related": ["68","66"],
     "description": "Set of 2 high-density yoga blocks designed to improve balance, flexibility, and support during yoga and workout sessions.",
     "amazonLink": "https://www.amazon.in/dp/B08P6TLJ37"
   },
@@ -2633,8 +2667,9 @@
       ]
     },
     "colors": ["green", "brown"],
+    "related": ["67","66"],
     "description": "Set of 2 high-density yoga blocks designed to improve balance, flexibility, and support during yoga and workout sessions.",
-    "amazonLink": ""
+    "amazonLink": "https://www.amazon.in/dp/B08P6WFCFN"
   },
   {
     "id": "69",
@@ -2670,6 +2705,7 @@
       ]
     },
     "colors": ["blue", "pink"],
+    "related": ["84","70"],
     "description": "Durable yoga wheel designed for back stretching, flexibility, and improving yoga performance.",
     "amazonLink": "https://www.amazon.in/dp/B09YDBW75Z"
   },
@@ -2704,6 +2740,7 @@
       ]
     },
     "colors": ["black", "brown"],
+    "related": ["84","69"],
     "description": "Cork yoga wheel designed for back stretching, balance, posture support, and improved flexibility.",
     "amazonLink": "https://www.amazon.in/dp/B07WSGJ16S"
   },
@@ -2743,6 +2780,7 @@
       ]
     },
     "colors": ["yellow"],
+    "related": ["72","73","74"],
     "description": "Adjustable ankle and wrist weights designed to add resistance and enhance strength training and fitness workouts.",
     "amazonLink": "https://www.amazon.in/dp/B08K99QT4C"
   },
@@ -2782,6 +2820,7 @@
       ]
     },
     "colors": ["pink"],
+    "related": ["71","73","74"],
     "description": "Adjustable ankle and wrist weights designed to add resistance and enhance strength training and fitness workouts.",
     "amazonLink": "https://www.amazon.in/dp/B08K9CZ69H"
   },
@@ -2821,6 +2860,7 @@
       ]
     },
     "colors": ["blue"],
+    "related": ["72","71","74"],
     "description": "Adjustable ankle and wrist weights designed to add resistance and enhance strength training and fitness workouts.",
     "amazonLink": "https://www.amazon.in/dp/B08K9B2YZ7"
   },
@@ -2860,8 +2900,9 @@
       ]
     },
     "colors": ["brown"],
+    "related": ["72","73","71"],
     "description": "Adjustable ankle and wrist weights designed to add resistance and enhance strength training and fitness workouts.",
-    "amazonLink": "https://www.amazon.in/dp/B08K99QT4C"
+    "amazonLink": "https://www.amazon.in/dp/B08K9CKPV1"
   },
   {
     "id": "75",
@@ -2899,6 +2940,7 @@
       ]
     },
     "colors": ["blue", "black"],
+    "related":["80","81"],
     "description": "Lacrosse massage ball designed for deep tissue therapy, muscle recovery, and pain relief.",
     "amazonLink": "https://www.amazon.in/dp/B096QDWCH5"
   },
@@ -2938,6 +2980,7 @@
       ]
     },
     "colors": ["purple"],
+    "related": ["77","89"],
     "description": "Portable massage roller stick designed for deep tissue relief, muscle recovery, and improved flexibility.",
     "amazonLink": "https://www.amazon.in/dp/B0FH4PPJ9N"
   },
@@ -2977,6 +3020,7 @@
       ]
     },
     "colors": ["purple"],
+    "related": ["76","90"],
     "description": "Portable massage roller stick designed for deep tissue relief, muscle recovery, and improved flexibility.",
     "amazonLink": "https://www.amazon.in/dp/B07X9G3KXB"
   },
@@ -3013,6 +3057,7 @@
       ]
     },
     "colors": ["black"],
+    "related": ["79","92"],
     "description": "Cobblestone textured massage ball designed for deep tissue therapy, muscle recovery, and pain relief.",
     "amazonLink": "https://www.amazon.in/dp/B096QD5T1B"
   },
@@ -3045,6 +3090,7 @@
       ]
     },
     "colors": ["black"],
+    "related": ["78","92"],
     "description": "Cobblestone textured massage ball designed for deep tissue therapy, muscle recovery, and pain relief.",
     "amazonLink": "https://www.amazon.in/dp/B09BV5P4BM"
   },
@@ -3084,6 +3130,7 @@
       ]
     },
     "colors": ["red"],
+    "related":["75","81"],
     "description": "Spiky massage ball designed for deep tissue therapy, muscle recovery, and pain relief.",
     "amazonLink": "https://www.amazon.in/dp/B096QCMFDB"
   },
@@ -3123,6 +3170,7 @@
       ]
     },
     "colors": ["black"],
+    "related":["75","81"],
     "description": "Spiky massage ball designed for deep tissue therapy, muscle recovery, and pain relief.",
     "amazonLink": "https://www.amazon.in/dp/B096QDBV1L"
   },
@@ -3246,6 +3294,7 @@
       ]
     },
     "colors": ["rose red", "black"],
+    "related": ["85","84"],
     "description": "Complete yoga kit with wheel, blocks, strap, and cooling towel for stretching, balance, and flexibility training.",
     "amazonLink": "https://www.amazon.in/dp/B07Y2WSDBM"
   },
@@ -3291,6 +3340,7 @@
       ]
     },
     "colors": ["blue", "black"],
+    "related": ["86","84"],
     "description": "Complete yoga kit with wheel, blocks, strap, and cooling towel for stretching, balance, and flexibility training.",
     "amazonLink": "https://www.amazon.in/dp/B07Y2WRQ9G"
   },
@@ -3335,6 +3385,7 @@
       ]
     },
     "colors": ["black", "brown"],
+    "related": ["85","84"],
     "description": "Complete cork yoga kit with wheel, blocks, strap, and cooling towel for stretching, balance, and flexibility training.",
     "amazonLink": "https://www.amazon.in/dp/B07Y371ZDD"
   },
@@ -3381,6 +3432,7 @@
       ]
     },
     "colors": ["black"],
+    "related": ["88"],
     "description": "Complete foam roller recovery kit with massage stick, balls, and storage bag for pain relief and muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B07PDGGS2N"
   },
@@ -3417,6 +3469,7 @@
       ]
     },
     "colors": ["multi-color"],
+    "related": ["87"],
     "description": "Complete body recovery kit with foam roller, massage tools, storage bag, and pullup bands for fitness and pain relief.",
     "amazonLink": "https://www.amazon.in/dp/B0931TM6VK"
   },
@@ -3456,6 +3509,7 @@
       ]
     },
     "colors": ["pink"],
+    "related": ["100","90"],
     "description": "Foam roller and massage stick combo designed for deep tissue massage, muscle recovery, and pain relief.",
     "amazonLink": "https://www.amazon.in/dp/B0GW6F9GC7"
   },
@@ -3497,13 +3551,14 @@
       ]
     },
     "colors": ["black"],
+    "related": ["92","89"],
     "description": "Complete muscle recovery kit with foam roller, massage stick, and therapy balls for deep tissue massage and pain relief.",
     "amazonLink": "https://www.amazon.in/dp/B0GW5W8DRF"
   },
   {
     "id": "91",
     "name": "Foot Massage Roller for Plantar Fasciitis & Muscle Recovery (Foot Roller + 60cms Finger Roller)",
-    "price": 999,
+    "price": 1199,
     "originalPrice": 1999,
     "category": "bodylastics",
     "badge": "Combo",
@@ -3533,6 +3588,7 @@
       ]
     },
     "colors": [""],
+    "related": ["104","102"],
     "description": "Ergonomic foot massage roller designed for plantar fasciitis relief, reflexology, and full-body muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B0GL9D2XSY"
   },
@@ -3573,6 +3629,7 @@
       ]
     },
     "colors": ["black"],
+    "related": ["94","93"],
     "description": "Massage ball combo with lacrosse and spiky balls designed for trigger point therapy, muscle recovery, and pain relief.",
     "amazonLink": "https://www.amazon.in/dp/B0GW4ZKHLB"
   },
@@ -3618,6 +3675,7 @@
       ]
     },
     "colors": ["black"],
+    "related": ["94","92"],
     "description": "Peanut and lacrosse massage ball combo for trigger point therapy, deep tissue relief, myofascial release, and mobility recovery.",
     "amazonLink": "https://www.amazon.in/dp/B0FMNSPP8G"
   },
@@ -3658,6 +3716,7 @@
       ]
     },
     "colors": ["black"],
+    "related": ["93","92"],
     "description": "Massage ball combo set designed for deep tissue therapy, myofascial release, and full-body muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B0GW5JYX6Z"
   },
@@ -3699,6 +3758,7 @@
       ]
     },
     "colors": ["multi-color"],
+    "related": ["97","96"],
     "description": "Recovery kit with foot massage roller and 45cm foam roller for plantar fasciitis relief, muscle recovery, and deep tissue massage.",
     "amazonLink": "https://www.amazon.in/dp/B0GVDLQD14"
   },
@@ -3740,6 +3800,7 @@
       ]
     },
     "colors": ["multi-color"],
+    "related": ["95","97"],
     "description": "Recovery kit with foot massage roller and 45cm foam roller for plantar fasciitis relief, muscle recovery, and deep tissue massage.",
     "amazonLink": "https://www.amazon.in/dp/B0GVDQS52Q"
   },
@@ -3781,6 +3842,7 @@
       ]
     },
     "colors": ["multi-color"],
+    "related": ["96","95"],
     "description": "Recovery kit with foot massage roller and 60cm foam roller for plantar fasciitis relief, muscle recovery, and deep tissue massage.",
     "amazonLink": "https://www.amazon.in/dp/B0GVDLRGYN"
   },
@@ -3822,6 +3884,7 @@
       ]
     },
     "colors": ["green"],
+    "related": ["107","99"],
     "description": "Foot roller and lacrosse massage ball combo for plantar fasciitis relief, deep tissue massage, and muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B0GV9KVQJ6"
   },
@@ -3863,6 +3926,7 @@
       ]
     },
     "colors": ["multi-color"],
+    "related": ["98","107"],
     "description": "Foot massage roller and spike ball combo for plantar fasciitis relief, deep tissue massage, and total body recovery.",
     "amazonLink": "https://www.amazon.in/dp/B0GV9QD4J1"
   },
@@ -3905,6 +3969,7 @@
       ]
     },
     "colors": ["pink"],
+    "related": ["105","106"],
     "description": "Foot massage roller and massage stick combo for plantar fasciitis relief, deep tissue recovery, and full body muscle massage.",
     "amazonLink": "https://www.amazon.in/dp/B0GV9KR2J5"
   },
@@ -3951,6 +4016,7 @@
       ]
     },
     "colors": ["black"],
+    "related": ["76","71"],
     "description": "Complete recovery combo with deep tissue massage stick and 45 cm foam roller for pain relief, flexibility, and faster muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B0FSXCFQYN"
   },
@@ -3992,53 +4058,14 @@
       ]
     },
     "colors": ["multi-color"],
+    "related": ["91","104"],
     "description": "Recovery combo with ergonomic foot massage roller and 33 cm foam roller for plantar fasciitis relief, reflexology massage, and total body muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B0F4R68S94"
   },
-  {
-    "id": "103",
-    "name": "Foot Massage Roller & 45cms Foam Roller for Plantar Fasciitis Pain Relief",
-    "price": 899,
-    "originalPrice": 1999,
-    "category": "bodylastics",
-    "badge": "Combo",
-    "images": [
-      "https://m.media-amazon.com/images/I/61bd+XLwnDL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61KXlOxsI-L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61Lr7Tffe7L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71p3LgCZgnL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71XChlmHtfL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61il2YnL4BL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/614quJmQ4cL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61bd+XLwnDL._SL1500_.jpg"
-    ],
-    "details": {
-      "brand": "Bodylastics",
-      "material": "Ethylene Vinyl Acetate, TPR, PVC",
-      "size": "Foot Roller: 17 x 7 x 7 cm, Foam Roller: 45 cm",
-      "power_source": "Manual",
-      "style": "Multi-color Combo",
-      "included_components": ["1 Foot Massage Roller", "1 Foam Roller (45 cm)"],
-      "about": [
-        "Combo set includes foot massage roller and 45 cm foam roller for total body recovery",
-        "Designed for plantar fasciitis relief, foot pain reduction, and muscle recovery",
-        "Ergonomic foot roller shape fits the arch for targeted reflexology massage",
-        "Helps relieve tired feet, muscle spasms, tightness, and pressure points",
-        "Can be used on feet, hands, forearms, shoulders, back, hamstrings, and calves",
-        "Foam roller supports deep tissue massage, mobility work, and myofascial release",
-        "Improves circulation and helps reduce soreness after workouts",
-        "Made from safe, washable, durable, and non-toxic materials",
-        "Portable design suitable for home, office, gym, or travel use",
-        "Useful for pre-workout warm-up and post-workout recovery sessions"
-      ]
-    },
-    "colors": ["multi-color"],
-    "description": "Recovery combo with ergonomic foot massage roller and 45 cm foam roller for plantar fasciitis relief, reflexology massage, and total body muscle recovery.",
-    "amazonLink": "https://www.amazon.in/dp/B0CLLHFL1P"
-  },
+  
   {
     "id": "104",
-    "name": "Foot Massage Roller & 60cms Foam Roller for Plantar Fasciitis Pain Relief",
+    "name": "Foot Massage Roller & 45cms Foam Roller for Plantar Fasciitis Pain Relief",
     "price": 999,
     "originalPrice": 1999,
     "category": "bodylastics",
@@ -4056,10 +4083,10 @@
     "details": {
       "brand": "Bodylastics",
       "material": "Ethylene Vinyl Acetate, TPR, PVC",
-      "size": "Foot Roller: 17 x 7 x 7 cm, Foam Roller: 60 cm",
+      "size": "Foot Roller: 17 x 7 x 7 cm, Foam Roller: 45 cm",
       "power_source": "Manual",
       "style": "Multi-color Combo",
-      "included_components": ["1 Foot Massage Roller", "1 Foam Roller (60 cm)"],
+      "included_components": ["1 Foot Massage Roller", "1 Foam Roller (45 cm)"],
       "about": [
         "Combo set includes foot massage roller and 60 cm foam roller for total body recovery",
         "Designed for plantar fasciitis relief, foot pain reduction, and muscle recovery",
@@ -4074,8 +4101,9 @@
       ]
     },
     "colors": ["multi-color"],
+    "related": ["91","102"],
     "description": "Recovery combo with ergonomic foot massage roller and 60 cm foam roller for plantar fasciitis relief, reflexology massage, and total body muscle recovery.",
-    "amazonLink": "https://www.amazon.in/dp/B0GL9D2XSY"
+    "amazonLink": "https://www.amazon.in/dp/B0CLLHFL1P"
   },
   {
     "id": "105",
@@ -4115,6 +4143,7 @@
       ]
     },
     "colors": ["multi-color"],
+    "related": ["61","106"],
     "description": "Compact ergonomic foot massage roller for plantar fasciitis relief, reflexology stimulation, and deep tissue recovery at home or on the go.",
     "amazonLink": "https://www.amazon.in/dp/B09G2Q52N5"
   },
@@ -4159,6 +4188,7 @@
       ]
     },
     "colors": ["multi-color"],
+    "related": ["61","105"],
     "description": "Recovery combo with ergonomic foot massage roller and massage stick for plantar fasciitis relief, reflexology massage, and deep tissue muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B0F4R5SN39"
   },
@@ -4203,6 +4233,7 @@
       ]
     },
     "colors": ["multi-color"],
+    "related": ["61","75"],
     "description": "Recovery combo with ergonomic foot massage roller and lacrosse massage ball for plantar fasciitis relief, reflexology massage, and deep tissue muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B0F4R81WTS"
   },
@@ -4244,6 +4275,7 @@
       ]
     },
     "colors": ["multi-color"],
+    "related": ["61","80"],
     "description": "Recovery combo with ergonomic foot massage roller and spike massage ball for plantar fasciitis relief, reflexology massage, and deep tissue muscle recovery.",
     "amazonLink": "https://www.amazon.in/dp/B0CWQ8BXVC"
   }

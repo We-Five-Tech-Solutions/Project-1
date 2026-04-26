@@ -3,7 +3,6 @@ import { useParams } from "react-router-dom";
 import { useProduct } from "@/hooks/useProducts";
 
 import ProductGallery from "@/components/product/ProductGallery";
-import SizeSelector from "@/components/product/SizeSelector";
 import ColorSelector from "@/components/product/ColorSelector";
 import QuantityInput from "@/components/product/QuantityInput";
 import RelatedProducts from "@/components/product/RelatedProducts";

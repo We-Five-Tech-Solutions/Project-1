@@ -1,6 +1,6 @@
 import StaticPageLayout from "@/components/ui/StaticPageLayout";
 import Section from "@/components/ui/Section";
-import InfoGrid from "@/components/ui/InfoGrid";
+
 
 export default function AboutPage() {
   return (

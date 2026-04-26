@@ -4,7 +4,6 @@ import { useProducts } from "@/hooks/useProducts";
 import { useFilteredProducts } from "@/hooks/useFilter";
 import FilterSidebar from "@/components/product/FilterSidebar";
 import ProductGrid from "@/components/product/ProductGrid";
-import SortDropdown from "@/components/product/SortDropdown";
 import Breadcrumb from "@/components/ui/Breadcrumb";
 import Spinner from "@/components/ui/Spinner";
 
