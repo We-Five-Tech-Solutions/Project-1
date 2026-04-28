@@ -1216,10 +1216,82 @@
     "isTrending": false
   },
   {
-    "id": "32",
-    "name": "Adjustable Ankle & Wrist Weights 4 lb Pair (2 lb Each)",
-    "price": 1999,
-    "originalPrice": 4999,
+    "id": "44",
+    "name": "Yoga Mat 6mm with Carry Bag",
+    "price": 1299,
+    "originalPrice": 2999,
+    "category": "bodylastics",
+    "badge": "Best seller",
+    "images": [
+      "https://m.media-amazon.com/images/I/71EwiCsQeTL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61W-HshvuAL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719MUDjW0cL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71vhHoiCE0L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81bRzrhEL-L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71GROrBR5OL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61ekT4ubd9L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61o0KGu15KL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "TPE",
+      "size": "6mm",
+      "power_source": "Manual",
+      "about": [
+        "Anti-slip surface",
+        "Eco-friendly material",
+        "Comfortable cushioning",
+        "Lightweight with carry bag",
+        "Ideal for yoga and workouts"
+      ]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "related": ["43"],
+    "description": "Durable and anti-slip yoga mat for all types of workouts.",
+    "amazonLink": "https://www.amazon.in/dp/B09G2VPH25"
+  },
+   {
+    "id": "66",
+    "name": "EVA Yoga Block for Balance & Flexibility (9x6x3 inches)",
+    "price": 299,
+    "originalPrice": 599,
+    "category": "bodylastics",
+    "badge": "",
+    "images": [
+      "https://m.media-amazon.com/images/I/51N+AZyRFkL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61KB7tDnMVL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/51Jv3XelkNL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/61xXmB3jkXL._SL1400_.jpg",
+      "https://m.media-amazon.com/images/I/71ByjYehMpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61DvM8M8BgS._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/51LHM785qXS._SL1181_.jpg",
+      "https://m.media-amazon.com/images/I/71U5J5FLZfS._SL1303_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "EVA Foam",
+      "size": "9 x 6 x 3 inches",
+      "power_source": "Manual",
+      "about": [
+        "High-density EVA foam provides strong and durable support",
+        "Non-slip surface with rounded edges for comfortable grip",
+        "Helps improve balance, flexibility, and posture alignment",
+        "Enhances stretching and deepens yoga poses",
+        "Moisture-proof and easy to clean surface",
+        "Suitable for yoga, workouts, and strength training",
+        "Lightweight and portable for home or gym use"
+      ]
+    },
+    "colors": ["blue", "brown"],
+    "related": ["68","67"],
+    "description": "High-density yoga block designed to improve balance, flexibility, and support during yoga and workout sessions.",
+    "amazonLink": "https://www.amazon.in/dp/B09515GYDH"
+  },
+  {
+    "id": "33",
+    "name": "Adjustable Ankle & Wrist Weights 2 lb Pair (1 lb Each)",
+    "price": 999,
+    "originalPrice": 2999,
     "category": "bodylastics",
     "badge": "Deal",
     "images": [
@@ -1232,6 +1304,38 @@
       "https://m.media-amazon.com/images/I/71FSqUl84BL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71+CFBkB8fL._SL1500_.jpg",
       "https://m.media-amazon.com/images/I/71Ow0g3A+IL._SL1500_.jpg"
+    ],
+    "details": {
+      "brand": "Bodylastics",
+      "material": "Silicone",
+      "colour": "N/A",
+      "size": "2 lb Pair",
+      "power_source": "Manual",
+      "about": ["Lightweight", "Sweat-resistant", "Beginner friendly"]
+    },
+    "colors": ["yellow", "red", "blue"],
+    "related": ["32"],
+    "description": "Lightweight adjustable ankle and wrist weights.",
+    "amazonLink": "https://www.amazon.in/dp/B0GSNC73YF"
+  },
+  {
+    "id": "32",
+    "name": "Adjustable Ankle & Wrist Weights 4 lb Pair (2 lb Each)",
+    "price": 1999,
+    "originalPrice": 4999,
+    "category": "bodylastics",
+    "badge": "Deal",
+    "images": [
+    "https://m.media-amazon.com/images/I/71wPQclPbsL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71k68s2I4yL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/710xcWGfg0L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61Vjv1bJznL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/711NNEYMaeL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/61jxBAll3VL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81fkYBaTnZL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71sUiXTTAXL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71sUiXTTAXL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71XKVa8pxzL._SL1500_.jpg"
     ],
     "details": {
       "brand": "Bodylastics",
@@ -1249,39 +1353,45 @@
     "related": ["33"],
     "sizes": [],
     "description": "Adjustable ankle and wrist weights for workouts and physiotherapy.",
-    "amazonLink": "https://www.amazon.in/dp/B0GSNN9ZCJ"
+    "amazonLink": "https://www.amazon.in/dp/B0GSNCTK19"
   },
   {
-    "id": "33",
-    "name": "Adjustable Ankle & Wrist Weights 2 lb Pair (1 lb Each)",
-    "price": 999,
-    "originalPrice": 2999,
+    "id": "132",
+    "name": "Adjustable Ankle & Wrist Weights 2 lb & 4 lb Pair Combo",
+    "price": 2899,
+    "originalPrice": 9999,
     "category": "bodylastics",
-    "badge": "Deal",
+    "badge": "Combo",
     "images": [
-      "https://m.media-amazon.com/images/I/617JYe6-lIL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71J+eqSrEQL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71MK2wD77+L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71lrya5hRDL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/619mfq4xoHL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/717mPG+H8jL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71aumZZu7LL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/81cB1q8lQLL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71EhyMBU5nL._SL1500_.jpg"
+      "https://m.media-amazon.com/images/I/61X68Z1OCRL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61Md6z0SgpL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71RzT5DTPiL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71PUKZTloyL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71j2F7l+kzL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61oUYIulHDL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/61THfB6-KKL._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/719oT90yS3L._SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81ZC0PaUI5L._SL1500_.jpg"
     ],
     "details": {
       "brand": "Bodylastics",
       "material": "Silicone",
-      "colour": "N/A",
-      "size": "2 lb Pair",
+      "colour": "peach",
+      "size": "2 lb pair & 4 lb pair - Combo",
       "power_source": "Manual",
-      "about": ["Lightweight", "Sweat-resistant", "Beginner friendly"]
+      "about": [
+        "Adjustable ankle and wrist weights",
+        "Sweat-resistant silicone",
+        "Suitable for cardio, yoga and strength training"
+      ]
     },
     "colors": ["yellow", "red", "blue"],
-    "related": ["32"],
-    "description": "Lightweight adjustable ankle and wrist weights.",
-    "amazonLink": "https://www.amazon.in/dp/B0GSNC73YF"
+    "related": ["33","32"],
+    "sizes": [],
+    "description": "Adjustable ankle and wrist weights for workouts and physiotherapy.",
+    "amazonLink": "https://www.amazon.in/dp/B0GXBDQHKK"
   },
+  
   {
     "id": "34",
     "name": "60cms Foam Roller for Deep Tissue Massage",
@@ -1655,41 +1765,7 @@
     "description": "Durable and anti-slip yoga mat for all types of workouts.",
     "amazonLink": "https://www.amazon.in/dp/B0CVXFTKVH"
   },
-  {
-    "id": "44",
-    "name": "Yoga Mat 6mm with Carry Bag",
-    "price": 1299,
-    "originalPrice": 2999,
-    "category": "bodylastics",
-    "badge": "Best seller",
-    "images": [
-      "https://m.media-amazon.com/images/I/81eB0r8koXL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71hT-kb2E2L._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71Gh7Jd8pgL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/71lJSHYUdNL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/81J--Z+9XuL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61LllCDw2VL._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/61gT4CEerPL._SL1200_.jpg",
-      "https://m.media-amazon.com/images/I/714AcLYvPHL._SL1500_.jpg"
-    ],
-    "details": {
-      "brand": "Bodylastics",
-      "material": "TPE",
-      "size": "6mm",
-      "power_source": "Manual",
-      "about": [
-        "Anti-slip surface",
-        "Eco-friendly material",
-        "Comfortable cushioning",
-        "Lightweight with carry bag",
-        "Ideal for yoga and workouts"
-      ]
-    },
-    "colors": ["yellow", "red", "blue"],
-    "related": ["43"],
-    "description": "Durable and anti-slip yoga mat for all types of workouts.",
-    "amazonLink": "https://www.amazon.in/dp/B09GJKYTQZ"
-  },
+  
   {
     "id": "45",
     "name": "Door Anchor for Resistance Bands",
@@ -2557,43 +2633,7 @@
     "description": "30cm EVA foam roller designed for deep tissue massage, muscle recovery, and improved flexibility.",
     "amazonLink": "https://www.amazon.in/dp/B08K9B12Z8"
   },
-  {
-    "id": "66",
-    "name": "EVA Yoga Block for Balance & Flexibility (9x6x3 inches)",
-    "price": 299,
-    "originalPrice": 599,
-    "category": "bodylastics",
-    "badge": "",
-    "images": [
-      "https://m.media-amazon.com/images/I/61ZR+O56xyL._SL1400_.jpg",
-      "https://m.media-amazon.com/images/I/61bc6P3MDzL._SL1400_.jpg",
-      "https://m.media-amazon.com/images/I/61zSnRsfllL._SL1400_.jpg",
-      "https://m.media-amazon.com/images/I/61gyOb22n4L._SL1400_.jpg",
-      "https://m.media-amazon.com/images/I/61DvM8M8BgS._SL1500_.jpg",
-      "https://m.media-amazon.com/images/I/51LHM785qXS._SL1181_.jpg",
-      "https://m.media-amazon.com/images/I/71U5J5FLZfS._SL1303_.jpg",
-      "https://m.media-amazon.com/images/I/71ByjYehMpL._SL1500_.jpg"
-    ],
-    "details": {
-      "brand": "Bodylastics",
-      "material": "EVA Foam",
-      "size": "9 x 6 x 3 inches",
-      "power_source": "Manual",
-      "about": [
-        "High-density EVA foam provides strong and durable support",
-        "Non-slip surface with rounded edges for comfortable grip",
-        "Helps improve balance, flexibility, and posture alignment",
-        "Enhances stretching and deepens yoga poses",
-        "Moisture-proof and easy to clean surface",
-        "Suitable for yoga, workouts, and strength training",
-        "Lightweight and portable for home or gym use"
-      ]
-    },
-    "colors": ["blue", "brown"],
-    "related": ["68","67"],
-    "description": "High-density yoga block designed to improve balance, flexibility, and support during yoga and workout sessions.",
-    "amazonLink": "https://www.amazon.in/dp/B09516WRNN"
-  },
+ 
   {
     "id": "67",
     "name": "EVA Yoga Blocks Set of 2 for Balance & Flexibility (9x6x3 inches)",

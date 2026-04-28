@@ -12,7 +12,7 @@ const fetchProducts = async (slug) => {
       : productsData.filter((p) => p.category === slug);
 
   // Default sort: low price to high price
-  products.sort((a, b) => Number(a.price) - Number(b.price));
+  //products.sort((a, b) => Number(a.price) - Number(b.price));
 
   return products;
 };

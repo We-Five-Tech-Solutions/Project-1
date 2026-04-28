@@ -21,7 +21,7 @@ export function filterProducts(products, filters) {
       )
   );
 
-  // sorting happens BEFORE pagination/render
+  //sorting happens BEFORE pagination/render
   filtered.sort((a, b) => {
     if (filters.sortBy === "price_desc") {
       return Number(b.price) - Number(a.price);
