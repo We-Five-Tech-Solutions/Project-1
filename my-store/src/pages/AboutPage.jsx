@@ -11,7 +11,7 @@ export default function AboutPage() {
     [
       "⚡",
       "Fitlastics",
-      "Mobility and resistance products for everyday movement.",
+      "Mobility and resistance products for evnpm eryday movement.",
     ],
     [
       "🐾",
@@ -109,40 +109,40 @@ export default function AboutPage() {
       </section>
 
       {/* Philosophy */}
-      <section className="max-w-7xl mx-auto px-5 sm:px-6 md:px-8 py-14 sm:py-16 md:py-24">
-        <div className="text-center max-w-3xl mx-auto">
-          <p className="uppercase text-[10px] sm:text-xs tracking-[0.28em] sm:tracking-[0.35em] text-gray-500 mb-4">
-            Our Philosophy
-          </p>
 
-          <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight">
-            Designed for Real Life
-          </h2>
+      <section className="max-w-6xl mx-auto px-4 sm:px-6 py-10 sm:py-14">
+  <div className="text-center max-w-2xl mx-auto">
+    <p className="uppercase text-[10px] tracking-[0.25em] text-gray-500 mb-3">
+      Our Philosophy
+    </p>
 
-          <p className="mt-5 sm:mt-6 text-sm sm:text-base text-gray-600 leading-relaxed px-1 sm:px-0">
-            Good products should solve real needs, feel intuitive in use, and
-            remain dependable over time. That belief shapes every material,
-            feature, and finish across our portfolio.
-          </p>
+    <h2 className="text-2xl sm:text-3xl md:text-4xl font-bold tracking-tight">
+      Designed for Real Life
+    </h2>
+
+    <p className="mt-4 text-sm text-gray-600 leading-relaxed">
+      Good products should solve real needs, feel intuitive in use, and
+      remain dependable over time.
+    </p>
+  </div>
+
+  <div className="mt-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+    {philosophy.map((item, i) => (
+      <div
+        key={i}
+        className="rounded-2xl bg-black text-white p-5 min-h-[90px] flex flex-col justify-between"
+      >
+        <div className="text-[11px] text-gray-400">
+          0{i + 1}
         </div>
 
-        <div className="mt-10 sm:mt-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-6 md:gap-8">
-          {philosophy.map((item, i) => (
-            <div
-              key={i}
-              className="rounded-2xl sm:rounded-3xl bg-black text-white p-6 sm:p-8 min-h-[180px] sm:min-h-[220px] flex flex-col justify-between"
-            >
-              <div className="text-xs sm:text-sm text-gray-400">
-                0{i + 1}
-              </div>
-
-              <h3 className="text-xl sm:text-2xl font-semibold leading-snug">
-                {item}
-              </h3>
-            </div>
-          ))}
-        </div>
-      </section>
+        <h3 className="text-lg sm:text-xl font-semibold leading-snug">
+          {item}
+        </h3>
+      </div>
+    ))}
+  </div>
+</section>
 
       {/* CTA */}
       <section className="bg-white text-black border-t border-gray-100">
